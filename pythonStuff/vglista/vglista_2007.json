@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "3": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "4": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "5": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "6": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "7": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "8": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "9": {
+            "Artist": "Beyoncé",
+            "Song": "Irreplaceable"
+        },
+        "10": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        },
+        "11": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "12": {
+            "Artist": "Vamp [NO]",
+            "Song": "Tir n'a noir"
+        },
+        "13": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "14": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "15": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        },
+        "16": {
+            "Artist": "CC Cowboys",
+            "Song": "Kom igen"
+        },
+        "17": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "18": {
+            "Artist": "Basshunter",
+            "Song": "Jingle Bells"
+        },
+        "19": {
+            "Artist": "My Chemical Romance",
+            "Song": "Welcome To The Black Parade"
+        },
+        "20": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "2": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "3": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "4": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "5": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "6": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "7": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Irreplaceable"
+        },
+        "9": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        },
+        "10": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "11": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "12": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "13": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "14": {
+            "Artist": "Vamp [NO]",
+            "Song": "Tir n'a noir"
+        },
+        "15": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        },
+        "16": {
+            "Artist": "Bob Sinclar & Cutee-B feat. Dollarman & Big Ali & Makedah",
+            "Song": "Rock This Party (Everybody Dance Now)"
+        },
+        "17": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "18": {
+            "Artist": "Akon feat. Snoop Dogg",
+            "Song": "I Wanna Love You"
+        },
+        "19": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "20": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "3": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "4": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "5": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "6": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "7": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "8": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "9": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        },
+        "10": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "11": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "12": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "13": {
+            "Artist": "Beyoncé",
+            "Song": "Irreplaceable"
+        },
+        "14": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        },
+        "15": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "16": {
+            "Artist": "Vamp [NO]",
+            "Song": "Tir n'a noir"
+        },
+        "17": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "18": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "19": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "20": {
+            "Artist": "Akon feat. Snoop Dogg",
+            "Song": "I Wanna Love You"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "2": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "4": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "5": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "6": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "7": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "8": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "9": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        },
+        "10": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "11": {
+            "Artist": "Beyoncé",
+            "Song": "Irreplaceable"
+        },
+        "12": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "13": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "14": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "15": {
+            "Artist": "Susanne Sundfør",
+            "Song": "Walls"
+        },
+        "16": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "17": {
+            "Artist": "Christel Alsos",
+            "Song": "Come On"
+        },
+        "18": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "19": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        },
+        "20": {
+            "Artist": "Vamp [NO]",
+            "Song": "Tir n'a noir"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "2": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "4": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "5": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "6": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "7": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "8": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "9": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "10": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "11": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "12": {
+            "Artist": "Christel Alsos",
+            "Song": "Come On"
+        },
+        "13": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Irreplaceable"
+        },
+        "15": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "16": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        },
+        "17": {
+            "Artist": "Susanne Sundfør",
+            "Song": "Walls"
+        },
+        "18": {
+            "Artist": "Scissor Sisters",
+            "Song": "Land Of A Thousand Words"
+        },
+        "19": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "20": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "2": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "3": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "4": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "5": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "6": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "7": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "8": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "10": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "11": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "12": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "13": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "14": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "15": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "16": {
+            "Artist": "Akon feat. Snoop Dogg",
+            "Song": "I Wanna Love You"
+        },
+        "17": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "18": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "19": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        },
+        "20": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "2": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "4": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "5": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "6": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "7": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "8": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "9": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "10": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "11": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "12": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "13": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "14": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "15": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "16": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "17": {
+            "Artist": "Susanne Sundfør",
+            "Song": "Walls"
+        },
+        "18": {
+            "Artist": "DJ Taky",
+            "Song": "Trance Dream"
+        },
+        "19": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "20": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "2": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "3": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "4": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "5": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "6": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "7": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "8": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "10": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "11": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "12": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "13": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "14": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "15": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "16": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "17": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "18": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "19": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "20": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "2": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "3": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "4": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "5": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "6": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "7": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "8": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "10": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "11": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "12": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "13": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "14": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "15": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "16": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "17": {
+            "Artist": "Snow Patrol",
+            "Song": "Chasing Cars"
+        },
+        "18": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "19": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "20": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "2": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "3": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "4": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "5": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "6": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "7": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "8": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "10": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "11": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "12": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "13": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "14": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "15": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "16": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Floden"
+        },
+        "17": {
+            "Artist": "Meat Loaf feat. Marion Raven",
+            "Song": "It's All Coming Back To Me Now"
+        },
+        "18": {
+            "Artist": "Justin Timberlake",
+            "Song": "SexyBack"
+        },
+        "19": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "20": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "2": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "4": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "5": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "6": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "7": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "8": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "9": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "10": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "11": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "12": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "13": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "14": {
+            "Artist": "Kurt Nilsen, Espen Lind, Askil Holm & Alejandro Fuentes",
+            "Song": "Hallelujah"
+        },
+        "15": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "16": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "17": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "18": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Pay Me My Money Down"
+        },
+        "19": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Heim te mor"
+        },
+        "20": {
+            "Artist": "Basshunter",
+            "Song": "Vi sitter i ventrilo och spelar dota"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "4": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "5": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "6": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "7": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "8": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "9": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "10": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "11": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "12": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "13": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "14": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "15": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "16": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "17": {
+            "Artist": "My Chemical Romance",
+            "Song": "Famous Last Words"
+        },
+        "18": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Don't Pass Me By"
+        },
+        "19": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "20": {
+            "Artist": "Kaiser Chiefs",
+            "Song": "Ruby"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "2": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "4": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "5": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "6": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "7": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "8": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "9": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "10": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "11": {
+            "Artist": "My Chemical Romance",
+            "Song": "Famous Last Words"
+        },
+        "12": {
+            "Artist": "Susanne Sundfør",
+            "Song": "Walls"
+        },
+        "13": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "14": {
+            "Artist": "Scissor Sisters",
+            "Song": "She's My Man"
+        },
+        "15": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "16": {
+            "Artist": "Kaiser Chiefs",
+            "Song": "Ruby"
+        },
+        "17": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "18": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "19": {
+            "Artist": "Bigbang",
+            "Song": "I Don't Wanna"
+        },
+        "20": {
+            "Artist": "Akon feat. Snoop Dogg",
+            "Song": "I Wanna Love You"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "2": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "3": {
+            "Artist": "Susanne Sundfør",
+            "Song": "Walls"
+        },
+        "4": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "5": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "6": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "7": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "8": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "9": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "10": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "11": {
+            "Artist": "My Chemical Romance",
+            "Song": "Famous Last Words"
+        },
+        "12": {
+            "Artist": "Bigbang",
+            "Song": "I Don't Wanna"
+        },
+        "13": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "14": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Into The Sea"
+        },
+        "15": {
+            "Artist": "Scissor Sisters",
+            "Song": "She's My Man"
+        },
+        "16": {
+            "Artist": "Kaiser Chiefs",
+            "Song": "Ruby"
+        },
+        "17": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "18": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "19": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "20": {
+            "Artist": "Akon feat. Snoop Dogg",
+            "Song": "I Wanna Love You"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "4": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "5": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "6": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "7": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "8": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "9": {
+            "Artist": "Bigbang",
+            "Song": "I Don't Wanna"
+        },
+        "10": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "11": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "12": {
+            "Artist": "Susanne Sundfør",
+            "Song": "Walls"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "14": {
+            "Artist": "My Chemical Romance",
+            "Song": "Famous Last Words"
+        },
+        "15": {
+            "Artist": "Elton John",
+            "Song": "Your Song"
+        },
+        "16": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Don't Pass Me By"
+        },
+        "17": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "18": {
+            "Artist": "Kaiser Chiefs",
+            "Song": "Ruby"
+        },
+        "19": {
+            "Artist": "Mika",
+            "Song": "Lollipop"
+        },
+        "20": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "4": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "5": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "6": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "7": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "8": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "9": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "10": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "11": {
+            "Artist": "Elton John",
+            "Song": "Your Song"
+        },
+        "12": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "13": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "14": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "15": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "16": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "17": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "18": {
+            "Artist": "Bigbang",
+            "Song": "I Don't Wanna"
+        },
+        "19": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "20": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "3": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "4": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "5": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "6": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "7": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "8": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "9": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "10": {
+            "Artist": "Elton John",
+            "Song": "Your Song"
+        },
+        "11": {
+            "Artist": "Bigbang",
+            "Song": "I Don't Wanna"
+        },
+        "12": {
+            "Artist": "Amy Winehouse feat. Ghostface Killah",
+            "Song": "You Know I'm No Good"
+        },
+        "13": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "14": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "15": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "16": {
+            "Artist": "Sivert Høyem & The Volunteers",
+            "Song": "Don't Pass Me By"
+        },
+        "17": {
+            "Artist": "Stefan Nilsson & Helen Sjxf6holm",
+            "Song": "Gabriellas sång"
+        },
+        "18": {
+            "Artist": "My Chemical Romance",
+            "Song": "Famous Last Words"
+        },
+        "19": {
+            "Artist": "Justin Timberlake",
+            "Song": "What Goes Around... Comes Around"
+        },
+        "20": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "3": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "4": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "5": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "6": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "7": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "8": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "9": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "10": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "11": {
+            "Artist": "U2",
+            "Song": "Window In The Skies"
+        },
+        "12": {
+            "Artist": "Fergie feat. will.i.am",
+            "Song": "Fergalicious"
+        },
+        "13": {
+            "Artist": "Eminem, 50 Cent & Lloyd Banks introd. Cashis",
+            "Song": "You Don't Know"
+        },
+        "14": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "15": {
+            "Artist": "My Chemical Romance",
+            "Song": "Famous Last Words"
+        },
+        "16": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "17": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "18": {
+            "Artist": "Elton John",
+            "Song": "Your Song"
+        },
+        "19": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "20": {
+            "Artist": "Bigbang",
+            "Song": "I Don't Wanna"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "4": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "5": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "6": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "7": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "8": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "9": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "10": {
+            "Artist": "Travis",
+            "Song": "Closer"
+        },
+        "11": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "12": {
+            "Artist": "Elton John",
+            "Song": "Your Song"
+        },
+        "13": {
+            "Artist": "Mira Craig",
+            "Song": "Leo"
+        },
+        "14": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "15": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "16": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "17": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "18": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "19": {
+            "Artist": "Stefan Nilsson & Helen Sjxf6holm",
+            "Song": "Gabriellas sång"
+        },
+        "20": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "4": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "5": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "6": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "7": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "8": {
+            "Artist": "Travis",
+            "Song": "Closer"
+        },
+        "9": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "10": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "11": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "12": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "13": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "14": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "15": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "16": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        },
+        "17": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "18": {
+            "Artist": "Stefan Nilsson & Helen Sjxf6holm",
+            "Song": "Gabriellas sång"
+        },
+        "19": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        },
+        "20": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "3": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "4": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "5": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "6": {
+            "Artist": "Stefan Nilsson & Helen Sjxf6holm",
+            "Song": "Gabriellas sång"
+        },
+        "7": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "8": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "9": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "10": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "11": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "12": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "13": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "14": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "15": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "16": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "17": {
+            "Artist": "Mira Craig",
+            "Song": "Leo"
+        },
+        "18": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "19": {
+            "Artist": "Scissor Sisters",
+            "Song": "I Don't Feel Like Dancin'"
+        },
+        "20": {
+            "Artist": "Gwen Stefani",
+            "Song": "Wind It Up"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "2": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "3": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "4": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "5": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "6": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "7": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "8": {
+            "Artist": "Lene Alexandra",
+            "Song": "My Boobs Are OK"
+        },
+        "9": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "10": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "11": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "12": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "13": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "14": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "15": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "16": {
+            "Artist": "Albino Superstars",
+            "Song": "Popular"
+        },
+        "17": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "18": {
+            "Artist": "Mira Craig",
+            "Song": "Leo"
+        },
+        "19": {
+            "Artist": "Travis",
+            "Song": "Closer"
+        },
+        "20": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "4": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "5": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "6": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "7": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "8": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "9": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "10": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "11": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "12": {
+            "Artist": "Amy Winehouse",
+            "Song": "Rehab"
+        },
+        "13": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "14": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "15": {
+            "Artist": "William Hut",
+            "Song": "Take It Easy"
+        },
+        "16": {
+            "Artist": "Albino Superstars",
+            "Song": "Popular"
+        },
+        "17": {
+            "Artist": "Chris Cornell",
+            "Song": "You Know My Name"
+        },
+        "18": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Fever"
+        },
+        "19": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "20": {
+            "Artist": "Stefan Nilsson & Helen Sjxf6holm",
+            "Song": "Gabriellas sång"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "3": {
+            "Artist": "Gyllene Tider",
+            "Song": "Sommartider"
+        },
+        "4": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "5": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "6": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "7": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "8": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "9": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "10": {
+            "Artist": "Grandiosa",
+            "Song": "Full pakke"
+        },
+        "11": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "12": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "14": {
+            "Artist": "CC Cowboys",
+            "Song": "Kom igen"
+        },
+        "15": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "16": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "17": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "18": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "19": {
+            "Artist": "Amerie",
+            "Song": "Take Control"
+        },
+        "20": {
+            "Artist": "Are og A-Laget",
+            "Song": "Få sjå på"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "3": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "4": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "5": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "6": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "7": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "8": {
+            "Artist": "Gyllene Tider",
+            "Song": "Sommartider"
+        },
+        "9": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "10": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "11": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "12": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "14": {
+            "Artist": "Travis",
+            "Song": "Closer"
+        },
+        "15": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "16": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "17": {
+            "Artist": "xc5ge Aleksandersen",
+            "Song": "Sommernatt"
+        },
+        "18": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        },
+        "19": {
+            "Artist": "Gwen Stefani feat. Akon",
+            "Song": "The Sweet Escape"
+        },
+        "20": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "4": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "5": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "6": {
+            "Artist": "Gyllene Tider",
+            "Song": "Sommartider"
+        },
+        "7": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "8": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "9": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "10": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "11": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "12": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "14": {
+            "Artist": "xc5ge Aleksandersen",
+            "Song": "Sommernatt"
+        },
+        "15": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Do You Know? (The Ping Pong Song)"
+        },
+        "16": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "17": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "18": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "19": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        },
+        "20": {
+            "Artist": "Akon feat. Eminem",
+            "Song": "Smack That"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "2": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "4": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "5": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "6": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "7": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "8": {
+            "Artist": "Gyllene Tider",
+            "Song": "Sommartider"
+        },
+        "9": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "10": {
+            "Artist": "The Fray",
+            "Song": "How To Save A Life"
+        },
+        "11": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "12": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "13": {
+            "Artist": "Lovebugs feat. Lene Marlin",
+            "Song": "Avalon"
+        },
+        "14": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "15": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "16": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "17": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "18": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "19": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "20": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "2": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "4": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "5": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "6": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "7": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "8": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "9": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "10": {
+            "Artist": "Gyllene Tider",
+            "Song": "Sommartider"
+        },
+        "11": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "12": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "13": {
+            "Artist": "The Fray",
+            "Song": "How To Save A Life"
+        },
+        "14": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "15": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "16": {
+            "Artist": "Alphaville",
+            "Song": "Forever Young"
+        },
+        "17": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "18": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "19": {
+            "Artist": "Amy Winehouse feat. Ghostface Killah",
+            "Song": "You Know I'm No Good"
+        },
+        "20": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "3": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "4": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "5": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "6": {
+            "Artist": "Metallica",
+            "Song": "Sad But True"
+        },
+        "7": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "8": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "9": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "10": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "Enter Sandman"
+        },
+        "12": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "13": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "14": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "15": {
+            "Artist": "Gyllene Tider",
+            "Song": "Sommartider"
+        },
+        "16": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "17": {
+            "Artist": "Nelly Furtado",
+            "Song": "All Good Things (Come To An End)"
+        },
+        "18": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "19": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        },
+        "20": {
+            "Artist": "The Fray",
+            "Song": "How To Save A Life"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "3": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "4": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "5": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "6": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "7": {
+            "Artist": "Metallica",
+            "Song": "Sad But True"
+        },
+        "8": {
+            "Artist": "Metallica",
+            "Song": "Enter Sandman"
+        },
+        "9": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "10": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "12": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "13": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "14": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "15": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "16": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "17": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "18": {
+            "Artist": "Mika",
+            "Song": "Grace Kelly"
+        },
+        "19": {
+            "Artist": "The Fray",
+            "Song": "How To Save A Life"
+        },
+        "20": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "2": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "4": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "5": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "6": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "7": {
+            "Artist": "Metallica",
+            "Song": "Sad But True"
+        },
+        "8": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "9": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "Enter Sandman"
+        },
+        "11": {
+            "Artist": "Albino Superstars",
+            "Song": "Popular"
+        },
+        "12": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "13": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "14": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "15": {
+            "Artist": "Nelly Furtado",
+            "Song": "Say It Right"
+        },
+        "16": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "17": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "18": {
+            "Artist": "Danny Elfman, Sally & Susan Stevens",
+            "Song": "The Simpsons"
+        },
+        "19": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "20": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "2": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "3": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "4": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "5": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "6": {
+            "Artist": "Metallica",
+            "Song": "Sad But True"
+        },
+        "7": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "8": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "9": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "Enter Sandman"
+        },
+        "11": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "12": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "13": {
+            "Artist": "Danny Elfman, Sally & Susan Stevens",
+            "Song": "The Simpsons"
+        },
+        "14": {
+            "Artist": "Hans Zimmer",
+            "Song": "Spider Pig"
+        },
+        "15": {
+            "Artist": "Maroon 5",
+            "Song": "Makes Me Wonder"
+        },
+        "16": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        },
+        "17": {
+            "Artist": "Manic Street Preachers",
+            "Song": "Your Love Alone Is Not Enough"
+        },
+        "18": {
+            "Artist": "Pink Floyd",
+            "Song": "Wish You Were Here"
+        },
+        "19": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "20": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "2": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "3": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "4": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "5": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "6": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "7": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "8": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        },
+        "9": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "10": {
+            "Artist": "Beyoncé & Shakira",
+            "Song": "Beautiful Liar"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "Sad But True"
+        },
+        "12": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "13": {
+            "Artist": "Raga Rockers",
+            "Song": "Aldri mer"
+        },
+        "14": {
+            "Artist": "Metallica",
+            "Song": "Enter Sandman"
+        },
+        "15": {
+            "Artist": "Bare Egil Band",
+            "Song": "Politimester Egil"
+        },
+        "16": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "17": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        },
+        "18": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "19": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "20": {
+            "Artist": "Linkin Park",
+            "Song": "What I've Done"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "2": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "3": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "4": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "5": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "6": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "7": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "8": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "9": {
+            "Artist": "Raga Rockers",
+            "Song": "Aldri mer"
+        },
+        "10": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "12": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "13": {
+            "Artist": "Bare Egil Band",
+            "Song": "Politimester Egil"
+        },
+        "14": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "16": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "17": {
+            "Artist": "Hans Zimmer",
+            "Song": "Spider Pig"
+        },
+        "18": {
+            "Artist": "Mika",
+            "Song": "Big Girl (You Are Beautiful)"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Shut Up And Drive"
+        },
+        "20": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Tomorrow Only Knows"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "2": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "3": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "4": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "5": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "6": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "7": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "8": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "9": {
+            "Artist": "Raga Rockers",
+            "Song": "Aldri mer"
+        },
+        "10": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "11": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "12": {
+            "Artist": "Green Day",
+            "Song": "Working Class Hero"
+        },
+        "13": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "14": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "15": {
+            "Artist": "Hans Zimmer",
+            "Song": "Spider Pig"
+        },
+        "16": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "17": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "18": {
+            "Artist": "Rihanna",
+            "Song": "Shut Up And Drive"
+        },
+        "19": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "20": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "2": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "3": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "4": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "5": {
+            "Artist": "Raga Rockers",
+            "Song": "Aldri mer"
+        },
+        "6": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "7": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "8": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "9": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "10": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "11": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "12": {
+            "Artist": "Maria Arredondo",
+            "Song": "Brief And Beautiful"
+        },
+        "13": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "14": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "15": {
+            "Artist": "Hans Zimmer",
+            "Song": "Spider Pig"
+        },
+        "16": {
+            "Artist": "Rihanna",
+            "Song": "Shut Up And Drive"
+        },
+        "17": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "18": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "19": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "20": {
+            "Artist": "Mika",
+            "Song": "Big Girl (You Are Beautiful)"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "2": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "3": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "4": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "5": {
+            "Artist": "Maria Arredondo",
+            "Song": "Brief And Beautiful"
+        },
+        "6": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "7": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "8": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "9": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "10": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "11": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "12": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        },
+        "13": {
+            "Artist": "Rihanna",
+            "Song": "Shut Up And Drive"
+        },
+        "14": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "15": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "16": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "17": {
+            "Artist": "Saybia",
+            "Song": "Angel"
+        },
+        "18": {
+            "Artist": "Gwen Stefani",
+            "Song": "4 In The Morning"
+        },
+        "19": {
+            "Artist": "Raga Rockers",
+            "Song": "Aldri mer"
+        },
+        "20": {
+            "Artist": "Mika",
+            "Song": "Big Girl (You Are Beautiful)"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "2": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "3": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "4": {
+            "Artist": "Maria Arredondo",
+            "Song": "Brief And Beautiful"
+        },
+        "5": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "6": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "7": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "8": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "9": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "10": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "11": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "12": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "13": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "14": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "15": {
+            "Artist": "Westlife",
+            "Song": "You Raise Me Up"
+        },
+        "16": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "17": {
+            "Artist": "Gwen Stefani",
+            "Song": "Now That You Got It"
+        },
+        "18": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Shut Up And Drive"
+        },
+        "20": {
+            "Artist": "Postgirobygget",
+            "Song": "Tidløs"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "2": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "3": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "4": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "5": {
+            "Artist": "Maria Arredondo",
+            "Song": "Brief And Beautiful"
+        },
+        "6": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "7": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "8": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "9": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "10": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "11": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "12": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "13": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "14": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "15": {
+            "Artist": "Akon",
+            "Song": "Don't Matter"
+        },
+        "16": {
+            "Artist": "Vamp [NO]",
+            "Song": "Tir n'a noir"
+        },
+        "17": {
+            "Artist": "Whitesnake",
+            "Song": "Here I Go Again"
+        },
+        "18": {
+            "Artist": "Timbaland feat. Nelly Furtado & Justin Timberlake",
+            "Song": "Give It To Me"
+        },
+        "19": {
+            "Artist": "Saybia",
+            "Song": "Angel"
+        },
+        "20": {
+            "Artist": "Rihanna",
+            "Song": "Shut Up And Drive"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "2": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "3": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "4": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "5": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "6": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "7": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "8": {
+            "Artist": "Maria Arredondo",
+            "Song": "Brief And Beautiful"
+        },
+        "9": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "10": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "11": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "12": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "13": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "14": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "15": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "16": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "17": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "18": {
+            "Artist": "Saybia",
+            "Song": "Angel"
+        },
+        "19": {
+            "Artist": "Vamp [NO]",
+            "Song": "Tir n'a noir"
+        },
+        "20": {
+            "Artist": "Plain White T's",
+            "Song": "Hey There Delilah"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "2": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "3": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "4": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "5": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "7": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "8": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "9": {
+            "Artist": "Maria Arredondo",
+            "Song": "Brief And Beautiful"
+        },
+        "10": {
+            "Artist": "James Blunt",
+            "Song": "1973"
+        },
+        "11": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "12": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "13": {
+            "Artist": "Pink Floyd",
+            "Song": "Jugband Blues"
+        },
+        "14": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "15": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "16": {
+            "Artist": "Venke Knutson",
+            "Song": "Walk The Walk"
+        },
+        "17": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "18": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "19": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "20": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "2": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "4": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "5": {
+            "Artist": "Venke Knutson",
+            "Song": "Walk The Walk"
+        },
+        "6": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "7": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "8": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "9": {
+            "Artist": "Jorun Stiansen",
+            "Song": "Sticky Hands"
+        },
+        "10": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "11": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "12": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "13": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "14": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "15": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "16": {
+            "Artist": "Lene Alexandra",
+            "Song": "Hot Boy Hot Girl"
+        },
+        "17": {
+            "Artist": "Gwen Stefani",
+            "Song": "Now That You Got It"
+        },
+        "18": {
+            "Artist": "Nelly Furtado",
+            "Song": "Do It"
+        },
+        "19": {
+            "Artist": "Westlife",
+            "Song": "You Raise Me Up"
+        },
+        "20": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "2": {
+            "Artist": "Sputnik",
+            "Song": "Fuck deg"
+        },
+        "3": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "4": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "5": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "6": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "7": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "8": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "9": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "10": {
+            "Artist": "Jorun Stiansen",
+            "Song": "Sticky Hands"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Walk The Walk"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "13": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "14": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "15": {
+            "Artist": "Sugababes",
+            "Song": "About You Now"
+        },
+        "16": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "17": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "18": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "19": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "20": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "2": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "3": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "4": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "5": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "6": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "7": {
+            "Artist": "Sugababes",
+            "Song": "About You Now"
+        },
+        "8": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "9": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "10": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "11": {
+            "Artist": "Jorun Stiansen",
+            "Song": "Sticky Hands"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "13": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "14": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "15": {
+            "Artist": "Sean Kingston",
+            "Song": "Beautiful Girls"
+        },
+        "16": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "17": {
+            "Artist": "Kanye West",
+            "Song": "Stronger"
+        },
+        "18": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "19": {
+            "Artist": "Erik & Kriss",
+            "Song": "Den låta"
+        },
+        "20": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Do It Well"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Sangfugla",
+            "Song": "For LSK"
+        },
+        "3": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "4": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "5": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "6": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "7": {
+            "Artist": "Sputnik",
+            "Song": "Fuck deg"
+        },
+        "8": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "9": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "10": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "11": {
+            "Artist": "Sugababes",
+            "Song": "About You Now"
+        },
+        "12": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "14": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "15": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "16": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Silence"
+        },
+        "17": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Soulmate"
+        },
+        "18": {
+            "Artist": "Sichelle",
+            "Song": "Fuck deg"
+        },
+        "19": {
+            "Artist": "50 Cent feat. Justin Timberlake",
+            "Song": "Ayo Technology"
+        },
+        "20": {
+            "Artist": "Plain White T's",
+            "Song": "Hey There Delilah"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "3": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "4": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "5": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "6": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "7": {
+            "Artist": "Sangfugla",
+            "Song": "For LSK"
+        },
+        "8": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "9": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Silence"
+        },
+        "10": {
+            "Artist": "Sugababes",
+            "Song": "About You Now"
+        },
+        "11": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "12": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "13": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "14": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "15": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "16": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "17": {
+            "Artist": "Westlife",
+            "Song": "Home"
+        },
+        "18": {
+            "Artist": "Albino Superstars",
+            "Song": "My Girls"
+        },
+        "19": {
+            "Artist": "Sputnik",
+            "Song": "Fuck deg"
+        },
+        "20": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "3": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "4": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "5": {
+            "Artist": "Led Zeppelin",
+            "Song": "Stairway To Heaven"
+        },
+        "6": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "7": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "8": {
+            "Artist": "Westlife",
+            "Song": "Home"
+        },
+        "9": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "10": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "11": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "13": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "14": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Silence"
+        },
+        "15": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "16": {
+            "Artist": "Céline Dion",
+            "Song": "Taking Chances"
+        },
+        "17": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "18": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "19": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "20": {
+            "Artist": "Nicole Scherzinger feat. will.i.am",
+            "Song": "Baby Love"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "3": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "4": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Ashamed"
+        },
+        "5": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "6": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "7": {
+            "Artist": "Westlife",
+            "Song": "Home"
+        },
+        "8": {
+            "Artist": "Jorun Stiansen",
+            "Song": "Sticky Hands"
+        },
+        "9": {
+            "Artist": "Led Zeppelin",
+            "Song": "Stairway To Heaven"
+        },
+        "10": {
+            "Artist": "Nicole Scherzinger feat. will.i.am",
+            "Song": "Baby Love"
+        },
+        "11": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "12": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "13": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "14": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "15": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "16": {
+            "Artist": "Britney Spears",
+            "Song": "Gimme More"
+        },
+        "17": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "18": {
+            "Artist": "Katie Melua",
+            "Song": "If You Were A Sailboat"
+        },
+        "19": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "20": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "3": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "4": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "5": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "6": {
+            "Artist": "Jorun Stiansen",
+            "Song": "Sticky Hands"
+        },
+        "7": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Ashamed"
+        },
+        "8": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "9": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "10": {
+            "Artist": "Led Zeppelin",
+            "Song": "Stairway To Heaven"
+        },
+        "11": {
+            "Artist": "Westlife",
+            "Song": "Home"
+        },
+        "12": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "14": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "15": {
+            "Artist": "Kent",
+            "Song": "Ingenting"
+        },
+        "16": {
+            "Artist": "Fergie",
+            "Song": "Big Girls Don't Cry"
+        },
+        "17": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "18": {
+            "Artist": "Nicole Scherzinger feat. will.i.am",
+            "Song": "Baby Love"
+        },
+        "19": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "20": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "3": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "4": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "5": {
+            "Artist": "Josh Groban",
+            "Song": "Noche de paz (Silent Night)"
+        },
+        "6": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "7": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Ashamed"
+        },
+        "8": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "9": {
+            "Artist": "Henki Kolstad",
+            "Song": "Skomakergata, kjenningsmelodi"
+        },
+        "10": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "11": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "12": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "13": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "14": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "15": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "16": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "17": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "18": {
+            "Artist": "Jorun Stiansen",
+            "Song": "Sticky Hands"
+        },
+        "19": {
+            "Artist": "Led Zeppelin",
+            "Song": "Stairway To Heaven"
+        },
+        "20": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "3": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "4": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "5": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "6": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "7": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "8": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "9": {
+            "Artist": "Josh Groban",
+            "Song": "Noche de paz (Silent Night)"
+        },
+        "10": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Ashamed"
+        },
+        "11": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "12": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "13": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "14": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "15": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "16": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "17": {
+            "Artist": "Idol 2007 [NO]",
+            "Song": "That's What Friends Are For"
+        },
+        "18": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "19": {
+            "Artist": "Led Zeppelin",
+            "Song": "Stairway To Heaven"
+        },
+        "20": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "2": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "3": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "4": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "5": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "6": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "7": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "8": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "9": {
+            "Artist": "The Pogues feat. Kirsty MacColl",
+            "Song": "Fairytale Of New York"
+        },
+        "10": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "11": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "12": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "13": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Ashamed"
+        },
+        "14": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "15": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "16": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "17": {
+            "Artist": "Josh Groban",
+            "Song": "Noche de paz (Silent Night)"
+        },
+        "18": {
+            "Artist": "Henki Kolstad",
+            "Song": "Skomakergata, kjenningsmelodi"
+        },
+        "19": {
+            "Artist": "Band Aid 20",
+            "Song": "Do They Know It's Christmas?"
+        },
+        "20": {
+            "Artist": "Spike Jones And His City Slickers",
+            "Song": "All I Want For Christmas (Is My Two Front Teeth)"
+        }
+    }
+}

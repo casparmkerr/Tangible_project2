@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "2": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "3": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "4": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "5": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "6": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "7": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "8": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "9": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "10": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "11": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "12": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "13": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        },
+        "14": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "15": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "16": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "17": {
+            "Artist": "Boyzone",
+            "Song": "I Love The Way You Love Me"
+        },
+        "18": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "19": {
+            "Artist": "Ayla",
+            "Song": "Liebe"
+        },
+        "20": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "2": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "3": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "4": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "5": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "6": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "7": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "8": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "9": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "10": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "11": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "12": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "13": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "14": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "15": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "16": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "17": {
+            "Artist": "Ayla",
+            "Song": "Liebe"
+        },
+        "18": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "19": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        },
+        "20": {
+            "Artist": "Bacon Popper",
+            "Song": "Free"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "2": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "3": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "4": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "5": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "6": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "7": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "8": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "9": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "10": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "11": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "12": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "13": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "14": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "15": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "16": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "17": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "18": {
+            "Artist": "Ayla",
+            "Song": "Liebe"
+        },
+        "19": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "20": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "2": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "3": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "4": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "5": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "6": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "7": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "8": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "9": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "10": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "11": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "12": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "13": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "14": {
+            "Artist": "Kåre & The Cavemen",
+            "Song": "Filadelfia"
+        },
+        "15": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "16": {
+            "Artist": "Vonda Shepard",
+            "Song": "Searchin' My Soul"
+        },
+        "17": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "18": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "19": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "20": {
+            "Artist": "Bacon Popper",
+            "Song": "Free"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "2": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "3": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "4": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "5": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "6": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "7": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "8": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "9": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "10": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "11": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "12": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "13": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "14": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        },
+        "15": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "16": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "17": {
+            "Artist": "Vonda Shepard",
+            "Song": "Searchin' My Soul"
+        },
+        "18": {
+            "Artist": "Bacon Popper",
+            "Song": "Free"
+        },
+        "19": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "20": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "2": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "3": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "4": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "5": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "6": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "7": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "8": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "9": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "10": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "11": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "12": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "13": {
+            "Artist": "Roxette",
+            "Song": "Wish I Could Fly"
+        },
+        "14": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        },
+        "15": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "16": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "17": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "18": {
+            "Artist": "Di-Mico",
+            "Song": "All I Wanna Do"
+        },
+        "19": {
+            "Artist": "Vonda Shepard",
+            "Song": "Searchin' My Soul"
+        },
+        "20": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "3": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "4": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "5": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "6": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "7": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "8": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "9": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "10": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "11": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "12": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "13": {
+            "Artist": "Di-Mico",
+            "Song": "All I Wanna Do"
+        },
+        "14": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "15": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "16": {
+            "Artist": "Roxette",
+            "Song": "Wish I Could Fly"
+        },
+        "17": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "18": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "19": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        },
+        "20": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "3": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "4": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "5": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "6": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "7": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "8": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "9": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "10": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "11": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "12": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "13": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "14": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "15": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "16": {
+            "Artist": "Di-Mico",
+            "Song": "All I Wanna Do"
+        },
+        "17": {
+            "Artist": "Roxette",
+            "Song": "Wish I Could Fly"
+        },
+        "18": {
+            "Artist": "Will Smith",
+            "Song": "Miami"
+        },
+        "19": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        },
+        "20": {
+            "Artist": "Jessica",
+            "Song": "How Will I Know (Who You Are)"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "3": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "4": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "5": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "6": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "7": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "8": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "9": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "10": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "11": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "12": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "13": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "14": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "15": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "16": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        },
+        "17": {
+            "Artist": "Di-Mico",
+            "Song": "All I Wanna Do"
+        },
+        "18": {
+            "Artist": "Roxette",
+            "Song": "Wish I Could Fly"
+        },
+        "19": {
+            "Artist": "Cher",
+            "Song": "Strong Enough"
+        },
+        "20": {
+            "Artist": "Jessica",
+            "Song": "How Will I Know (Who You Are)"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "3": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "4": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "5": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "6": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "7": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "8": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "9": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "10": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "11": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "12": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "13": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "14": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        },
+        "15": {
+            "Artist": "Blur",
+            "Song": "Tender"
+        },
+        "16": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "17": {
+            "Artist": "Di-Mico",
+            "Song": "All I Wanna Do"
+        },
+        "18": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "19": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "20": {
+            "Artist": "Jessica",
+            "Song": "How Will I Know (Who You Are)"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "3": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "4": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "5": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "6": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "7": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "8": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "9": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "10": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "11": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "12": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "13": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "14": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "15": {
+            "Artist": "La Cream",
+            "Song": "Say Goodbye"
+        },
+        "16": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "17": {
+            "Artist": "Blur",
+            "Song": "Tender"
+        },
+        "18": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "19": {
+            "Artist": "Trubble",
+            "Song": "Dancing Baby (Ooga-Chaka)"
+        },
+        "20": {
+            "Artist": "The Cardigans",
+            "Song": "Erase/Rewind"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "3": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "4": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "5": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "6": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "7": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "8": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "9": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "10": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "11": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "12": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "13": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "14": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "15": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "16": {
+            "Artist": "Cher",
+            "Song": "Strong Enough"
+        },
+        "17": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "18": {
+            "Artist": "Blur",
+            "Song": "Tender"
+        },
+        "19": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "20": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "3": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "4": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "5": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "6": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "7": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "8": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "9": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "10": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "11": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "12": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "13": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "14": {
+            "Artist": "Pacific Blue",
+            "Song": "Hurricane"
+        },
+        "15": {
+            "Artist": "DJ Tixebsto",
+            "Song": "Theme From Norefjell"
+        },
+        "16": {
+            "Artist": "Cher",
+            "Song": "Strong Enough"
+        },
+        "17": {
+            "Artist": "The Cranberries",
+            "Song": "Promises"
+        },
+        "18": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "19": {
+            "Artist": "Blur",
+            "Song": "Tender"
+        },
+        "20": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "3": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "4": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "5": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "6": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "7": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "8": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "9": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "10": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "11": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "12": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "13": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "14": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "15": {
+            "Artist": "New Radicals",
+            "Song": "You Get What You Give"
+        },
+        "16": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "17": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "18": {
+            "Artist": "DJ Tixebsto",
+            "Song": "Theme From Norefjell"
+        },
+        "19": {
+            "Artist": "Baba Nation",
+            "Song": "Too Bad"
+        },
+        "20": {
+            "Artist": "Mike Koglin",
+            "Song": "The Silence"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "2": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "3": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "4": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "5": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "6": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "7": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "8": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "9": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "10": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "11": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "12": {
+            "Artist": "Eminem",
+            "Song": "Hi! My Name Is"
+        },
+        "13": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "14": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "15": {
+            "Artist": "New Radicals",
+            "Song": "You Get What You Give"
+        },
+        "16": {
+            "Artist": "TQ",
+            "Song": "Westside"
+        },
+        "17": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "18": {
+            "Artist": "The Cranberries",
+            "Song": "Promises"
+        },
+        "19": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "20": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "3": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "4": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "5": {
+            "Artist": "Suede",
+            "Song": "Electricity"
+        },
+        "6": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "7": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "8": {
+            "Artist": "Eminem",
+            "Song": "Hi! My Name Is"
+        },
+        "9": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "11": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "12": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "13": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "14": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "15": {
+            "Artist": "Ayla",
+            "Song": "Into The Light"
+        },
+        "16": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        },
+        "17": {
+            "Artist": "Chef",
+            "Song": "Chocolate Salty Balls"
+        },
+        "18": {
+            "Artist": "A+",
+            "Song": "Enjoy Yourself"
+        },
+        "19": {
+            "Artist": "DJ Tixebsto",
+            "Song": "Theme From Norefjell"
+        },
+        "20": {
+            "Artist": "New Radicals",
+            "Song": "You Get What You Give"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "2": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "4": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "5": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "6": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "7": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "8": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "9": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "10": {
+            "Artist": "Eminem",
+            "Song": "Hi! My Name Is"
+        },
+        "11": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "12": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "13": {
+            "Artist": "Ayla",
+            "Song": "Into The Light"
+        },
+        "14": {
+            "Artist": "Markoolio",
+            "Song": "Vi drar till fjxe4llen"
+        },
+        "15": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        },
+        "16": {
+            "Artist": "Lene Marlin",
+            "Song": "Sitting Down Here"
+        },
+        "17": {
+            "Artist": "atb",
+            "Song": "9 PM (Till I Come)"
+        },
+        "18": {
+            "Artist": "DJ Tixebsto",
+            "Song": "Theme From Norefjell"
+        },
+        "19": {
+            "Artist": "The Offspring",
+            "Song": "Pretty Fly (For A White Guy)"
+        },
+        "20": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "2": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "3": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "4": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "5": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "7": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "8": {
+            "Artist": "atb",
+            "Song": "Don't Stop!"
+        },
+        "9": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "10": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "11": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "12": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "13": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "14": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        },
+        "15": {
+            "Artist": "Eminem",
+            "Song": "Hi! My Name Is"
+        },
+        "16": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "17": {
+            "Artist": "Ayla",
+            "Song": "Into The Light"
+        },
+        "18": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "19": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "20": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "2": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "3": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "4": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "5": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "7": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "8": {
+            "Artist": "atb",
+            "Song": "Don't Stop!"
+        },
+        "9": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "10": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "11": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "12": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "13": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "14": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        },
+        "15": {
+            "Artist": "Eminem",
+            "Song": "Hi! My Name Is"
+        },
+        "16": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "17": {
+            "Artist": "Ayla",
+            "Song": "Into The Light"
+        },
+        "18": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "19": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "20": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "2": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "3": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "4": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "5": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "6": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "7": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "8": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "9": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "10": {
+            "Artist": "atb",
+            "Song": "Don't Stop!"
+        },
+        "11": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "12": {
+            "Artist": "Geri Halliwell",
+            "Song": "Look At Me"
+        },
+        "13": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "14": {
+            "Artist": "Eminem",
+            "Song": "Hi! My Name Is"
+        },
+        "15": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        },
+        "16": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "17": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "18": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "19": {
+            "Artist": "Ayla",
+            "Song": "Into The Light"
+        },
+        "20": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "2": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "3": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "4": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "5": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "6": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "7": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "8": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "9": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "10": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "11": {
+            "Artist": "atb",
+            "Song": "Don't Stop!"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "13": {
+            "Artist": "Geri Halliwell",
+            "Song": "Look At Me"
+        },
+        "14": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "15": {
+            "Artist": "Boyzone",
+            "Song": "You Needed Me"
+        },
+        "16": {
+            "Artist": "DJ Sakin & Friends",
+            "Song": "Protect Your Mind (Braveheart)"
+        },
+        "17": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "18": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "19": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "20": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "2": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "3": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "4": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "5": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "6": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "7": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "8": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "9": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "10": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "11": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "12": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "13": {
+            "Artist": "atb",
+            "Song": "Don't Stop!"
+        },
+        "14": {
+            "Artist": "Britney Spears",
+            "Song": "...Baby One More Time"
+        },
+        "15": {
+            "Artist": "Jamiroquai",
+            "Song": "Canned Heat"
+        },
+        "16": {
+            "Artist": "Geri Halliwell",
+            "Song": "Look At Me"
+        },
+        "17": {
+            "Artist": "Boyzone",
+            "Song": "You Needed Me"
+        },
+        "18": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        },
+        "19": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "20": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "2": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "4": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "5": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "6": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "7": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "8": {
+            "Artist": "Van Eijk",
+            "Song": "Living My Life Without You"
+        },
+        "9": {
+            "Artist": "The Chemical Brothers",
+            "Song": "Hey Boy Hey Girl"
+        },
+        "10": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "11": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "12": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "13": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        },
+        "14": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "15": {
+            "Artist": "atb",
+            "Song": "Don't Stop!"
+        },
+        "16": {
+            "Artist": "Mr. Oizo",
+            "Song": "Flat Beat"
+        },
+        "17": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "18": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "19": {
+            "Artist": "Jamiroquai",
+            "Song": "Canned Heat"
+        },
+        "20": {
+            "Artist": "Estima",
+            "Song": "Hitman's Paradise"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "2": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "4": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "5": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "6": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "7": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "8": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "9": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "10": {
+            "Artist": "Charlotte",
+            "Song": "Take Me To Your Heaven"
+        },
+        "11": {
+            "Artist": "Folk & Røvere",
+            "Song": "Yess"
+        },
+        "12": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "13": {
+            "Artist": "The Chemical Brothers",
+            "Song": "Hey Boy Hey Girl"
+        },
+        "14": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "15": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "16": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "17": {
+            "Artist": "Liquido",
+            "Song": "Narcotic"
+        },
+        "18": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "19": {
+            "Artist": "Metallica",
+            "Song": "Whiskey In The Jar"
+        },
+        "20": {
+            "Artist": "2Pac",
+            "Song": "Changes"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "3": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "4": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "5": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "6": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "7": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "8": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "9": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "10": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "11": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "12": {
+            "Artist": "Savage Garden",
+            "Song": "The Animal Song"
+        },
+        "13": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "14": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "15": {
+            "Artist": "Charlotte",
+            "Song": "Take Me To Your Heaven"
+        },
+        "16": {
+            "Artist": "The Chemical Brothers",
+            "Song": "Hey Boy Hey Girl"
+        },
+        "17": {
+            "Artist": "Folk & Røvere",
+            "Song": "Yess"
+        },
+        "18": {
+            "Artist": "The Offspring",
+            "Song": "Why Don't You Get A Job?"
+        },
+        "19": {
+            "Artist": "TLC",
+            "Song": "No Scrubs"
+        },
+        "20": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "2": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "3": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "4": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "5": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "6": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "7": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "8": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "9": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "10": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "11": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "12": {
+            "Artist": "Tommy Tee feat. Diaz & Petter",
+            "Song": "Crossing Borders"
+        },
+        "13": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "14": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "15": {
+            "Artist": "Folk & Røvere",
+            "Song": "Yess"
+        },
+        "16": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "17": {
+            "Artist": "Savage Garden",
+            "Song": "The Animal Song"
+        },
+        "18": {
+            "Artist": "Toy-Box",
+            "Song": "Best Friend"
+        },
+        "19": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "20": {
+            "Artist": "Charlotte",
+            "Song": "Take Me To Your Heaven"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "4": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "5": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "6": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "7": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "8": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "9": {
+            "Artist": "Tommy Tee feat. Diaz & Petter",
+            "Song": "Crossing Borders"
+        },
+        "10": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "11": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "12": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "13": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "14": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "15": {
+            "Artist": "Backstreet Boys",
+            "Song": "I Want It That Way"
+        },
+        "16": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "17": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "18": {
+            "Artist": "Folk & Røvere",
+            "Song": "Yess"
+        },
+        "19": {
+            "Artist": "Vengaboys",
+            "Song": "Boom, Boom, Boom, Boom!!"
+        },
+        "20": {
+            "Artist": "Savage Garden",
+            "Song": "The Animal Song"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "4": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "5": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "6": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "8": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "9": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "10": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "11": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "12": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "13": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "14": {
+            "Artist": "Tommy Tee feat. Diaz & Petter",
+            "Song": "Crossing Borders"
+        },
+        "15": {
+            "Artist": "Phats & Small",
+            "Song": "Turn Around"
+        },
+        "16": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "17": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "19": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "20": {
+            "Artist": "Folk & Røvere",
+            "Song": "Yess"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "4": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "5": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "6": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "7": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "8": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "9": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "10": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "11": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "12": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "13": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "14": {
+            "Artist": "Phats & Small",
+            "Song": "Turn Around"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "16": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "17": {
+            "Artist": "Tommy Tee feat. Diaz & Petter",
+            "Song": "Crossing Borders"
+        },
+        "18": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "19": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        },
+        "20": {
+            "Artist": "Folk & Røvere",
+            "Song": "Yess"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "3": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "4": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "5": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "6": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "7": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "8": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "9": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "10": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "11": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "12": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "13": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "14": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "15": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        },
+        "16": {
+            "Artist": "Phats & Small",
+            "Song": "Turn Around"
+        },
+        "17": {
+            "Artist": "Tommy Tee feat. Diaz & Petter",
+            "Song": "Crossing Borders"
+        },
+        "18": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "19": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "20": {
+            "Artist": "Madonna",
+            "Song": "Beautiful Stranger"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "3": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "4": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "5": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "6": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "7": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "8": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "9": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "10": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "11": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "12": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "13": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "14": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "16": {
+            "Artist": "Pacific Blue",
+            "Song": "Sunrise"
+        },
+        "17": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "18": {
+            "Artist": "Phats & Small",
+            "Song": "Turn Around"
+        },
+        "19": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "20": {
+            "Artist": "Shania Twain",
+            "Song": "That Don't Impress Me Much"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "3": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "4": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "5": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "6": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "7": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "8": {
+            "Artist": "Pacific Blue",
+            "Song": "Sunrise"
+        },
+        "9": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "10": {
+            "Artist": "Ann Lee",
+            "Song": "2 Times"
+        },
+        "11": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "12": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "13": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "14": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "15": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "16": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "17": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "18": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        },
+        "19": {
+            "Artist": "Phats & Small",
+            "Song": "Turn Around"
+        },
+        "20": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "3": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "4": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "5": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "6": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "8": {
+            "Artist": "Ann Lee",
+            "Song": "2 Times"
+        },
+        "9": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "10": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "11": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "12": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "13": {
+            "Artist": "Pacific Blue",
+            "Song": "Sunrise"
+        },
+        "14": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "15": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "16": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "17": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        },
+        "18": {
+            "Artist": "Ricky Martin",
+            "Song": "Livin' la vida loca"
+        },
+        "19": {
+            "Artist": "Multicyde feat. Anxe8a",
+            "Song": "Not For The Dough"
+        },
+        "20": {
+            "Artist": "Jennifer Lopez",
+            "Song": "If You Had My Love"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "2": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "3": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "4": {
+            "Artist": "Ann Lee",
+            "Song": "2 Times"
+        },
+        "5": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "6": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "7": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "8": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "9": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "10": {
+            "Artist": "Pacific Blue",
+            "Song": "Sunrise"
+        },
+        "11": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "12": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "13": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "14": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "15": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "16": {
+            "Artist": "Britney Spears",
+            "Song": "Sometimes"
+        },
+        "17": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "18": {
+            "Artist": "Will Smith",
+            "Song": "Wild Wild West"
+        },
+        "19": {
+            "Artist": "Phats & Small",
+            "Song": "Turn Around"
+        },
+        "20": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "2": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "3": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "4": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "5": {
+            "Artist": "Ann Lee",
+            "Song": "2 Times"
+        },
+        "6": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "7": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "8": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "9": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "10": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "11": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "12": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "13": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "14": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "15": {
+            "Artist": "A*Teens",
+            "Song": "Super Trouper"
+        },
+        "16": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "17": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        },
+        "18": {
+            "Artist": "Pacific Blue",
+            "Song": "Sunrise"
+        },
+        "19": {
+            "Artist": "Texas",
+            "Song": "Summer Son"
+        },
+        "20": {
+            "Artist": "A*Teens",
+            "Song": "Mamma Mia"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "2": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "3": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "4": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "5": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "6": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "7": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "8": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "9": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "10": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "11": {
+            "Artist": "Ann Lee",
+            "Song": "2 Times"
+        },
+        "12": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "13": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "14": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "15": {
+            "Artist": "Texas",
+            "Song": "Summer Son"
+        },
+        "16": {
+            "Artist": "Earth, Wind & Fire",
+            "Song": "September 99 (Phats & Small Remix)"
+        },
+        "17": {
+            "Artist": "Pacific Blue",
+            "Song": "Sunrise"
+        },
+        "18": {
+            "Artist": "Slinky",
+            "Song": "The Revenge"
+        },
+        "19": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "20": {
+            "Artist": "Sixpence None The Richer",
+            "Song": "Kiss Me"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "2": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "3": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "4": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "5": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "6": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "7": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "8": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "9": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "10": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "11": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "12": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "13": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "14": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "15": {
+            "Artist": "Earth, Wind & Fire",
+            "Song": "September 99 (Phats & Small Remix)"
+        },
+        "16": {
+            "Artist": "Baz Luhrmann",
+            "Song": "Everybody's Free (To Wear Sunscreen)"
+        },
+        "17": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "18": {
+            "Artist": "Ann Lee",
+            "Song": "2 Times"
+        },
+        "19": {
+            "Artist": "A*Teens",
+            "Song": "Super Trouper"
+        },
+        "20": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "2": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "3": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "4": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "5": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "6": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "7": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "8": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "9": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "10": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "11": {
+            "Artist": "Leftfield / Bambaataa",
+            "Song": "Afrika Shox"
+        },
+        "12": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "13": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "14": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        },
+        "15": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "16": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "17": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Bailamos"
+        },
+        "18": {
+            "Artist": "Madrugada",
+            "Song": "New Depression EP"
+        },
+        "19": {
+            "Artist": "Earth, Wind & Fire",
+            "Song": "September 99 (Phats & Small Remix)"
+        },
+        "20": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "2": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "3": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "4": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "5": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "6": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "7": {
+            "Artist": "Modern Talking",
+            "Song": "You Are Not Alone"
+        },
+        "8": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "9": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "10": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "11": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "12": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "13": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "14": {
+            "Artist": "Lutricia McNeal",
+            "Song": "365 Days"
+        },
+        "15": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "16": {
+            "Artist": "Whitney Houston",
+            "Song": "My Love Is Your Love"
+        },
+        "17": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "18": {
+            "Artist": "Roxette",
+            "Song": "Stars"
+        },
+        "19": {
+            "Artist": "Scooter",
+            "Song": "Faster Harder Scooter"
+        },
+        "20": {
+            "Artist": "Wamdue Project",
+            "Song": "King Of My Castle"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "2": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "3": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "4": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "5": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "6": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "7": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "8": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "9": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "10": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "11": {
+            "Artist": "Roxette",
+            "Song": "Stars"
+        },
+        "12": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "13": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "14": {
+            "Artist": "Mariah Carey",
+            "Song": "Heartbreaker"
+        },
+        "15": {
+            "Artist": "Lutricia McNeal",
+            "Song": "365 Days"
+        },
+        "16": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "17": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "19": {
+            "Artist": "Scooter",
+            "Song": "Faster Harder Scooter"
+        },
+        "20": {
+            "Artist": "Texas",
+            "Song": "Summer Son"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "2": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "3": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "4": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "6": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "7": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "8": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "9": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "10": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "11": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "12": {
+            "Artist": "Roxette",
+            "Song": "Stars"
+        },
+        "13": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "14": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "15": {
+            "Artist": "Mariah Carey",
+            "Song": "Heartbreaker"
+        },
+        "16": {
+            "Artist": "Lutricia McNeal",
+            "Song": "365 Days"
+        },
+        "17": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "18": {
+            "Artist": "Scooter",
+            "Song": "Faster Harder Scooter"
+        },
+        "19": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "20": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "2": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "4": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "5": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "6": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "7": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "8": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "9": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "10": {
+            "Artist": "Reset",
+            "Song": "Blue"
+        },
+        "11": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "12": {
+            "Artist": "Roxette",
+            "Song": "Stars"
+        },
+        "13": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "14": {
+            "Artist": "Lutricia McNeal",
+            "Song": "365 Days"
+        },
+        "15": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "16": {
+            "Artist": "Scooter",
+            "Song": "Faster Harder Scooter"
+        },
+        "17": {
+            "Artist": "Mariah Carey",
+            "Song": "Heartbreaker"
+        },
+        "18": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "19": {
+            "Artist": "TLC",
+            "Song": "Unpretty"
+        },
+        "20": {
+            "Artist": "Tarkan",
+            "Song": "Simarik"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "2": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "3": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "5": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "6": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "7": {
+            "Artist": "Reset",
+            "Song": "Get Me"
+        },
+        "8": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "9": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "10": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "11": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "12": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "13": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "14": {
+            "Artist": "Roxette",
+            "Song": "Stars"
+        },
+        "15": {
+            "Artist": "Scooter",
+            "Song": "Faster Harder Scooter"
+        },
+        "16": {
+            "Artist": "Lutricia McNeal",
+            "Song": "365 Days"
+        },
+        "17": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "18": {
+            "Artist": "Antique",
+            "Song": "Opa opa"
+        },
+        "19": {
+            "Artist": "Vengaboys",
+            "Song": "We're Going To Ibiza!"
+        },
+        "20": {
+            "Artist": "Mariah Carey",
+            "Song": "Heartbreaker"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "3": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "4": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "5": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "6": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "7": {
+            "Artist": "Reset",
+            "Song": "Get Me"
+        },
+        "8": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "9": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "10": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "11": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Waiting For Tonight"
+        },
+        "12": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "13": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "14": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "15": {
+            "Artist": "Roxette",
+            "Song": "Stars"
+        },
+        "16": {
+            "Artist": "Lou Bega",
+            "Song": "Mambo No. 5 (A Little Bit Of...)"
+        },
+        "17": {
+            "Artist": "Rage Against The Machine",
+            "Song": "Guerrilla Radio"
+        },
+        "18": {
+            "Artist": "Scooter",
+            "Song": "Faster Harder Scooter"
+        },
+        "19": {
+            "Artist": "Antique",
+            "Song": "Dinata dinata"
+        },
+        "20": {
+            "Artist": "Lutricia McNeal",
+            "Song": "365 Days"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "3": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "4": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "5": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "6": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "7": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "9": {
+            "Artist": "Reset",
+            "Song": "Get Me"
+        },
+        "10": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "11": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        },
+        "12": {
+            "Artist": "Drxf6mhus",
+            "Song": "Hålla dig nxe4ra"
+        },
+        "13": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "14": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Waiting For Tonight"
+        },
+        "15": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "16": {
+            "Artist": "Voodoobeats",
+            "Song": "Bring Me Closer"
+        },
+        "17": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "18": {
+            "Artist": "Eiffel 65",
+            "Song": "Blue (Da Ba Dee)"
+        },
+        "19": {
+            "Artist": "Antique",
+            "Song": "Dinata dinata"
+        },
+        "20": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "3": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "4": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "5": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "6": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "7": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "9": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "10": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "11": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "12": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Waiting For Tonight"
+        },
+        "13": {
+            "Artist": "Drxf6mhus",
+            "Song": "Hålla dig nxe4ra"
+        },
+        "14": {
+            "Artist": "Reset",
+            "Song": "Get Me"
+        },
+        "15": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "16": {
+            "Artist": "Andreas Johnson",
+            "Song": "Glorious"
+        },
+        "17": {
+            "Artist": "Voodoobeats",
+            "Song": "Bring Me Closer"
+        },
+        "18": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "19": {
+            "Artist": "Tom Jones and The Cardigans",
+            "Song": "Burning Down The House"
+        },
+        "20": {
+            "Artist": "Shaft",
+            "Song": "(Mucho Mambo) Sway"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "3": {
+            "Artist": "Kåre & The Cavemen",
+            "Song": "1999 Man EP"
+        },
+        "4": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "5": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Rhythm Divine"
+        },
+        "7": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "8": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "9": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "10": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "11": {
+            "Artist": "Drxf6mhus",
+            "Song": "Hålla dig nxe4ra"
+        },
+        "12": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "13": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "14": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "15": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Waiting For Tonight"
+        },
+        "16": {
+            "Artist": "Bob Marley vs. Funkstar De Luxe",
+            "Song": "Sun Is Shining"
+        },
+        "17": {
+            "Artist": "Ronan Keating",
+            "Song": "When You Say Nothing At All"
+        },
+        "18": {
+            "Artist": "Voodoobeats",
+            "Song": "Bring Me Closer"
+        },
+        "19": {
+            "Artist": "Reset",
+            "Song": "Get Me"
+        },
+        "20": {
+            "Artist": "Andreas Johnson",
+            "Song": "Glorious"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "2": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "3": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Rhythm Divine"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "5": {
+            "Artist": "Kåre & The Cavemen",
+            "Song": "1999 Man EP"
+        },
+        "6": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "7": {
+            "Artist": "Garbage",
+            "Song": "The World Is Not Enough"
+        },
+        "8": {
+            "Artist": "Bob Marley feat. Lauryn Hill",
+            "Song": "Turn Your Lights Down Low"
+        },
+        "9": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "10": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "11": {
+            "Artist": "Madison Avenue",
+            "Song": "Don't Call Me Baby"
+        },
+        "12": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "13": {
+            "Artist": "Drxf6mhus",
+            "Song": "Hålla dig nxe4ra"
+        },
+        "14": {
+            "Artist": "Christina Aguilera",
+            "Song": "Genie In A Bottle"
+        },
+        "15": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "16": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        },
+        "17": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Waiting For Tonight"
+        },
+        "18": {
+            "Artist": "Kent",
+            "Song": "Musik non stop"
+        },
+        "19": {
+            "Artist": "Andreas Johnson",
+            "Song": "Glorious"
+        },
+        "20": {
+            "Artist": "Pacific Blue",
+            "Song": "Ocean"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "2": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "4": {
+            "Artist": "Boyzvoice",
+            "Song": "Let Me Be Your Father X-Mas"
+        },
+        "5": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Rhythm Divine"
+        },
+        "6": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "7": {
+            "Artist": "Bob Marley feat. Lauryn Hill",
+            "Song": "Turn Your Lights Down Low"
+        },
+        "8": {
+            "Artist": "Kåre & The Cavemen",
+            "Song": "1999 Man EP"
+        },
+        "9": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "10": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "11": {
+            "Artist": "Garbage",
+            "Song": "The World Is Not Enough"
+        },
+        "12": {
+            "Artist": "Boyzone",
+            "Song": "Every Day I Love You"
+        },
+        "13": {
+            "Artist": "Madison Avenue",
+            "Song": "Don't Call Me Baby"
+        },
+        "14": {
+            "Artist": "Kent",
+            "Song": "Musik non stop"
+        },
+        "15": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "16": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Waiting For Tonight"
+        },
+        "17": {
+            "Artist": "Savage Garden",
+            "Song": "I Knew I Loved You"
+        },
+        "18": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        },
+        "19": {
+            "Artist": "Pacific Blue",
+            "Song": "Ocean"
+        },
+        "20": {
+            "Artist": "Alice Deejay",
+            "Song": "Better Off Alone"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Boyzvoice",
+            "Song": "Let Me Be Your Father X-Mas"
+        },
+        "2": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "4": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "5": {
+            "Artist": "A1",
+            "Song": "Everytime"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Rhythm Divine"
+        },
+        "7": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "8": {
+            "Artist": "Bob Marley feat. Lauryn Hill",
+            "Song": "Turn Your Lights Down Low"
+        },
+        "9": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "10": {
+            "Artist": "Boyzone",
+            "Song": "Every Day I Love You"
+        },
+        "11": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "12": {
+            "Artist": "Sash!",
+            "Song": "Adelante"
+        },
+        "13": {
+            "Artist": "deLillos",
+            "Song": "Nå vil vi til Sverige"
+        },
+        "14": {
+            "Artist": "Madison Avenue",
+            "Song": "Don't Call Me Baby"
+        },
+        "15": {
+            "Artist": "Marc Anthony",
+            "Song": "I Need To Know"
+        },
+        "16": {
+            "Artist": "Kåre & The Cavemen",
+            "Song": "1999 Man EP"
+        },
+        "17": {
+            "Artist": "Garbage",
+            "Song": "The World Is Not Enough"
+        },
+        "18": {
+            "Artist": "Backstreet Boys",
+            "Song": "Larger Than Life"
+        },
+        "19": {
+            "Artist": "Alice Deejay",
+            "Song": "Back In My Life"
+        },
+        "20": {
+            "Artist": "Pacific Blue",
+            "Song": "Ocean"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Boyzvoice",
+            "Song": "Let Me Be Your Father X-Mas"
+        },
+        "2": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "3": {
+            "Artist": "A1",
+            "Song": "Everytime"
+        },
+        "4": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "5": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Rhythm Divine"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "7": {
+            "Artist": "Bob Marley feat. Lauryn Hill",
+            "Song": "Turn Your Lights Down Low"
+        },
+        "8": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "9": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "10": {
+            "Artist": "Boyzone",
+            "Song": "Every Day I Love You"
+        },
+        "11": {
+            "Artist": "Sash!",
+            "Song": "Adelante"
+        },
+        "12": {
+            "Artist": "Europe",
+            "Song": "The Final Countdown 2000"
+        },
+        "13": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "14": {
+            "Artist": "Britney Spears",
+            "Song": "Born To Make You Happy"
+        },
+        "15": {
+            "Artist": "Marc Anthony",
+            "Song": "I Need To Know"
+        },
+        "16": {
+            "Artist": "Madison Avenue",
+            "Song": "Don't Call Me Baby"
+        },
+        "17": {
+            "Artist": "Garbage",
+            "Song": "The World Is Not Enough"
+        },
+        "18": {
+            "Artist": "deLillos",
+            "Song": "Nå vil vi til Sverige"
+        },
+        "19": {
+            "Artist": "Pacific Blue",
+            "Song": "Ocean"
+        },
+        "20": {
+            "Artist": "Westlife",
+            "Song": "If I Let You Go"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Boyzvoice",
+            "Song": "Let Me Be Your Father X-Mas"
+        },
+        "2": {
+            "Artist": "Bloodhound Gang",
+            "Song": "The Bad Touch"
+        },
+        "3": {
+            "Artist": "Bob Marley feat. Lauryn Hill",
+            "Song": "Turn Your Lights Down Low"
+        },
+        "4": {
+            "Artist": "A1",
+            "Song": "Everytime"
+        },
+        "5": {
+            "Artist": "Blxfcmchen",
+            "Song": "Heut' ist mein Tag"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Rhythm Divine"
+        },
+        "7": {
+            "Artist": "Britney Spears",
+            "Song": "(You Drive Me) Crazy"
+        },
+        "8": {
+            "Artist": "Westlife",
+            "Song": "Flying Without Wings"
+        },
+        "9": {
+            "Artist": "Céline Dion",
+            "Song": "That's The Way It Is"
+        },
+        "10": {
+            "Artist": "Sash!",
+            "Song": "Adelante"
+        },
+        "11": {
+            "Artist": "Boyzone",
+            "Song": "Every Day I Love You"
+        },
+        "12": {
+            "Artist": "Alice Deejay",
+            "Song": "Back In My Life"
+        },
+        "13": {
+            "Artist": "Britney Spears",
+            "Song": "Born To Make You Happy"
+        },
+        "14": {
+            "Artist": "Europe",
+            "Song": "The Final Countdown 2000"
+        },
+        "15": {
+            "Artist": "Will Smith",
+            "Song": "Will 2K"
+        },
+        "16": {
+            "Artist": "Pacific Blue",
+            "Song": "Ocean"
+        },
+        "17": {
+            "Artist": "Garbage",
+            "Song": "The World Is Not Enough"
+        },
+        "18": {
+            "Artist": "Madison Avenue",
+            "Song": "Don't Call Me Baby"
+        },
+        "19": {
+            "Artist": "Marc Anthony",
+            "Song": "I Need To Know"
+        },
+        "20": {
+            "Artist": "deLillos",
+            "Song": "Nå vil vi til Sverige"
+        }
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "42": {
+        "1": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        },
+        "2": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "3": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "4": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Liselotte"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "Bjørg og Mikkel",
+            "Song": "Det blå hav"
+        },
+        "7": {
+            "Artist": "The McGuire Sisters",
+            "Song": "Volare (nel blu dipinto di blu)"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "9": {
+            "Artist": "Bjørg og Mikkel",
+            "Song": "På Billy Bryants kafé"
+        },
+        "10": {
+            "Artist": "Dean Martin",
+            "Song": "Volare (nel blu dipinto di blu)"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        },
+        "2": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "3": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "4": {
+            "Artist": "Dean Martin",
+            "Song": "Volare (nel blu dipinto di blu)"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "7": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "8": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Liselotte"
+        },
+        "9": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        },
+        "10": {
+            "Artist": "Bjørg og Mikkel",
+            "Song": "På Billy Bryants kafé"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        },
+        "2": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "3": {
+            "Artist": "Dean Martin",
+            "Song": "Volare (nel blu dipinto di blu)"
+        },
+        "4": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "6": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "8": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        },
+        "9": {
+            "Artist": "Mitch Miller And His Orchestra",
+            "Song": "The River Kwai March"
+        },
+        "10": {
+            "Artist": "Bjørg og Mikkel",
+            "Song": "På Billy Bryants kafé"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "4": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "7": {
+            "Artist": "Dean Martin",
+            "Song": "Volare (nel blu dipinto di blu)"
+        },
+        "8": {
+            "Artist": "Mitch Miller And His Orchestra",
+            "Song": "The River Kwai March"
+        },
+        "9": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "10": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "3": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "5": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "7": {
+            "Artist": "Dean Martin",
+            "Song": "Volare (nel blu dipinto di blu)"
+        },
+        "8": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "9": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "10": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "3": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "4": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "5": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "7": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        },
+        "8": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "9": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "10": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "4": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "7": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        },
+        "8": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "9": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "10": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "3": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "4": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        },
+        "7": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "9": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "10": {
+            "Artist": "Orchester Billy Vaughn",
+            "Song": "Sail Along Silvery Moon"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "3": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "4": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "5": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "7": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "9": {
+            "Artist": "The Kalin Twins",
+            "Song": "When"
+        },
+        "10": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "4": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "9": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        },
+        "10": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "4": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "9": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        },
+        "10": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        }
+    }
+}

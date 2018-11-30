@@ -1,0 +1,2210 @@
+{
+    "1": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "2": {
+            "Artist": "The Beatles",
+            "Song": "Yesterday"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Get Off Of My Cloud"
+        },
+        "4": {
+            "Artist": "Johnny Band",
+            "Song": "Ola var fra Sandefjord"
+        },
+        "5": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "6": {
+            "Artist": "Wencke Myhre",
+            "Song": "xc5-å-å sheriff"
+        },
+        "7": {
+            "Artist": "Barry McGuire",
+            "Song": "Eve Of Destruction"
+        },
+        "8": {
+            "Artist": "Chris Andrews",
+            "Song": "Yesterday Man"
+        },
+        "9": {
+            "Artist": "The Animals",
+            "Song": "It's My Life"
+        },
+        "10": {
+            "Artist": "The Key Brothers & Quivers",
+            "Song": "Og så kom helgenen frem"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "2": {
+            "Artist": "The Beatles",
+            "Song": "Yesterday"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Get Off Of My Cloud"
+        },
+        "4": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "5": {
+            "Artist": "The Animals",
+            "Song": "It's My Life"
+        },
+        "6": {
+            "Artist": "Johnny Band",
+            "Song": "Ola var fra Sandefjord"
+        },
+        "7": {
+            "Artist": "Chris Andrews",
+            "Song": "Yesterday Man"
+        },
+        "8": {
+            "Artist": "Barry McGuire",
+            "Song": "Eve Of Destruction"
+        },
+        "9": {
+            "Artist": "Wencke Myhre",
+            "Song": "xc5-å-å sheriff"
+        },
+        "10": {
+            "Artist": "The Key Brothers & Quivers",
+            "Song": "Og så kom helgenen frem"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "2": {
+            "Artist": "The Beatles",
+            "Song": "Yesterday"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Get Off Of My Cloud"
+        },
+        "4": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "5": {
+            "Artist": "The Animals",
+            "Song": "It's My Life"
+        },
+        "6": {
+            "Artist": "Johnny Band",
+            "Song": "Ola var fra Sandefjord"
+        },
+        "7": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "8": {
+            "Artist": "Barry McGuire",
+            "Song": "Eve Of Destruction"
+        },
+        "9": {
+            "Artist": "Chris Andrews",
+            "Song": "Yesterday Man"
+        },
+        "10": {
+            "Artist": "The Kinks",
+            "Song": "Till The End Of The Day"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "2": {
+            "Artist": "The Beatles",
+            "Song": "Yesterday"
+        },
+        "3": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "4": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "5": {
+            "Artist": "The Rolling Stones",
+            "Song": "Get Off Of My Cloud"
+        },
+        "6": {
+            "Artist": "The Animals",
+            "Song": "It's My Life"
+        },
+        "7": {
+            "Artist": "Johnny Band",
+            "Song": "Ola var fra Sandefjord"
+        },
+        "8": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "9": {
+            "Artist": "The Spencer Davis Group",
+            "Song": "Keep On Running"
+        },
+        "10": {
+            "Artist": "Barry McGuire",
+            "Song": "Eve Of Destruction"
+        },
+        "11": {
+            "Artist": "The Kinks",
+            "Song": "Till The End Of The Day"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "2": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "3": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "4": {
+            "Artist": "The Beatles",
+            "Song": "Yesterday"
+        },
+        "5": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "6": {
+            "Artist": "The Animals",
+            "Song": "It's My Life"
+        },
+        "7": {
+            "Artist": "The Kinks",
+            "Song": "Till The End Of The Day"
+        },
+        "8": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "9": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        },
+        "10": {
+            "Artist": "The Rolling Stones",
+            "Song": "Get Off Of My Cloud"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "2": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "3": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "4": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "5": {
+            "Artist": "The Spencer Davis Group",
+            "Song": "Keep On Running"
+        },
+        "6": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        },
+        "7": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "8": {
+            "Artist": "The Kinks",
+            "Song": "Till The End Of The Day"
+        },
+        "9": {
+            "Artist": "The Beatles",
+            "Song": "Yesterday"
+        },
+        "10": {
+            "Artist": "The Animals",
+            "Song": "It's My Life"
+        },
+        "11": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "3": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "4": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "5": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        },
+        "6": {
+            "Artist": "The Beatles",
+            "Song": "Day Tripper"
+        },
+        "7": {
+            "Artist": "The Spencer Davis Group",
+            "Song": "Keep On Running"
+        },
+        "8": {
+            "Artist": "The Seekers",
+            "Song": "The Carnival Is Over"
+        },
+        "9": {
+            "Artist": "The Kinks",
+            "Song": "Till The End Of The Day"
+        },
+        "10": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "11": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "3": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "4": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "5": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "6": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "8": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "9": {
+            "Artist": "The Spencer Davis Group",
+            "Song": "Keep On Running"
+        },
+        "10": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "3": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "4": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "5": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "6": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "7": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        },
+        "8": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "9": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "10": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "3": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "4": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "5": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "6": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "7": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "8": {
+            "Artist": "Mercanto- kvartetten",
+            "Song": "Han far"
+        },
+        "9": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "10": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "5": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "6": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "7": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "8": {
+            "Artist": "Mercanto- kvartetten",
+            "Song": "Han far"
+        },
+        "9": {
+            "Artist": "The Overlanders",
+            "Song": "Michelle"
+        },
+        "10": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "5": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "6": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "7": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "8": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "9": {
+            "Artist": "Mercanto- kvartetten",
+            "Song": "Han far"
+        },
+        "10": {
+            "Artist": "Herman's Hermits",
+            "Song": "A Must To Avoid"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "3": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "4": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "5": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "6": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "7": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "8": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "9": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "10": {
+            "Artist": "Mercanto- kvartetten",
+            "Song": "Han far"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "4": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "5": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "6": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "7": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "8": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "9": {
+            "Artist": "Barry McGuire",
+            "Song": "You Were On My Mind"
+        },
+        "10": {
+            "Artist": "Mercanto- kvartetten",
+            "Song": "Han far"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "3": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "4": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "5": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "6": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "7": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "8": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "9": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "10": {
+            "Artist": "Mercanto- kvartetten",
+            "Song": "Han far"
+        },
+        "11": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Barndomshemmet"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "3": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "5": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "6": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "7": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "8": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "9": {
+            "Artist": "The Rolling Stones",
+            "Song": "19th Nervous Breakdown"
+        },
+        "10": {
+            "Artist": "The Kinks",
+            "Song": "Dedicated Follower Of Fashion"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "2": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "3": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "4": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "5": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "6": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "7": {
+            "Artist": "The Kinks",
+            "Song": "Dedicated Follower Of Fashion"
+        },
+        "8": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "9": {
+            "Artist": "Kirsti Sparboe",
+            "Song": "Hjem"
+        },
+        "10": {
+            "Artist": "The Walker Brothers",
+            "Song": "The Sun Ain't Gonna Shine Anymore"
+        },
+        "11": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "2": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "3": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "4": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "5": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "6": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "7": {
+            "Artist": "Jim Reeves",
+            "Song": "Snow Flake"
+        },
+        "8": {
+            "Artist": "The Walker Brothers",
+            "Song": "The Sun Ain't Gonna Shine Anymore"
+        },
+        "9": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "10": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "2": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "3": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "4": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "5": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "6": {
+            "Artist": "The Walker Brothers",
+            "Song": "The Sun Ain't Gonna Shine Anymore"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "8": {
+            "Artist": "The Beatles",
+            "Song": "Michelle"
+        },
+        "9": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "10": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "3": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "4": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "5": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "6": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "7": {
+            "Artist": "The Walker Brothers",
+            "Song": "The Sun Ain't Gonna Shine Anymore"
+        },
+        "8": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        },
+        "9": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        },
+        "10": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "2": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "3": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "4": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "5": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "6": {
+            "Artist": "The Hollies",
+            "Song": "I Can't Let Go"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "8": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "9": {
+            "Artist": "The Walker Brothers",
+            "Song": "The Sun Ain't Gonna Shine Anymore"
+        },
+        "10": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "3": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "4": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "5": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "6": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "7": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        },
+        "8": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        },
+        "9": {
+            "Artist": "The Walker Brothers",
+            "Song": "The Sun Ain't Gonna Shine Anymore"
+        },
+        "10": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Sxe4g inte nej - sxe4g kanske"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "3": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "4": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "5": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "6": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "7": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "8": {
+            "Artist": "The Everly Brothers",
+            "Song": "Crying In The Rain"
+        },
+        "9": {
+            "Artist": "The Hep Stars",
+            "Song": "Wedding"
+        },
+        "10": {
+            "Artist": "The Beach Boys",
+            "Song": "Barbara Ann"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "3": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "4": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "5": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "6": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "7": {
+            "Artist": "The Hep Stars",
+            "Song": "Sunny Girl"
+        },
+        "8": {
+            "Artist": "The Hep Stars",
+            "Song": "Wedding"
+        },
+        "9": {
+            "Artist": "Nancy Sinatra",
+            "Song": "These Boots Are Made For Walkin'"
+        },
+        "10": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "2": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "4": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "5": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "6": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "8": {
+            "Artist": "The Hep Stars",
+            "Song": "Wedding"
+        },
+        "9": {
+            "Artist": "Larry Finnegan",
+            "Song": "Good Morning Tears"
+        },
+        "10": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "4": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "5": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "6": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "7": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        },
+        "8": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "9": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "10": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "4": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "5": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "6": {
+            "Artist": "Manfred Mann",
+            "Song": "Pretty Flamingo"
+        },
+        "7": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        },
+        "8": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "9": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "10": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        },
+        "4": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "5": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "6": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "7": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "8": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "9": {
+            "Artist": "The Vanguards",
+            "Song": "Lykkeveien"
+        },
+        "10": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "2": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "3": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "4": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "5": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "6": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "8": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "9": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        },
+        "10": {
+            "Artist": "The Rolling Stones",
+            "Song": "Paint It, Black"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "2": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "3": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "4": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "5": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "6": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "7": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "8": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "9": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        },
+        "10": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "2": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "3": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "4": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "5": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "6": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "8": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "9": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        },
+        "10": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "2": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "3": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "4": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        },
+        "5": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "6": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "8": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "9": {
+            "Artist": "Mojo Blues Band",
+            "Song": "Lady Jane"
+        },
+        "10": {
+            "Artist": "The Mamas & The Papas",
+            "Song": "Monday Monday"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "2": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "3": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "4": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "5": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "6": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "7": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "8": {
+            "Artist": "The Beach Boys",
+            "Song": "Sloop John B"
+        },
+        "9": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "10": {
+            "Artist": "The Beatles",
+            "Song": "Paperback Writer"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "3": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "4": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "5": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "6": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "7": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "8": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "9": {
+            "Artist": "The Pussycats",
+            "Song": "Just A Little Teardrop"
+        },
+        "10": {
+            "Artist": "The Beatles",
+            "Song": "Revolver [Album]"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "3": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "4": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "5": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "6": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "7": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "8": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "9": {
+            "Artist": "The Beatles",
+            "Song": "Revolver [Album]"
+        },
+        "10": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "3": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "5": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "6": {
+            "Artist": "The Beach Boys",
+            "Song": "God Only Knows"
+        },
+        "7": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "8": {
+            "Artist": "The Kinks",
+            "Song": "Sunny Afternoon"
+        },
+        "9": {
+            "Artist": "The Hollies",
+            "Song": "Bus Stop"
+        },
+        "10": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "3": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "5": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "6": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "7": {
+            "Artist": "The Beach Boys",
+            "Song": "God Only Knows"
+        },
+        "8": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Did You Ever Have To Make Up Your Mind?"
+        },
+        "9": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "10": {
+            "Artist": "Napoleon XIV",
+            "Song": "They're Coming To Take Me Away, Ha-Haaa!"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "3": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "5": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "6": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "7": {
+            "Artist": "The Beach Boys",
+            "Song": "God Only Knows"
+        },
+        "8": {
+            "Artist": "The Vanguards",
+            "Song": "Mot ukjent sted"
+        },
+        "9": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        },
+        "10": {
+            "Artist": "Leroy Pullins",
+            "Song": "I'm A Nut"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "4": {
+            "Artist": "Leroy Pullins",
+            "Song": "I'm A Nut"
+        },
+        "5": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "6": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "7": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "8": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        },
+        "9": {
+            "Artist": "Frank Sinatra",
+            "Song": "Strangers In The Night"
+        },
+        "10": {
+            "Artist": "Small Faces",
+            "Song": "All Or Nothing"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "2": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "3": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "4": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "5": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "6": {
+            "Artist": "Leroy Pullins",
+            "Song": "I'm A Nut"
+        },
+        "7": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "8": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        },
+        "9": {
+            "Artist": "The Lovin' Spoonful",
+            "Song": "Summer In The City"
+        },
+        "10": {
+            "Artist": "Small Faces",
+            "Song": "All Or Nothing"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "3": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "4": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "5": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "6": {
+            "Artist": "The Who",
+            "Song": "I'm A Boy"
+        },
+        "7": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Det tror jag inte på"
+        },
+        "8": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        },
+        "9": {
+            "Artist": "Leroy Pullins",
+            "Song": "I'm A Nut"
+        },
+        "10": {
+            "Artist": "Various [NO]",
+            "Song": "Ja-platen"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "3": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "4": {
+            "Artist": "The Who",
+            "Song": "I'm A Boy"
+        },
+        "5": {
+            "Artist": "Various [NO]",
+            "Song": "Ja-platen"
+        },
+        "6": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "7": {
+            "Artist": "The Rolling Stones",
+            "Song": "Have You Seen Your Mother, Baby, Standing In The Shadow?"
+        },
+        "8": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "9": {
+            "Artist": "The Troggs",
+            "Song": "With A Girl Like You"
+        },
+        "10": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "3": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "4": {
+            "Artist": "Various [NO]",
+            "Song": "Ja-platen"
+        },
+        "5": {
+            "Artist": "The Who",
+            "Song": "I'm A Boy"
+        },
+        "6": {
+            "Artist": "The Rolling Stones",
+            "Song": "Have You Seen Your Mother, Baby, Standing In The Shadow?"
+        },
+        "7": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "8": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        },
+        "9": {
+            "Artist": "The Beatles",
+            "Song": "Yellow Submarine"
+        },
+        "10": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "2": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "4": {
+            "Artist": "Various [NO]",
+            "Song": "Ja-platen"
+        },
+        "5": {
+            "Artist": "The Who",
+            "Song": "I'm A Boy"
+        },
+        "6": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "7": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "8": {
+            "Artist": "The Rolling Stones",
+            "Song": "Have You Seen Your Mother, Baby, Standing In The Shadow?"
+        },
+        "9": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "10": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "3": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "4": {
+            "Artist": "Various [NO]",
+            "Song": "Ja-platen"
+        },
+        "5": {
+            "Artist": "The Hollies",
+            "Song": "Stop Stop Stop"
+        },
+        "6": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "7": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "8": {
+            "Artist": "The Who",
+            "Song": "I'm A Boy"
+        },
+        "9": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "10": {
+            "Artist": "Musical",
+            "Song": "Sound Of Music"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "2": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "4": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "5": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "6": {
+            "Artist": "The Hollies",
+            "Song": "Stop Stop Stop"
+        },
+        "7": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "8": {
+            "Artist": "Various [NO]",
+            "Song": "Ja-platen"
+        },
+        "9": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "10": {
+            "Artist": "The Who",
+            "Song": "I'm A Boy"
+        },
+        "11": {
+            "Artist": "Julie Andrews / Christopher Plummer",
+            "Song": "Edelweiss"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "2": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "4": {
+            "Artist": "The Hollies",
+            "Song": "Stop Stop Stop"
+        },
+        "5": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "6": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "7": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Vid din sida"
+        },
+        "8": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "9": {
+            "Artist": "Cher",
+            "Song": "Sunny"
+        },
+        "10": {
+            "Artist": "Julie Andrews / Christopher Plummer",
+            "Song": "Edelweiss"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "2": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "3": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "4": {
+            "Artist": "The Hollies",
+            "Song": "Stop Stop Stop"
+        },
+        "5": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "6": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Vid din sida"
+        },
+        "7": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "8": {
+            "Artist": "The Beach Boys",
+            "Song": "Good Vibrations"
+        },
+        "9": {
+            "Artist": "Julie Andrews / Christopher Plummer",
+            "Song": "Edelweiss"
+        },
+        "10": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "3": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "4": {
+            "Artist": "The Beach Boys",
+            "Song": "Good Vibrations"
+        },
+        "5": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Vid din sida"
+        },
+        "6": {
+            "Artist": "The Hollies",
+            "Song": "Stop Stop Stop"
+        },
+        "7": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "8": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "9": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "10": {
+            "Artist": "Julie Andrews / Christopher Plummer",
+            "Song": "Edelweiss"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "2": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "3": {
+            "Artist": "The Beach Boys",
+            "Song": "Good Vibrations"
+        },
+        "4": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "5": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "6": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Vid din sida"
+        },
+        "7": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "8": {
+            "Artist": "Tom Jones",
+            "Song": "Green, Green Grass Of Home"
+        },
+        "9": {
+            "Artist": "The Troggs",
+            "Song": "I Can't Control Myself"
+        },
+        "10": {
+            "Artist": "Julie Andrews / Christopher Plummer",
+            "Song": "Edelweiss"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Good Vibrations"
+        },
+        "3": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Vid din sida"
+        },
+        "4": {
+            "Artist": "Tom Jones",
+            "Song": "Green, Green Grass Of Home"
+        },
+        "5": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "6": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "7": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "8": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "9": {
+            "Artist": "The Kinks",
+            "Song": "Dead End Street"
+        },
+        "10": {
+            "Artist": "Julie Andrews / Christopher Plummer",
+            "Song": "Edelweiss"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "2": {
+            "Artist": "The Beach Boys",
+            "Song": "Good Vibrations"
+        },
+        "3": {
+            "Artist": "Tom Jones",
+            "Song": "Green, Green Grass Of Home"
+        },
+        "4": {
+            "Artist": "Sven-Ingvars",
+            "Song": "Vid din sida"
+        },
+        "5": {
+            "Artist": "Jim Reeves",
+            "Song": "Distant Drums"
+        },
+        "6": {
+            "Artist": "The Hep Stars",
+            "Song": "I natt jag drxf6mde"
+        },
+        "7": {
+            "Artist": "The Kinks",
+            "Song": "Dead End Street"
+        },
+        "8": {
+            "Artist": "Sonny & Cher",
+            "Song": "Little Man"
+        },
+        "9": {
+            "Artist": "Ole Ellefsxe6ter",
+            "Song": "Huldreslåtten"
+        },
+        "10": {
+            "Artist": "Hootenanny Singers",
+            "Song": "Marianne"
+        }
+    }
+}

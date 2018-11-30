@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "3": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "4": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "5": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "6": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "7": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "8": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "9": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "10": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "11": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "12": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "13": {
+            "Artist": "Scooter",
+            "Song": "Jigga Jigga!"
+        },
+        "14": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "15": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "16": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "17": {
+            "Artist": "JO2",
+            "Song": "Babyboo"
+        },
+        "18": {
+            "Artist": "The Darkness",
+            "Song": "I Believe In A Thing Called Love"
+        },
+        "19": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "20": {
+            "Artist": "The Darkness",
+            "Song": "Christmas Time (Don't Let The Bells End)"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "3": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "4": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "5": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "6": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "7": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "8": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "9": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "10": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "11": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "12": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "13": {
+            "Artist": "Scooter",
+            "Song": "Jigga Jigga!"
+        },
+        "14": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "15": {
+            "Artist": "Christine Milton",
+            "Song": "Superstar"
+        },
+        "16": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "17": {
+            "Artist": "The Darkness",
+            "Song": "I Believe In A Thing Called Love"
+        },
+        "18": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "19": {
+            "Artist": "JO2",
+            "Song": "Babyboo"
+        },
+        "20": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "3": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "4": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "5": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "6": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "7": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "8": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "9": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "10": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "11": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "12": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "13": {
+            "Artist": "Scooter",
+            "Song": "Jigga Jigga!"
+        },
+        "14": {
+            "Artist": "The Darkness",
+            "Song": "I Believe In A Thing Called Love"
+        },
+        "15": {
+            "Artist": "Ozzy & Kelly Osbourne",
+            "Song": "Changes"
+        },
+        "16": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "17": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "18": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "19": {
+            "Artist": "Christine Milton",
+            "Song": "Superstar"
+        },
+        "20": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "3": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "4": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "5": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "6": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "7": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "8": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "9": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "The Unnamed Feeling"
+        },
+        "11": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "12": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "13": {
+            "Artist": "deLillos",
+            "Song": "Ikke gå"
+        },
+        "14": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "15": {
+            "Artist": "Westlife",
+            "Song": "Mandy"
+        },
+        "16": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "17": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "18": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "19": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "20": {
+            "Artist": "Christina Aguilera",
+            "Song": "The Voice Within"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "3": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "4": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "5": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "6": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "7": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "8": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "9": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "10": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "The Unnamed Feeling"
+        },
+        "12": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "13": {
+            "Artist": "Christina Aguilera",
+            "Song": "The Voice Within"
+        },
+        "14": {
+            "Artist": "Gluecifer",
+            "Song": "A Call From The Other Side"
+        },
+        "15": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "16": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "17": {
+            "Artist": "deLillos",
+            "Song": "Ikke gå"
+        },
+        "18": {
+            "Artist": "Westlife",
+            "Song": "Mandy"
+        },
+        "19": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "20": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "3": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "4": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "5": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "6": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "7": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "8": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "9": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "10": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "11": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "12": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "13": {
+            "Artist": "Metallica",
+            "Song": "The Unnamed Feeling"
+        },
+        "14": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "15": {
+            "Artist": "Ozzy & Kelly Osbourne",
+            "Song": "Changes"
+        },
+        "16": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "17": {
+            "Artist": "Westlife",
+            "Song": "Mandy"
+        },
+        "18": {
+            "Artist": "deLillos",
+            "Song": "Ikke gå"
+        },
+        "19": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "20": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "3": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "4": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "5": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "6": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "7": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "8": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "9": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "10": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "11": {
+            "Artist": "Span [NO]",
+            "Song": "Don't Think The Way They Do"
+        },
+        "12": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "13": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "14": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "15": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "16": {
+            "Artist": "Westlife",
+            "Song": "Mandy"
+        },
+        "17": {
+            "Artist": "Metallica",
+            "Song": "The Unnamed Feeling"
+        },
+        "18": {
+            "Artist": "deLillos",
+            "Song": "Ikke gå"
+        },
+        "19": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "20": {
+            "Artist": "Ozzy & Kelly Osbourne",
+            "Song": "Changes"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "2": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "3": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "4": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "5": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "6": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "7": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "8": {
+            "Artist": "Anne Hvidsten",
+            "Song": "Need To Know"
+        },
+        "9": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "10": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "11": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "12": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "13": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "14": {
+            "Artist": "Span [NO]",
+            "Song": "Don't Think The Way They Do"
+        },
+        "15": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "16": {
+            "Artist": "Side Brok",
+            "Song": "1, 2, 3, Fyre"
+        },
+        "17": {
+            "Artist": "Westlife",
+            "Song": "Mandy"
+        },
+        "18": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "19": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "20": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "3": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "4": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "5": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "6": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "7": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "8": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "9": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "10": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "11": {
+            "Artist": "Maria Mena",
+            "Song": "You're The Only One"
+        },
+        "12": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "13": {
+            "Artist": "Anne Hvidsten",
+            "Song": "Need To Know"
+        },
+        "14": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "15": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "16": {
+            "Artist": "Span [NO]",
+            "Song": "Don't Think The Way They Do"
+        },
+        "17": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "18": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "19": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "20": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "2": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "4": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "5": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "6": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "7": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "8": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "9": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "10": {
+            "Artist": "Maria Mena",
+            "Song": "You're The Only One"
+        },
+        "11": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "12": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "13": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "14": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "15": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "16": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "17": {
+            "Artist": "Gaute",
+            "Song": "Miss You When You're Gone"
+        },
+        "18": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "19": {
+            "Artist": "Anne Hvidsten",
+            "Song": "Need To Know"
+        },
+        "20": {
+            "Artist": "Span [NO]",
+            "Song": "Don't Think The Way They Do"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "2": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "3": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "4": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "5": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "6": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "7": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "8": {
+            "Artist": "Maria Mena",
+            "Song": "You're The Only One"
+        },
+        "9": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "10": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "11": {
+            "Artist": "George Michael",
+            "Song": "Amazing"
+        },
+        "12": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "13": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "14": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "15": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "16": {
+            "Artist": "Outkast feat. Sleepy Brown",
+            "Song": "The Way You Move"
+        },
+        "17": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "18": {
+            "Artist": "Surferosa",
+            "Song": "Saturday Night"
+        },
+        "19": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "20": {
+            "Artist": "P!nk",
+            "Song": "God Is A DJ"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "3": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "4": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "5": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "6": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "7": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "9": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "10": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "11": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "12": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "13": {
+            "Artist": "Maria Mena",
+            "Song": "You're The Only One"
+        },
+        "14": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "15": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "16": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "17": {
+            "Artist": "Kelis",
+            "Song": "Milkshake"
+        },
+        "18": {
+            "Artist": "Span [NO]",
+            "Song": "Don't Think The Way They Do"
+        },
+        "19": {
+            "Artist": "George Michael",
+            "Song": "Amazing"
+        },
+        "20": {
+            "Artist": "P!nk",
+            "Song": "God Is A DJ"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "3": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "4": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "5": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "6": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "7": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "8": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "9": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "10": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "11": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "12": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "13": {
+            "Artist": "Maria Mena",
+            "Song": "You're The Only One"
+        },
+        "14": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "15": {
+            "Artist": "Silver",
+            "Song": "Angels Calling"
+        },
+        "16": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "17": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        },
+        "18": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Can't Give Up"
+        },
+        "19": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "20": {
+            "Artist": "Outkast feat. Sleepy Brown",
+            "Song": "The Way You Move"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "3": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "4": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "7": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "8": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "9": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "10": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "11": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "12": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "13": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "14": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "15": {
+            "Artist": "Tungtvann",
+            "Song": "Slxe6pp dxe6 laus"
+        },
+        "16": {
+            "Artist": "Silver",
+            "Song": "Angels Calling"
+        },
+        "17": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "18": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        },
+        "19": {
+            "Artist": "Outkast feat. Sleepy Brown",
+            "Song": "The Way You Move"
+        },
+        "20": {
+            "Artist": "Tine",
+            "Song": "Vil ha deg"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "3": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "4": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "5": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "9": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "10": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "11": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "12": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "13": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "14": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "15": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "16": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "17": {
+            "Artist": "Tungtvann",
+            "Song": "Slxe6pp dxe6 laus"
+        },
+        "18": {
+            "Artist": "LMC vs U2",
+            "Song": "Take Me To The Clouds Above"
+        },
+        "19": {
+            "Artist": "Silver",
+            "Song": "Angels Calling"
+        },
+        "20": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "3": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "4": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "6": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "9": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "10": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "11": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "12": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "13": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "14": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "15": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "16": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "17": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "18": {
+            "Artist": "LMC vs U2",
+            "Song": "Take Me To The Clouds Above"
+        },
+        "19": {
+            "Artist": "Tungtvann",
+            "Song": "Slxe6pp dxe6 laus"
+        },
+        "20": {
+            "Artist": "Sugababes",
+            "Song": "Too Lost In You"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "3": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "4": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "5": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "8": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "9": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "10": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "11": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "12": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "13": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "14": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "15": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "16": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "17": {
+            "Artist": "Calexico",
+            "Song": "Black Heart"
+        },
+        "18": {
+            "Artist": "LMC vs U2",
+            "Song": "Take Me To The Clouds Above"
+        },
+        "19": {
+            "Artist": "Prince",
+            "Song": "Musicology"
+        },
+        "20": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "2": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "3": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "4": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "5": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "6": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "8": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "9": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "10": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "11": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Here She Comes"
+        },
+        "13": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "14": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "15": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "16": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "17": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "18": {
+            "Artist": "Tungtvann",
+            "Song": "Slxe6pp dxe6 laus"
+        },
+        "19": {
+            "Artist": "LMC vs U2",
+            "Song": "Take Me To The Clouds Above"
+        },
+        "20": {
+            "Artist": "Calexico",
+            "Song": "Black Heart"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "3": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "4": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "5": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "6": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "8": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "9": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "10": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "12": {
+            "Artist": "Avril Lavigne",
+            "Song": "Don't Tell Me"
+        },
+        "13": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "14": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "15": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "16": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Here She Comes"
+        },
+        "17": {
+            "Artist": "3 Doors Down",
+            "Song": "Here Without You"
+        },
+        "18": {
+            "Artist": "Limp Bizkit",
+            "Song": "Behind Blue Eyes"
+        },
+        "19": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "20": {
+            "Artist": "Tungtvann",
+            "Song": "Slxe6pp dxe6 laus"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "2": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "3": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "4": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "5": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "7": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "9": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "10": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "12": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "13": {
+            "Artist": "Avril Lavigne",
+            "Song": "Don't Tell Me"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "16": {
+            "Artist": "E-Type feat. Na Na",
+            "Song": "Paradise"
+        },
+        "17": {
+            "Artist": "Alanis Morissette",
+            "Song": "Everything"
+        },
+        "18": {
+            "Artist": "Rachel Stevens",
+            "Song": "Sweet Dreams My L.A. Ex"
+        },
+        "19": {
+            "Artist": "N.E.R.D.",
+            "Song": "She Wants To Move"
+        },
+        "20": {
+            "Artist": "Knut Anders Sørum",
+            "Song": "HigH"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "2": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "3": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "4": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "5": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "6": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "7": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "9": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "10": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "13": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "14": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "15": {
+            "Artist": "Avril Lavigne",
+            "Song": "Don't Tell Me"
+        },
+        "16": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Here She Comes"
+        },
+        "17": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "18": {
+            "Artist": "Morrissey",
+            "Song": "Irish Blood, English Heart"
+        },
+        "19": {
+            "Artist": "Ravi & DJ Løv",
+            "Song": "Dødsøt"
+        },
+        "20": {
+            "Artist": "Nu Virgos",
+            "Song": "Stop! Stop! Stop!"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "2": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "3": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "4": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "5": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "6": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "7": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "8": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Glasskår"
+        },
+        "10": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "11": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "12": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "13": {
+            "Artist": "Avril Lavigne",
+            "Song": "Don't Tell Me"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "15": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "16": {
+            "Artist": "Spetakkel",
+            "Song": "Hansadansen (EP)"
+        },
+        "17": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "18": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Here She Comes"
+        },
+        "19": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        },
+        "20": {
+            "Artist": "Nu Virgos",
+            "Song": "Stop! Stop! Stop!"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "2": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "3": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "4": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "5": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "6": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "7": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "8": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Glasskår"
+        },
+        "10": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "11": {
+            "Artist": "Jessica Simpson",
+            "Song": "With You"
+        },
+        "12": {
+            "Artist": "Velvet Revolver",
+            "Song": "Slither"
+        },
+        "13": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "14": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "15": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "16": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "17": {
+            "Artist": "Avril Lavigne",
+            "Song": "Don't Tell Me"
+        },
+        "18": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Hey Mama"
+        },
+        "19": {
+            "Artist": "Katie Melua",
+            "Song": "The Closest Thing To Crazy"
+        },
+        "20": {
+            "Artist": "Enrique Iglesias feat. Kelis",
+            "Song": "Not In Love"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "2": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "3": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "4": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "5": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "6": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "7": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "8": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "9": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "10": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "11": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "12": {
+            "Artist": "Karpe Diem",
+            "Song": "Glasskår"
+        },
+        "13": {
+            "Artist": "Jessica Simpson",
+            "Song": "With You"
+        },
+        "14": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "15": {
+            "Artist": "Evanescence",
+            "Song": "My Immortal"
+        },
+        "16": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "17": {
+            "Artist": "Beastie Boys",
+            "Song": "Ch-Check It Out"
+        },
+        "18": {
+            "Artist": "Velvet Revolver",
+            "Song": "Slither"
+        },
+        "19": {
+            "Artist": "Britney Spears",
+            "Song": "Toxic"
+        },
+        "20": {
+            "Artist": "Avril Lavigne",
+            "Song": "Don't Tell Me"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "2": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "3": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "5": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "6": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "7": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "8": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "9": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "10": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "11": {
+            "Artist": "Karpe Diem",
+            "Song": "Glasskår"
+        },
+        "12": {
+            "Artist": "The Underdog Project",
+            "Song": "Saturday Night"
+        },
+        "13": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "14": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "15": {
+            "Artist": "Jessica Simpson",
+            "Song": "With You"
+        },
+        "16": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "17": {
+            "Artist": "Beastie Boys",
+            "Song": "Ch-Check It Out"
+        },
+        "18": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "19": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "20": {
+            "Artist": "Katie Melua",
+            "Song": "The Closest Thing To Crazy"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "2": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "4": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "5": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "6": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "7": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "8": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "9": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "10": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "11": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "12": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "13": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "14": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "15": {
+            "Artist": "The Underdog Project",
+            "Song": "Saturday Night"
+        },
+        "16": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "17": {
+            "Artist": "Karpe Diem",
+            "Song": "Glasskår"
+        },
+        "18": {
+            "Artist": "Jamelia",
+            "Song": "Superstar"
+        },
+        "19": {
+            "Artist": "Beyoncé",
+            "Song": "Naughty Girl"
+        },
+        "20": {
+            "Artist": "Jessica Simpson",
+            "Song": "With You"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "4": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "5": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "6": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "7": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "8": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "9": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "10": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "11": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "12": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "13": {
+            "Artist": "Eamon",
+            "Song": "F**k It (I Don't Want You Back)"
+        },
+        "14": {
+            "Artist": "The Underdog Project",
+            "Song": "Saturday Night"
+        },
+        "15": {
+            "Artist": "Katie Melua",
+            "Song": "The Closest Thing To Crazy"
+        },
+        "16": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "17": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "18": {
+            "Artist": "Jessica Simpson",
+            "Song": "With You"
+        },
+        "19": {
+            "Artist": "Venke Knutson",
+            "Song": "Scared"
+        },
+        "20": {
+            "Artist": "Karpe Diem",
+            "Song": "Glasskår"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "4": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "5": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "6": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "7": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "8": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "9": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "10": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "11": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "12": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "13": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "14": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "15": {
+            "Artist": "Kristoffer Joner",
+            "Song": "24 timer i døgnet"
+        },
+        "16": {
+            "Artist": "Katie Melua",
+            "Song": "The Closest Thing To Crazy"
+        },
+        "17": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "18": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        },
+        "19": {
+            "Artist": "Jessica Simpson",
+            "Song": "With You"
+        },
+        "20": {
+            "Artist": "The Underdog Project",
+            "Song": "Saturday Night"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "3": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "5": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "6": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "7": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "8": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "9": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "10": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "11": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "12": {
+            "Artist": "Blue",
+            "Song": "Breathe Easy"
+        },
+        "13": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "14": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "15": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "16": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "17": {
+            "Artist": "Christina Milian",
+            "Song": "Dip It Low"
+        },
+        "18": {
+            "Artist": "Nelly Furtado",
+            "Song": "Forxe7a"
+        },
+        "19": {
+            "Artist": "Kristoffer Joner",
+            "Song": "24 timer i døgnet"
+        },
+        "20": {
+            "Artist": "Anastacia",
+            "Song": "Left Outside Alone"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "3": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "5": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "6": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "7": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "8": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "9": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "10": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "11": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "12": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "13": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "14": {
+            "Artist": "Usher feat. Lil' Jon & Ludacris",
+            "Song": "Yeah"
+        },
+        "15": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "16": {
+            "Artist": "D12",
+            "Song": "My Band"
+        },
+        "17": {
+            "Artist": "Blue",
+            "Song": "Breathe Easy"
+        },
+        "18": {
+            "Artist": "The Hives",
+            "Song": "Walk Idiot Walk"
+        },
+        "19": {
+            "Artist": "Alcazar",
+            "Song": "This Is The World We Live In"
+        },
+        "20": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "3": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "4": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "6": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "7": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "8": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "9": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "10": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "11": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        },
+        "12": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "13": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "14": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "15": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "16": {
+            "Artist": "Nightwish",
+            "Song": "Nemo"
+        },
+        "17": {
+            "Artist": "Alcazar",
+            "Song": "This Is The World We Live In"
+        },
+        "18": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Single"
+        },
+        "19": {
+            "Artist": "Blue",
+            "Song": "Breathe Easy"
+        },
+        "20": {
+            "Artist": "The Hives",
+            "Song": "Walk Idiot Walk"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "3": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "4": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "6": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "7": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "8": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "9": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "10": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "11": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "12": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "13": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        },
+        "14": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "15": {
+            "Artist": "Tine",
+            "Song": "Du og jeg"
+        },
+        "16": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "17": {
+            "Artist": "Evanescence",
+            "Song": "Everybody's Fool"
+        },
+        "18": {
+            "Artist": "Alcazar",
+            "Song": "This Is The World We Live In"
+        },
+        "19": {
+            "Artist": "Katie Melua",
+            "Song": "The Closest Thing To Crazy"
+        },
+        "20": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Single"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "3": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "4": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "5": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "7": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "8": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "9": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        },
+        "10": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "11": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "12": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "13": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "14": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "15": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "16": {
+            "Artist": "Alcazar",
+            "Song": "This Is The World We Live In"
+        },
+        "17": {
+            "Artist": "Mario Winans feat. Enya & P. Diddy",
+            "Song": "I Don't Wanna Know"
+        },
+        "18": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Single"
+        },
+        "19": {
+            "Artist": "Tine",
+            "Song": "Du og jeg"
+        },
+        "20": {
+            "Artist": "Evanescence",
+            "Song": "Everybody's Fool"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "3": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "4": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "5": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "7": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "8": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "9": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "10": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "11": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "12": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "13": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        },
+        "14": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "15": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        },
+        "16": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "Single"
+        },
+        "17": {
+            "Artist": "Tine",
+            "Song": "Du og jeg"
+        },
+        "18": {
+            "Artist": "Nina Sky feat. Jabba",
+            "Song": "Move Ya Body"
+        },
+        "19": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "20": {
+            "Artist": "Alcazar",
+            "Song": "This Is The World We Live In"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "2": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "3": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "4": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "5": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "6": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "7": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "8": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "9": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "10": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "11": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "12": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "13": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "14": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        },
+        "15": {
+            "Artist": "Nina Sky feat. Jabba",
+            "Song": "Move Ya Body"
+        },
+        "16": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "17": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "18": {
+            "Artist": "Tine",
+            "Song": "Du og jeg"
+        },
+        "19": {
+            "Artist": "Kristoffer Joner",
+            "Song": "24 timer i døgnet"
+        },
+        "20": {
+            "Artist": "Alcazar",
+            "Song": "This Is The World We Live In"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "3": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Kjendisparty"
+        },
+        "4": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "5": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "6": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "7": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "8": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "9": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "10": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "11": {
+            "Artist": "Nelly feat. Jaheim",
+            "Song": "My Place"
+        },
+        "12": {
+            "Artist": "D12",
+            "Song": "How Come"
+        },
+        "13": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "14": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "15": {
+            "Artist": "Usher",
+            "Song": "Burn"
+        },
+        "16": {
+            "Artist": "Kristoffer Joner",
+            "Song": "24 timer i døgnet"
+        },
+        "17": {
+            "Artist": "Gxfcnther & The Sunshine Girls",
+            "Song": "Ding Dong Song"
+        },
+        "18": {
+            "Artist": "Outkast",
+            "Song": "Roses"
+        },
+        "19": {
+            "Artist": "Haiducii",
+            "Song": "Dragostea din tei"
+        },
+        "20": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Kjendisparty"
+        },
+        "3": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "4": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "5": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "6": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "7": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "8": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "9": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "10": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "11": {
+            "Artist": "Rammstein",
+            "Song": "Mein Teil"
+        },
+        "12": {
+            "Artist": "D12",
+            "Song": "How Come"
+        },
+        "13": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "14": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "15": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "16": {
+            "Artist": "Nelly feat. Jaheim",
+            "Song": "My Place"
+        },
+        "17": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "18": {
+            "Artist": "Kristoffer Joner",
+            "Song": "24 timer i døgnet"
+        },
+        "19": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "20": {
+            "Artist": "Frankee",
+            "Song": "F.U.R.B. (F U Right Back)"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Kjendisparty"
+        },
+        "3": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "4": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "5": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "6": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "7": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "8": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "9": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "10": {
+            "Artist": "D12",
+            "Song": "How Come"
+        },
+        "11": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "13": {
+            "Artist": "Nelly feat. Jaheim",
+            "Song": "My Place"
+        },
+        "14": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "15": {
+            "Artist": "Rammstein",
+            "Song": "Mein Teil"
+        },
+        "16": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "17": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        },
+        "18": {
+            "Artist": "Kristoffer Joner",
+            "Song": "24 timer i døgnet"
+        },
+        "19": {
+            "Artist": "Will Young",
+            "Song": "Leave Right Now"
+        },
+        "20": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Kjendisparty"
+        },
+        "3": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "4": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "5": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "6": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "7": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "8": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "9": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "10": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "11": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "12": {
+            "Artist": "D12",
+            "Song": "How Come"
+        },
+        "13": {
+            "Artist": "Nelly feat. Jaheim",
+            "Song": "My Place"
+        },
+        "14": {
+            "Artist": "Rammstein",
+            "Song": "Mein Teil"
+        },
+        "15": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "16": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "17": {
+            "Artist": "Will Young",
+            "Song": "Leave Right Now"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Everytime"
+        },
+        "19": {
+            "Artist": "Maria Arredondo",
+            "Song": "Mad Summer"
+        },
+        "20": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Kjendisparty"
+        },
+        "3": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "4": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "5": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "6": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "7": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "8": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "9": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "10": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "11": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "12": {
+            "Artist": "D12",
+            "Song": "How Come"
+        },
+        "13": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "14": {
+            "Artist": "Kelis",
+            "Song": "Trick Me"
+        },
+        "15": {
+            "Artist": "Nelly feat. Jaheim",
+            "Song": "My Place"
+        },
+        "16": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "17": {
+            "Artist": "Rammstein",
+            "Song": "Mein Teil"
+        },
+        "18": {
+            "Artist": "Marilyn Manson",
+            "Song": "Personal Jesus"
+        },
+        "19": {
+            "Artist": "Nightwish",
+            "Song": "Wish I Had An Angel"
+        },
+        "20": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "3": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "4": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "5": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Kjendisparty"
+        },
+        "6": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "7": {
+            "Artist": "R.E.M.",
+            "Song": "Leaving New York"
+        },
+        "8": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "9": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "10": {
+            "Artist": "Gåte",
+            "Song": "Sjå attende"
+        },
+        "11": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "12": {
+            "Artist": "Madcon",
+            "Song": "Doo-Wop"
+        },
+        "13": {
+            "Artist": "Kine",
+            "Song": "Hit The Floor"
+        },
+        "14": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "15": {
+            "Artist": "Marilyn Manson",
+            "Song": "Personal Jesus"
+        },
+        "16": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "17": {
+            "Artist": "Nelly feat. Jaheim",
+            "Song": "My Place"
+        },
+        "18": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "19": {
+            "Artist": "D12",
+            "Song": "How Come"
+        },
+        "20": {
+            "Artist": "Kjartan Salvesen",
+            "Song": "Standing Tall"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "3": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "4": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "5": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "6": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "7": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "8": {
+            "Artist": "Robbie Williams",
+            "Song": "Radio"
+        },
+        "9": {
+            "Artist": "Whimsical",
+            "Song": "Coming Home EP"
+        },
+        "10": {
+            "Artist": "R.E.M.",
+            "Song": "Leaving New York"
+        },
+        "11": {
+            "Artist": "Madcon",
+            "Song": "Doo-Wop"
+        },
+        "12": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "13": {
+            "Artist": "Kine",
+            "Song": "Hit The Floor"
+        },
+        "14": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "15": {
+            "Artist": "Gåte",
+            "Song": "Sjå attende"
+        },
+        "16": {
+            "Artist": "Maroon 5",
+            "Song": "This Love"
+        },
+        "17": {
+            "Artist": "Houston feat. Chingy, Nate Dogg & I-20",
+            "Song": "I Like That"
+        },
+        "18": {
+            "Artist": "Keane",
+            "Song": "Everybody's Changing"
+        },
+        "19": {
+            "Artist": "Hoobastank",
+            "Song": "The Reason"
+        },
+        "20": {
+            "Artist": "Marilyn Manson",
+            "Song": "Personal Jesus"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "2": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "3": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "4": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "5": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "6": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "7": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "8": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "9": {
+            "Artist": "Whimsical",
+            "Song": "Coming Home EP"
+        },
+        "10": {
+            "Artist": "R.E.M.",
+            "Song": "Leaving New York"
+        },
+        "11": {
+            "Artist": "Robbie Williams",
+            "Song": "Radio"
+        },
+        "12": {
+            "Artist": "Gåte",
+            "Song": "Sjå attende"
+        },
+        "13": {
+            "Artist": "Annie",
+            "Song": "Chewing Gum"
+        },
+        "14": {
+            "Artist": "Houston feat. Chingy, Nate Dogg & I-20",
+            "Song": "I Like That"
+        },
+        "15": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        },
+        "16": {
+            "Artist": "Marilyn Manson",
+            "Song": "Personal Jesus"
+        },
+        "17": {
+            "Artist": "Madcon",
+            "Song": "Doo-Wop"
+        },
+        "18": {
+            "Artist": "Kine",
+            "Song": "Hit The Floor"
+        },
+        "19": {
+            "Artist": "Keane",
+            "Song": "Everybody's Changing"
+        },
+        "20": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "2": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "3": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "4": {
+            "Artist": "Paperboys",
+            "Song": "One Day"
+        },
+        "5": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "6": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "7": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "8": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "9": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "10": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "11": {
+            "Artist": "R.E.M.",
+            "Song": "Leaving New York"
+        },
+        "12": {
+            "Artist": "Gåte",
+            "Song": "Sjå attende"
+        },
+        "13": {
+            "Artist": "Rammstein",
+            "Song": "Amerika"
+        },
+        "14": {
+            "Artist": "Madcon",
+            "Song": "Doo-Wop"
+        },
+        "15": {
+            "Artist": "Houston feat. Chingy, Nate Dogg & I-20",
+            "Song": "I Like That"
+        },
+        "16": {
+            "Artist": "Kine",
+            "Song": "Hit The Floor"
+        },
+        "17": {
+            "Artist": "Whimsical",
+            "Song": "Coming Home EP"
+        },
+        "18": {
+            "Artist": "Robbie Williams",
+            "Song": "Radio"
+        },
+        "19": {
+            "Artist": "Marilyn Manson",
+            "Song": "Personal Jesus"
+        },
+        "20": {
+            "Artist": "Are & Odin",
+            "Song": "Klapp Klapp"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "2": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "3": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "4": {
+            "Artist": "Paperboys",
+            "Song": "One Day"
+        },
+        "5": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "6": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "7": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "8": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "9": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "10": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "11": {
+            "Artist": "Shania Twain with Mark McGrath",
+            "Song": "Party For Two"
+        },
+        "12": {
+            "Artist": "O-Zone",
+            "Song": "Dragostea din texef"
+        },
+        "13": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "14": {
+            "Artist": "Gåte",
+            "Song": "Sjå attende"
+        },
+        "15": {
+            "Artist": "Rammstein",
+            "Song": "Amerika"
+        },
+        "16": {
+            "Artist": "Korn",
+            "Song": "Word Up!"
+        },
+        "17": {
+            "Artist": "R.E.M.",
+            "Song": "Leaving New York"
+        },
+        "18": {
+            "Artist": "Robbie Williams",
+            "Song": "Radio"
+        },
+        "19": {
+            "Artist": "Usher & Alicia Keys",
+            "Song": "My Boo"
+        },
+        "20": {
+            "Artist": "Houston feat. Chingy, Nate Dogg & I-20",
+            "Song": "I Like That"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "2": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "3": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "4": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "5": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "7": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "8": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "9": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "10": {
+            "Artist": "Paperboys",
+            "Song": "One Day"
+        },
+        "11": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "12": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "13": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "14": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "15": {
+            "Artist": "Korn",
+            "Song": "Word Up!"
+        },
+        "16": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "17": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "18": {
+            "Artist": "Rammstein",
+            "Song": "Amerika"
+        },
+        "19": {
+            "Artist": "Robbie Williams",
+            "Song": "Radio"
+        },
+        "20": {
+            "Artist": "Usher & Alicia Keys",
+            "Song": "My Boo"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "2": {
+            "Artist": "U2",
+            "Song": "Vertigo"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "4": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "5": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "7": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "8": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "9": {
+            "Artist": "Gwen Stefani",
+            "Song": "What You Waiting For?"
+        },
+        "10": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "11": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "12": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "13": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "14": {
+            "Artist": "Paperboys",
+            "Song": "One Day"
+        },
+        "15": {
+            "Artist": "Jim Stxe4rk",
+            "Song": "Morning Songs EP"
+        },
+        "16": {
+            "Artist": "Korn",
+            "Song": "Word Up!"
+        },
+        "17": {
+            "Artist": "Anastacia",
+            "Song": "Sick And Tired"
+        },
+        "18": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "19": {
+            "Artist": "Avril Lavigne",
+            "Song": "My Happy Ending"
+        },
+        "20": {
+            "Artist": "Shania Twain with Mark McGrath",
+            "Song": "Party For Two"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "2": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "3": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "5": {
+            "Artist": "Gwen Stefani",
+            "Song": "What You Waiting For?"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "7": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "8": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Vertigo"
+        },
+        "10": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "11": {
+            "Artist": "Jaa9 & OnklP feat. Rune Rudberg",
+            "Song": "Stank ass ho 2"
+        },
+        "12": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "13": {
+            "Artist": "Paperboys",
+            "Song": "One Day"
+        },
+        "14": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "15": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "16": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        },
+        "17": {
+            "Artist": "Shania Twain with Mark McGrath",
+            "Song": "Party For Two"
+        },
+        "18": {
+            "Artist": "Korn",
+            "Song": "Word Up!"
+        },
+        "19": {
+            "Artist": "Rammstein",
+            "Song": "Amerika"
+        },
+        "20": {
+            "Artist": "Within Temptation",
+            "Song": "Stand My Ground"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "2": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "3": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "4": {
+            "Artist": "Gwen Stefani",
+            "Song": "What You Waiting For?"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "7": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "8": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Vertigo"
+        },
+        "10": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "11": {
+            "Artist": "Jaa9 & OnklP feat. Rune Rudberg",
+            "Song": "Stank ass ho 2"
+        },
+        "12": {
+            "Artist": "O-Zone",
+            "Song": "Despre tine"
+        },
+        "13": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "14": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        },
+        "15": {
+            "Artist": "Paperboys",
+            "Song": "One Day"
+        },
+        "16": {
+            "Artist": "Shania Twain with Mark McGrath",
+            "Song": "Party For Two"
+        },
+        "17": {
+            "Artist": "Gxfcnther feat. Samantha Fox",
+            "Song": "Touch Me"
+        },
+        "18": {
+            "Artist": "Usher & Alicia Keys",
+            "Song": "My Boo"
+        },
+        "19": {
+            "Artist": "The White Stripes",
+            "Song": "Jolene"
+        },
+        "20": {
+            "Artist": "Ana Johnsson",
+            "Song": "We Are"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Band Aid 20",
+            "Song": "Do They Know It's Christmas?"
+        },
+        "2": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "3": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "4": {
+            "Artist": "Gwen Stefani",
+            "Song": "What You Waiting For?"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "7": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "8": {
+            "Artist": "Magnet",
+            "Song": "Minus EP"
+        },
+        "9": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "10": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "11": {
+            "Artist": "Usher & Alicia Keys",
+            "Song": "My Boo"
+        },
+        "12": {
+            "Artist": "Gxfcnther feat. Samantha Fox",
+            "Song": "Touch Me"
+        },
+        "13": {
+            "Artist": "Jaa9 & OnklP feat. Rune Rudberg",
+            "Song": "Stank ass ho 2"
+        },
+        "14": {
+            "Artist": "Glenn",
+            "Song": "Thanks For Leaving"
+        },
+        "15": {
+            "Artist": "U2",
+            "Song": "Vertigo"
+        },
+        "16": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "17": {
+            "Artist": "Scooter",
+            "Song": "Shake That!"
+        },
+        "18": {
+            "Artist": "Shania Twain with Mark McGrath",
+            "Song": "Party For Two"
+        },
+        "19": {
+            "Artist": "The White Stripes",
+            "Song": "Jolene"
+        },
+        "20": {
+            "Artist": "Ashlee Simpson",
+            "Song": "Pieces Of Me"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Band Aid 20",
+            "Song": "Do They Know It's Christmas?"
+        },
+        "2": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "3": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "4": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "5": {
+            "Artist": "Gwen Stefani",
+            "Song": "What You Waiting For?"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "8": {
+            "Artist": "Usher & Alicia Keys",
+            "Song": "My Boo"
+        },
+        "9": {
+            "Artist": "Gxfcnther feat. Samantha Fox",
+            "Song": "Touch Me"
+        },
+        "10": {
+            "Artist": "Magnet",
+            "Song": "Minus EP"
+        },
+        "11": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "12": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "13": {
+            "Artist": "Jaa9 & OnklP feat. Rune Rudberg",
+            "Song": "Stank ass ho 2"
+        },
+        "14": {
+            "Artist": "Glenn",
+            "Song": "Thanks For Leaving"
+        },
+        "15": {
+            "Artist": "Kylie Minogue",
+            "Song": "I Believe In You"
+        },
+        "16": {
+            "Artist": "Snoop Dogg feat. Pharrell",
+            "Song": "Drop It Like It's Hot"
+        },
+        "17": {
+            "Artist": "U2",
+            "Song": "Vertigo"
+        },
+        "18": {
+            "Artist": "Natasha Bedingfield",
+            "Song": "These Words"
+        },
+        "19": {
+            "Artist": "The White Stripes",
+            "Song": "Jolene"
+        },
+        "20": {
+            "Artist": "Shania Twain with Mark McGrath",
+            "Song": "Party For Two"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Band Aid 20",
+            "Song": "Do They Know It's Christmas?"
+        },
+        "2": {
+            "Artist": "Eric Prydz",
+            "Song": "Call On Me"
+        },
+        "3": {
+            "Artist": "Gwen Stefani",
+            "Song": "What You Waiting For?"
+        },
+        "4": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Fake Your Beauty"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "My Prerogative"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Lose My Breath"
+        },
+        "7": {
+            "Artist": "Gxfcnther feat. Samantha Fox",
+            "Song": "Touch Me"
+        },
+        "8": {
+            "Artist": "Usher & Alicia Keys",
+            "Song": "My Boo"
+        },
+        "9": {
+            "Artist": "Eminem",
+            "Song": "Just Lose It"
+        },
+        "10": {
+            "Artist": "Magnet",
+            "Song": "Minus EP"
+        },
+        "11": {
+            "Artist": "Jay-Z / Linkin Park",
+            "Song": "Numb / Encore"
+        },
+        "12": {
+            "Artist": "Snoop Dogg feat. Pharrell",
+            "Song": "Drop It Like It's Hot"
+        },
+        "13": {
+            "Artist": "Jaa9 & OnklP feat. Rune Rudberg",
+            "Song": "Stank ass ho 2"
+        },
+        "14": {
+            "Artist": "Brian McFadden",
+            "Song": "Real To Me"
+        },
+        "15": {
+            "Artist": "The White Stripes",
+            "Song": "Jolene"
+        },
+        "16": {
+            "Artist": "U2",
+            "Song": "Vertigo"
+        },
+        "17": {
+            "Artist": "Kylie Minogue",
+            "Song": "I Believe In You"
+        },
+        "18": {
+            "Artist": "Glenn",
+            "Song": "Thanks For Leaving"
+        },
+        "19": {
+            "Artist": "Maria [NO]",
+            "Song": "Breathing"
+        },
+        "20": {
+            "Artist": "Green Day",
+            "Song": "Boulevard Of Broken Dreams"
+        }
+    }
+}

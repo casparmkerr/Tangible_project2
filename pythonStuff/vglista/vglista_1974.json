@@ -1,0 +1,2112 @@
+{
+    "1": {},
+    "2": {},
+    "3": {
+        "1": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "3": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "4": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "6": {
+            "Artist": "Ringo Starr",
+            "Song": "Photograph"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "8": {
+            "Artist": "Benny Borg",
+            "Song": "Legenden om Metzgar"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "The Ballroom Blitz"
+        },
+        "10": {
+            "Artist": "Albert Hammond",
+            "Song": "The Free Electric Band"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "2": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "3": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "4": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "6": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "7": {
+            "Artist": "Ringo Starr",
+            "Song": "Photograph"
+        },
+        "8": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "9": {
+            "Artist": "Elton John",
+            "Song": "Goodbye Yellow Brick Road"
+        },
+        "10": {
+            "Artist": "Benny Borg",
+            "Song": "Legenden om Metzgar"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "2": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "3": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "4": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "5": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "7": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "8": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "9": {
+            "Artist": "Ringo Starr",
+            "Song": "Photograph"
+        },
+        "10": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Den sangen han sang engang"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "3": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "4": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "5": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "6": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        },
+        "8": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "9": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "10": {
+            "Artist": "Ringo Starr",
+            "Song": "Photograph"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "3": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "4": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "5": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "6": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "8": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        },
+        "9": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "10": {
+            "Artist": "Ringo Starr",
+            "Song": "Photograph"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "4": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "5": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "6": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "8": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        },
+        "10": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "4": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "5": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "6": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "7": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "8": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "9": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        },
+        "10": {
+            "Artist": "Albert Hammond",
+            "Song": "The Peacemaker"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "3": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "4": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "5": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "6": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "8": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        },
+        "9": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "10": {
+            "Artist": "Slade",
+            "Song": "Merry Xmas Everybody"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "3": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "4": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "5": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "6": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "8": {
+            "Artist": "Harpo",
+            "Song": "Sayonara"
+        },
+        "9": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Barn av regnbuen"
+        },
+        "10": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "3": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "4": {
+            "Artist": "The Rolling Stones",
+            "Song": "Angie"
+        },
+        "5": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "6": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "48 Crash"
+        },
+        "8": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "10": {
+            "Artist": "Bob Dylan",
+            "Song": "Knockin' On Heaven's Door"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "2": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "3": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "4": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "5": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "6": {
+            "Artist": "Ringo Starr",
+            "Song": "You're Sixteen"
+        },
+        "7": {
+            "Artist": "Gary Glitter",
+            "Song": "I Love You Love Me Love"
+        },
+        "8": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "10": {
+            "Artist": "Harpo",
+            "Song": "Sayonara"
+        },
+        "11": {
+            "Artist": "Mud",
+            "Song": "Tiger Feet"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "2": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "3": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "4": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "5": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "6": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "8": {
+            "Artist": "Ringo Starr",
+            "Song": "You're Sixteen"
+        },
+        "9": {
+            "Artist": "David Bowie",
+            "Song": "Rebel Rebel"
+        },
+        "10": {
+            "Artist": "Mud",
+            "Song": "Tiger Feet"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "3": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "4": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "5": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "6": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "7": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "8": {
+            "Artist": "Ringo Starr",
+            "Song": "You're Sixteen"
+        },
+        "9": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        },
+        "10": {
+            "Artist": "David Bowie",
+            "Song": "Rebel Rebel"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "3": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "4": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "5": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "6": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "7": {
+            "Artist": "Alvin Stardust",
+            "Song": "My Coo Ca Choo"
+        },
+        "8": {
+            "Artist": "Ringo Starr",
+            "Song": "You're Sixteen"
+        },
+        "9": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        },
+        "10": {
+            "Artist": "David Bowie",
+            "Song": "Rebel Rebel"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "3": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "4": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "5": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "6": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "8": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Live And Let Die"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Teenage Rampage"
+        },
+        "10": {
+            "Artist": "Ringo Starr",
+            "Song": "You're Sixteen"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "3": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "9": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        },
+        "10": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "3": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "9": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        },
+        "10": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "3": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "4": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "3": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "5": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "9": {
+            "Artist": "Alvin Stardust",
+            "Song": "Everything I Want To Do"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "2": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "3": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "5": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "7": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "8": {
+            "Artist": "Alvin Stardust",
+            "Song": "Everything I Want To Do"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "3": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "5": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "7": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "8": {
+            "Artist": "Albert Hammond",
+            "Song": "Everything I Want To Do"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "3": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "5": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "7": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "9": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        },
+        "10": {
+            "Artist": "Cher",
+            "Song": "Dark Lady"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "3": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "6": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "7": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "En spennende dag for Josefine"
+        },
+        "8": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "9": {
+            "Artist": "Albert Hammond",
+            "Song": "I'm A Train"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Jet"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "3": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "6": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "7": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "8": {
+            "Artist": "Uriah Heep",
+            "Song": "Something Or Nothing"
+        },
+        "9": {
+            "Artist": "Jan Høiland",
+            "Song": "En liten sang til deg"
+        },
+        "10": {
+            "Artist": "Bay City Rollers",
+            "Song": "Shang-A-Lang"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "3": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "6": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "7": {
+            "Artist": "Jan Høiland",
+            "Song": "En liten sang til deg"
+        },
+        "8": {
+            "Artist": "Uriah Heep",
+            "Song": "Something Or Nothing"
+        },
+        "9": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "10": {
+            "Artist": "David Essex",
+            "Song": "America"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "6": {
+            "Artist": "Uriah Heep",
+            "Song": "Something Or Nothing"
+        },
+        "7": {
+            "Artist": "Olivia Newton-John",
+            "Song": "Long Live Love"
+        },
+        "8": {
+            "Artist": "Jan Høiland",
+            "Song": "En liten sang til deg"
+        },
+        "9": {
+            "Artist": "Suzi Quatro",
+            "Song": "Devil Gate Drive"
+        },
+        "10": {
+            "Artist": "David Essex",
+            "Song": "America"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "6": {
+            "Artist": "Uriah Heep",
+            "Song": "Something Or Nothing"
+        },
+        "7": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "8": {
+            "Artist": "David Essex",
+            "Song": "America"
+        },
+        "9": {
+            "Artist": "Charlie Rich",
+            "Song": "The Most Beautiful Girl"
+        },
+        "10": {
+            "Artist": "Jan Høiland",
+            "Song": "En liten sang til deg"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "4": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "6": {
+            "Artist": "Uriah Heep",
+            "Song": "Something Or Nothing"
+        },
+        "7": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "8": {
+            "Artist": "David Essex",
+            "Song": "America"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "Charlie Rich",
+            "Song": "The Most Beautiful Girl"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "4": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "7": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "8": {
+            "Artist": "Charlie Rich",
+            "Song": "The Most Beautiful Girl"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "David Essex",
+            "Song": "America"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "5": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "7": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "8": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "9": {
+            "Artist": "Charlie Rich",
+            "Song": "The Most Beautiful Girl"
+        },
+        "10": {
+            "Artist": "The Sweet",
+            "Song": "The Six Teens"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "5": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "7": {
+            "Artist": "The Sweet",
+            "Song": "The Six Teens"
+        },
+        "8": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "9": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "10": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "5": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "7": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "8": {
+            "Artist": "The Sweet",
+            "Song": "The Six Teens"
+        },
+        "9": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        },
+        "10": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "I See A Star"
+        },
+        "11": {
+            "Artist": "Charlie Rich",
+            "Song": "The Most Beautiful Girl"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "2": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "3": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "4": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "5": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "6": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "7": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Haba, Haba"
+        },
+        "8": {
+            "Artist": "The Rolling Stones",
+            "Song": "It's Only Rock 'N' Roll"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "ABBA",
+            "Song": "Waterloo"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "4": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "5": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "6": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "7": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Haba, Haba"
+        },
+        "8": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "9": {
+            "Artist": "Slade",
+            "Song": "Everyday"
+        },
+        "10": {
+            "Artist": "The Rolling Stones",
+            "Song": "It's Only Rock 'N' Roll"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "4": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "5": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "6": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "7": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Haba, Haba"
+        },
+        "8": {
+            "Artist": "The Rolling Stones",
+            "Song": "It's Only Rock 'N' Roll"
+        },
+        "9": {
+            "Artist": "The Rubettes",
+            "Song": "Tonight"
+        },
+        "10": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "4": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "5": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "6": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "7": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Haba, Haba"
+        },
+        "8": {
+            "Artist": "The Rolling Stones",
+            "Song": "It's Only Rock 'N' Roll"
+        },
+        "9": {
+            "Artist": "Slade",
+            "Song": "The Bangin' Man"
+        },
+        "10": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "2": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "4": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "5": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "6": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "7": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Haba, Haba"
+        },
+        "8": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "9": {
+            "Artist": "The Rolling Stones",
+            "Song": "It's Only Rock 'N' Roll"
+        },
+        "10": {
+            "Artist": "Donny & Marie Osmond",
+            "Song": "I'm Leaving It (All) Up To You"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "2": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "3": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "4": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "5": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "6": {
+            "Artist": "Lillebjørn Nilsen",
+            "Song": "Haba, Haba"
+        },
+        "7": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "8": {
+            "Artist": "Terry Jacks",
+            "Song": "Seasons In The Sun"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "Donny & Marie Osmond",
+            "Song": "I'm Leaving It (All) Up To You"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "4": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "5": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "6": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "7": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "8": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "9": {
+            "Artist": "Donny & Marie Osmond",
+            "Song": "I'm Leaving It (All) Up To You"
+        },
+        "10": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "4": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "5": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "6": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "7": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "8": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "9": {
+            "Artist": "Donny & Marie Osmond",
+            "Song": "I'm Leaving It (All) Up To You"
+        },
+        "10": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "4": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "5": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "6": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "7": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "8": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "9": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "10": {
+            "Artist": "Donny & Marie Osmond",
+            "Song": "I'm Leaving It (All) Up To You"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "4": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "5": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "6": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "7": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        },
+        "8": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "9": {
+            "Artist": "Donny & Marie Osmond",
+            "Song": "I'm Leaving It (All) Up To You"
+        },
+        "10": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "4": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "5": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "6": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "7": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "8": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "9": {
+            "Artist": "Terry Jacks",
+            "Song": "If You Go Away"
+        },
+        "10": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "4": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "5": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "6": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "7": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "8": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "The Rubettes",
+            "Song": "Sugar Baby Love"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "3": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "4": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "5": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "6": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "7": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "8": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "David Bowie",
+            "Song": "Knock On Wood"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "3": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "4": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "5": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "6": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "7": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "8": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "9": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        },
+        "10": {
+            "Artist": "The Sweet",
+            "Song": "Turn It Down"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "3": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "4": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "5": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "6": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "7": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "8": {
+            "Artist": "The Sweet",
+            "Song": "Turn It Down"
+        },
+        "9": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "10": {
+            "Artist": "Marvin Hamlisch",
+            "Song": "The Entertainer"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "3": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "4": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "5": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "6": {
+            "Artist": "The Sweet",
+            "Song": "Turn It Down"
+        },
+        "7": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "8": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "9": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Junior's Farm"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "3": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "4": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "5": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "6": {
+            "Artist": "The Sweet",
+            "Song": "Turn It Down"
+        },
+        "7": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Colargol"
+        },
+        "8": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "9": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Junior's Farm"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Hans Petter Hansen",
+            "Song": "Jeg kommer snart igjen"
+        },
+        "2": {
+            "Artist": "Slade",
+            "Song": "Far Far Away"
+        },
+        "3": {
+            "Artist": "Soundtrack",
+            "Song": "Colargol"
+        },
+        "4": {
+            "Artist": "Carl Douglas",
+            "Song": "Kung Fu Fighting"
+        },
+        "5": {
+            "Artist": "George McCrae",
+            "Song": "Rock Your Baby"
+        },
+        "6": {
+            "Artist": "The Sweet",
+            "Song": "Turn It Down"
+        },
+        "7": {
+            "Artist": "Queen",
+            "Song": "Killer Queen"
+        },
+        "8": {
+            "Artist": "Eric Clapton",
+            "Song": "I Shot The Sheriff"
+        },
+        "9": {
+            "Artist": "Demis Roussos",
+            "Song": "Goodbye, My Love, Goodbye [English]"
+        },
+        "10": {
+            "Artist": "Paul McCartney & Wings",
+            "Song": "Junior's Farm"
+        }
+    }
+}

@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "2": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "3": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "4": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "5": {
+            "Artist": "Backstreet Boys",
+            "Song": "As Long As You Love Me"
+        },
+        "6": {
+            "Artist": "Refugee Camp All Stars featuring Pras & Ky-Mani",
+            "Song": "Avenues"
+        },
+        "7": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "8": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        },
+        "9": {
+            "Artist": "Eternal",
+            "Song": "Angel Of Mine"
+        },
+        "10": {
+            "Artist": "Aaron Carter",
+            "Song": "Crazy Little Party Girl"
+        },
+        "11": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "12": {
+            "Artist": "Energy 52",
+            "Song": "Café del mar"
+        },
+        "13": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "14": {
+            "Artist": "Sash! feat. La Trec",
+            "Song": "Stay"
+        },
+        "15": {
+            "Artist": "N-Trance feat. Rod Stewart",
+            "Song": "Da Ya Think I'm Sexy?"
+        },
+        "16": {
+            "Artist": "Luxus Leverpostei",
+            "Song": "xd8l & syltaflesk"
+        },
+        "17": {
+            "Artist": "The Prodigy",
+            "Song": "Smack My Bitch Up"
+        },
+        "18": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "19": {
+            "Artist": "Will Smith",
+            "Song": "Just Cruisin'"
+        },
+        "20": {
+            "Artist": "Chumbawamba",
+            "Song": "Tubthumping"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "2": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "3": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "4": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "5": {
+            "Artist": "Backstreet Boys",
+            "Song": "As Long As You Love Me"
+        },
+        "6": {
+            "Artist": "Refugee Camp All Stars featuring Pras & Ky-Mani",
+            "Song": "Avenues"
+        },
+        "7": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "8": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        },
+        "9": {
+            "Artist": "Eternal",
+            "Song": "Angel Of Mine"
+        },
+        "10": {
+            "Artist": "Aaron Carter",
+            "Song": "Crazy Little Party Girl"
+        },
+        "11": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "12": {
+            "Artist": "Energy 52",
+            "Song": "Café del mar"
+        },
+        "13": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "14": {
+            "Artist": "Sash! feat. La Trec",
+            "Song": "Stay"
+        },
+        "15": {
+            "Artist": "N-Trance feat. Rod Stewart",
+            "Song": "Da Ya Think I'm Sexy?"
+        },
+        "16": {
+            "Artist": "Luxus Leverpostei",
+            "Song": "xd8l & syltaflesk"
+        },
+        "17": {
+            "Artist": "The Prodigy",
+            "Song": "Smack My Bitch Up"
+        },
+        "18": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "19": {
+            "Artist": "Will Smith",
+            "Song": "Just Cruisin'"
+        },
+        "20": {
+            "Artist": "Chumbawamba",
+            "Song": "Tubthumping"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "2": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "3": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "4": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "5": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "6": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "7": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "As Long As You Love Me"
+        },
+        "9": {
+            "Artist": "Refugee Camp All Stars featuring Pras & Ky-Mani",
+            "Song": "Avenues"
+        },
+        "10": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "11": {
+            "Artist": "Eternal",
+            "Song": "Angel Of Mine"
+        },
+        "12": {
+            "Artist": "Aaron Carter",
+            "Song": "Crazy Little Party Girl"
+        },
+        "13": {
+            "Artist": "Will Smith",
+            "Song": "Just Cruisin'"
+        },
+        "14": {
+            "Artist": "Barbra Streisand & Céline Dion",
+            "Song": "Tell Him"
+        },
+        "15": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "16": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "17": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "18": {
+            "Artist": "Dum Dum Boys",
+            "Song": "Stjernesludd"
+        },
+        "19": {
+            "Artist": "Janet Jackson",
+            "Song": "Together Again"
+        },
+        "20": {
+            "Artist": "N-Trance feat. Rod Stewart",
+            "Song": "Da Ya Think I'm Sexy?"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "2": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "3": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "4": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "5": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "6": {
+            "Artist": "Pearl Jam",
+            "Song": "Given To Fly"
+        },
+        "7": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "8": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "9": {
+            "Artist": "Oasis",
+            "Song": "All Around The World"
+        },
+        "10": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "11": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "12": {
+            "Artist": "Backstreet Boys",
+            "Song": "As Long As You Love Me"
+        },
+        "13": {
+            "Artist": "Refugee Camp All Stars featuring Pras & Ky-Mani",
+            "Song": "Avenues"
+        },
+        "14": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "15": {
+            "Artist": "Janet Jackson",
+            "Song": "Together Again"
+        },
+        "16": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        },
+        "17": {
+            "Artist": "Usher",
+            "Song": "You Make Me Wanna..."
+        },
+        "18": {
+            "Artist": "Will Smith",
+            "Song": "Just Cruisin'"
+        },
+        "19": {
+            "Artist": "Aaron Carter",
+            "Song": "Crazy Little Party Girl"
+        },
+        "20": {
+            "Artist": "Eternal",
+            "Song": "Angel Of Mine"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "2": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "3": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "4": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "5": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "6": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "7": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "8": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "9": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "10": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "11": {
+            "Artist": "Pearl Jam",
+            "Song": "Given To Fly"
+        },
+        "12": {
+            "Artist": "Janet Jackson",
+            "Song": "Together Again"
+        },
+        "13": {
+            "Artist": "Usher",
+            "Song": "You Make Me Wanna..."
+        },
+        "14": {
+            "Artist": "Refugee Camp All Stars featuring Pras & Ky-Mani",
+            "Song": "Avenues"
+        },
+        "15": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        },
+        "16": {
+            "Artist": "Oasis",
+            "Song": "All Around The World"
+        },
+        "17": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "18": {
+            "Artist": "Will Smith",
+            "Song": "Just Cruisin'"
+        },
+        "19": {
+            "Artist": "Backstreet Boys",
+            "Song": "As Long As You Love Me"
+        },
+        "20": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "2": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "3": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "4": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "5": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "6": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "7": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "8": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "9": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "10": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "11": {
+            "Artist": "Janet Jackson",
+            "Song": "Together Again"
+        },
+        "12": {
+            "Artist": "Usher",
+            "Song": "You Make Me Wanna..."
+        },
+        "13": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        },
+        "14": {
+            "Artist": "Pearl Jam",
+            "Song": "Given To Fly"
+        },
+        "15": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "16": {
+            "Artist": "Backstreet Boys",
+            "Song": "As Long As You Love Me"
+        },
+        "17": {
+            "Artist": "Will Smith",
+            "Song": "Just Cruisin'"
+        },
+        "18": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "19": {
+            "Artist": "Oasis",
+            "Song": "All Around The World"
+        },
+        "20": {
+            "Artist": "Refugee Camp All Stars featuring Pras & Ky-Mani",
+            "Song": "Avenues"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "2": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "3": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "4": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "5": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "6": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "7": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "8": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "9": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "10": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "11": {
+            "Artist": "Janet Jackson",
+            "Song": "Together Again"
+        },
+        "12": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        },
+        "13": {
+            "Artist": "Usher",
+            "Song": "You Make Me Wanna..."
+        },
+        "14": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "15": {
+            "Artist": "The Rapsody feat. Warren G & Sissel",
+            "Song": "Prince Igor"
+        },
+        "16": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "17": {
+            "Artist": "Hanson",
+            "Song": "I Will Come To You"
+        },
+        "18": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "19": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "20": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "2": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "3": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "4": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "5": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "6": {
+            "Artist": "Motorpsycho",
+            "Song": "Ozone"
+        },
+        "7": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "8": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "9": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "10": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "11": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "12": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "13": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "14": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "15": {
+            "Artist": "Usher",
+            "Song": "You Make Me Wanna..."
+        },
+        "16": {
+            "Artist": "Janet Jackson",
+            "Song": "Together Again"
+        },
+        "17": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "18": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "19": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "20": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "2": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "3": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "4": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "5": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "6": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "7": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "8": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "9": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "10": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "11": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "12": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "13": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "14": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "15": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "16": {
+            "Artist": "Motorpsycho",
+            "Song": "Ozone"
+        },
+        "17": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        },
+        "18": {
+            "Artist": "Usher",
+            "Song": "You Make Me Wanna..."
+        },
+        "19": {
+            "Artist": "Daze",
+            "Song": "Superhero"
+        },
+        "20": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "2": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "3": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "4": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "5": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "6": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "7": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "8": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "9": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "10": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "11": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "12": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "13": {
+            "Artist": "Aaron Carter",
+            "Song": "I'm Gonna Miss You Forever"
+        },
+        "14": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "16": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        },
+        "17": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "18": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Planet Love"
+        },
+        "19": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "20": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "3": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "4": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "5": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "6": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "7": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "8": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "9": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "11": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "12": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "13": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "14": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "15": {
+            "Artist": "Aaron Carter",
+            "Song": "I'm Gonna Miss You Forever"
+        },
+        "16": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "17": {
+            "Artist": "Dum Dum Boys",
+            "Song": "Ikke faen"
+        },
+        "18": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "19": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "20": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "3": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "4": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "5": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "6": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "7": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "8": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "9": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "10": {
+            "Artist": "deLillos",
+            "Song": "Det var Stones"
+        },
+        "11": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "12": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "13": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "14": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "15": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "16": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "17": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "18": {
+            "Artist": "Aaron Carter",
+            "Song": "I'm Gonna Miss You Forever"
+        },
+        "19": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "20": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "3": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "4": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "5": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "6": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "7": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "8": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "9": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "10": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "11": {
+            "Artist": "deLillos",
+            "Song": "Det var Stones"
+        },
+        "12": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "13": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "14": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "15": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "16": {
+            "Artist": "Elton John",
+            "Song": "Something About The Way You Look Tonight / Candle In The Wind 1997"
+        },
+        "17": {
+            "Artist": "Natalie Imbruglia",
+            "Song": "Torn"
+        },
+        "18": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "19": {
+            "Artist": "Aaron Carter",
+            "Song": "I'm Gonna Miss You Forever"
+        },
+        "20": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "3": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "4": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "5": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "6": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "7": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "8": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "9": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "11": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "12": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "13": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "14": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "15": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "16": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "17": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "18": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "19": {
+            "Artist": "deLillos",
+            "Song": "Det var Stones"
+        },
+        "20": {
+            "Artist": "Allure feat. 112",
+            "Song": "All Cried Out"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "3": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "4": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "5": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "6": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "7": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "8": {
+            "Artist": "Various Artists",
+            "Song": "Perfect Day"
+        },
+        "9": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "10": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "11": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "12": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "13": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "14": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "15": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "16": {
+            "Artist": "Wildchild",
+            "Song": "Renegade Master '98"
+        },
+        "17": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "18": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "19": {
+            "Artist": "All Saints",
+            "Song": "Never Ever"
+        },
+        "20": {
+            "Artist": "Eric Clapton",
+            "Song": "My Father's Eyes"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "3": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "4": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "5": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "6": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "7": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "8": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "9": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "10": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "11": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "12": {
+            "Artist": "Eagle-Eye Cherry",
+            "Song": "Save Tonight"
+        },
+        "13": {
+            "Artist": "Anouk",
+            "Song": "Nobody's Wife"
+        },
+        "14": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "15": {
+            "Artist": "Sweetbox",
+            "Song": "Everything's Gonna Be Alright"
+        },
+        "16": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        },
+        "17": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "18": {
+            "Artist": "The Tuesdays",
+            "Song": "It's Up To You"
+        },
+        "19": {
+            "Artist": "Aaron Carter",
+            "Song": "I'm Gonna Miss You Forever"
+        },
+        "20": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "3": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "4": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "5": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "6": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "7": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "8": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "9": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "10": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "11": {
+            "Artist": "The Tuesdays",
+            "Song": "It's Up To You"
+        },
+        "12": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "13": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "14": {
+            "Artist": "Solid Harmonie",
+            "Song": "I Want You To Want Me"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "16": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "17": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "18": {
+            "Artist": "Cue",
+            "Song": "Burnin'"
+        },
+        "19": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "20": {
+            "Artist": "Manchester United",
+            "Song": "Sign Up For The Champions"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "3": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "4": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "5": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "6": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "7": {
+            "Artist": "Toril Moe",
+            "Song": "Aleine her"
+        },
+        "8": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "9": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "10": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "11": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "12": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "13": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "14": {
+            "Artist": "The Tuesdays",
+            "Song": "It's Up To You"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven II"
+        },
+        "16": {
+            "Artist": "Daze",
+            "Song": "Together Forever (The Cyber Pet Song)"
+        },
+        "17": {
+            "Artist": "Backstreet Boys",
+            "Song": "All I Have To Give"
+        },
+        "18": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "19": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "20": {
+            "Artist": "Aaron Carter",
+            "Song": "I'm Gonna Miss You Forever"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "3": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "4": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "5": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "6": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "7": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "8": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "9": {
+            "Artist": "Toril Moe",
+            "Song": "Aleine her"
+        },
+        "10": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "11": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "12": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "13": {
+            "Artist": "The Tuesdays",
+            "Song": "It's Up To You"
+        },
+        "14": {
+            "Artist": "Will Smith",
+            "Song": "Gettin' Jiggy Wit It"
+        },
+        "15": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "16": {
+            "Artist": "Grace [NO]",
+            "Song": "Desire"
+        },
+        "17": {
+            "Artist": "Solid Harmonie",
+            "Song": "I Want You To Want Me"
+        },
+        "18": {
+            "Artist": "Cornershop",
+            "Song": "Brimful Of Asha"
+        },
+        "19": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "20": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "2": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "4": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "5": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "6": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "8": {
+            "Artist": "Motorpsycho",
+            "Song": "Hey Jane"
+        },
+        "9": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "10": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "11": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "12": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "13": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "It's Like That"
+        },
+        "14": {
+            "Artist": "Grace [NO]",
+            "Song": "Desire"
+        },
+        "15": {
+            "Artist": "Solid Harmonie",
+            "Song": "I Want You To Want Me"
+        },
+        "16": {
+            "Artist": "Madonna",
+            "Song": "Frozen"
+        },
+        "17": {
+            "Artist": "The Tuesdays",
+            "Song": "It's Up To You"
+        },
+        "18": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "19": {
+            "Artist": "Cornershop",
+            "Song": "Brimful Of Asha"
+        },
+        "20": {
+            "Artist": "All Saints",
+            "Song": "Under The Bridge"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "4": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "5": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "7": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "8": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "9": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "10": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "11": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "12": {
+            "Artist": "Lars Fredriksen",
+            "Song": "All I Ever Wanted (Was You)"
+        },
+        "13": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "14": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "15": {
+            "Artist": "Carlos [NL]",
+            "Song": "The Silmarillia"
+        },
+        "16": {
+            "Artist": "All Saints",
+            "Song": "Under The Bridge"
+        },
+        "17": {
+            "Artist": "Manchester United",
+            "Song": "United Calypso '98"
+        },
+        "18": {
+            "Artist": "Solid Harmonie",
+            "Song": "I Want You To Want Me"
+        },
+        "19": {
+            "Artist": "Motorpsycho",
+            "Song": "Hey Jane"
+        },
+        "20": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "4": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "5": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "6": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "7": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "8": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "9": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "10": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "11": {
+            "Artist": "The Smashing Pumpkins",
+            "Song": "Ava Adore"
+        },
+        "12": {
+            "Artist": "Manchester United",
+            "Song": "United Calypso '98"
+        },
+        "13": {
+            "Artist": "Run-D.M.C. vs. Jason Nevins",
+            "Song": "(It's) Tricky"
+        },
+        "14": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "15": {
+            "Artist": "Pappa Bear feat. Van der Toorn",
+            "Song": "Cherish"
+        },
+        "16": {
+            "Artist": "All Saints",
+            "Song": "Under The Bridge"
+        },
+        "17": {
+            "Artist": "Dana International",
+            "Song": "Diva"
+        },
+        "18": {
+            "Artist": "Carlos [NL]",
+            "Song": "The Silmarillia"
+        },
+        "19": {
+            "Artist": "Sash!",
+            "Song": "La primavera"
+        },
+        "20": {
+            "Artist": "Lars Fredriksen",
+            "Song": "All I Ever Wanted (Was You)"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "4": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "5": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "6": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "7": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "8": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "9": {
+            "Artist": "Manchester United",
+            "Song": "United Calypso '98"
+        },
+        "10": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "11": {
+            "Artist": "Carlos [NL]",
+            "Song": "The Silmarillia"
+        },
+        "12": {
+            "Artist": "Dana International",
+            "Song": "Diva"
+        },
+        "13": {
+            "Artist": "S.O.A.P.",
+            "Song": "This Is How We Party"
+        },
+        "14": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "15": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "16": {
+            "Artist": "The Smashing Pumpkins",
+            "Song": "Ava Adore"
+        },
+        "17": {
+            "Artist": "All Saints",
+            "Song": "Under The Bridge"
+        },
+        "18": {
+            "Artist": "Take 5",
+            "Song": "I Give"
+        },
+        "19": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "20": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "2": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "4": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "5": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "6": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "7": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "8": {
+            "Artist": "S.O.A.P.",
+            "Song": "This Is How We Party"
+        },
+        "9": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "10": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "11": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "12": {
+            "Artist": "Manchester United",
+            "Song": "United Calypso '98"
+        },
+        "13": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "14": {
+            "Artist": "Dana International",
+            "Song": "Diva"
+        },
+        "15": {
+            "Artist": "Destiny's Child",
+            "Song": "No No No"
+        },
+        "16": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "17": {
+            "Artist": "Carlos [NL]",
+            "Song": "The Silmarillia"
+        },
+        "18": {
+            "Artist": "All Saints",
+            "Song": "Under The Bridge"
+        },
+        "19": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "20": {
+            "Artist": "Ace Of Base",
+            "Song": "Life Is A Flower"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "2": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "4": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "5": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "6": {
+            "Artist": "The Tamperer feat. Maya",
+            "Song": "Feel It"
+        },
+        "7": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "8": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "9": {
+            "Artist": "S.O.A.P.",
+            "Song": "This Is How We Party"
+        },
+        "10": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "11": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "12": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "13": {
+            "Artist": "Manchester United",
+            "Song": "United Calypso '98"
+        },
+        "14": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "15": {
+            "Artist": "Dana International",
+            "Song": "Diva"
+        },
+        "16": {
+            "Artist": "Carlos [NL]",
+            "Song": "The Silmarillia"
+        },
+        "17": {
+            "Artist": "666",
+            "Song": "Diablo"
+        },
+        "18": {
+            "Artist": "All Saints",
+            "Song": "Under The Bridge"
+        },
+        "19": {
+            "Artist": "Savage Garden",
+            "Song": "Truly Madly Deeply"
+        },
+        "20": {
+            "Artist": "De Kasteløse",
+            "Song": "Viva Les Drillos"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "4": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "5": {
+            "Artist": "The Tamperer feat. Maya",
+            "Song": "Feel It"
+        },
+        "6": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "7": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "8": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "9": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "10": {
+            "Artist": "S.O.A.P.",
+            "Song": "This Is How We Party"
+        },
+        "11": {
+            "Artist": "Baddiel & Skinner & Lightning Seeds",
+            "Song": "Three Lions '98"
+        },
+        "12": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        },
+        "13": {
+            "Artist": "666",
+            "Song": "Alarma!"
+        },
+        "14": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "15": {
+            "Artist": "Marcy Playground",
+            "Song": "Sex And Candy"
+        },
+        "16": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "17": {
+            "Artist": "N.Y.C.C.",
+            "Song": "Fight For Your Right (To Party)"
+        },
+        "18": {
+            "Artist": "Carlos [NL]",
+            "Song": "The Silmarillia"
+        },
+        "19": {
+            "Artist": "In-Mood feat. Juliette",
+            "Song": "Ocean Of Light"
+        },
+        "20": {
+            "Artist": "Dana International",
+            "Song": "Diva"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "4": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "5": {
+            "Artist": "Baddiel & Skinner & Lightning Seeds",
+            "Song": "Three Lions '98"
+        },
+        "6": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "7": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        },
+        "8": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "9": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "10": {
+            "Artist": "The Tamperer feat. Maya",
+            "Song": "Feel It"
+        },
+        "11": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "12": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "13": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "14": {
+            "Artist": "S.O.A.P.",
+            "Song": "This Is How We Party"
+        },
+        "15": {
+            "Artist": "Marcy Playground",
+            "Song": "Sex And Candy"
+        },
+        "16": {
+            "Artist": "Aaron Carter",
+            "Song": "Surfin' USA"
+        },
+        "17": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "18": {
+            "Artist": "Céline Dion",
+            "Song": "My Heart Will Go On"
+        },
+        "19": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "20": {
+            "Artist": "Mousse T. vs. Hot 'n' Juicy",
+            "Song": "Horny '98"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "4": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "5": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "6": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        },
+        "7": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "8": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "9": {
+            "Artist": "Baddiel & Skinner & Lightning Seeds",
+            "Song": "Three Lions '98"
+        },
+        "10": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "11": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "12": {
+            "Artist": "The Tamperer feat. Maya",
+            "Song": "Feel It"
+        },
+        "13": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "14": {
+            "Artist": "S.O.A.P.",
+            "Song": "This Is How We Party"
+        },
+        "15": {
+            "Artist": "Aaron Carter",
+            "Song": "Surfin' USA"
+        },
+        "16": {
+            "Artist": "Marcy Playground",
+            "Song": "Sex And Candy"
+        },
+        "17": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "18": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "19": {
+            "Artist": "Mousse T. vs. Hot 'n' Juicy",
+            "Song": "Horny '98"
+        },
+        "20": {
+            "Artist": "Fatboy Slim",
+            "Song": "The Rockafeller Skank"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "4": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        },
+        "5": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "6": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "7": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "8": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "9": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "10": {
+            "Artist": "Baddiel & Skinner & Lightning Seeds",
+            "Song": "Three Lions '98"
+        },
+        "11": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "12": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "13": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "14": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "15": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "16": {
+            "Artist": "The Tamperer feat. Maya",
+            "Song": "Feel It"
+        },
+        "17": {
+            "Artist": "Aaron Carter",
+            "Song": "Surfin' USA"
+        },
+        "18": {
+            "Artist": "Marcy Playground",
+            "Song": "Sex And Candy"
+        },
+        "19": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "20": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "3": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "4": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "5": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "6": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "7": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "8": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "9": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        },
+        "10": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "11": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "12": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "13": {
+            "Artist": "Aaron Carter",
+            "Song": "Surfin' USA"
+        },
+        "14": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Stranded"
+        },
+        "15": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "16": {
+            "Artist": "Tommy Tee",
+            "Song": "Takin' Ova"
+        },
+        "17": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "18": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "19": {
+            "Artist": "Baddiel & Skinner & Lightning Seeds",
+            "Song": "Three Lions '98"
+        },
+        "20": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "3": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "4": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "5": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "6": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "7": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "8": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "9": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "10": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "11": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "12": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "13": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "14": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "15": {
+            "Artist": "Baddiel & Skinner & Lightning Seeds",
+            "Song": "Three Lions '98"
+        },
+        "16": {
+            "Artist": "Bran Van 3000",
+            "Song": "Drinking In L.A."
+        },
+        "17": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        },
+        "18": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "19": {
+            "Artist": "Ayla",
+            "Song": "Ayla Part II"
+        },
+        "20": {
+            "Artist": "Scooter",
+            "Song": "How Much Is The Fish?"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "2": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "3": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "4": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "5": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "6": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "7": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "8": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "9": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "10": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "11": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "12": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "13": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "14": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "15": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "16": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "17": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "18": {
+            "Artist": "Ayla",
+            "Song": "Ayla Part II"
+        },
+        "19": {
+            "Artist": "Scooter",
+            "Song": "How Much Is The Fish?"
+        },
+        "20": {
+            "Artist": "Racer",
+            "Song": "Bønda fra nord 2000"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "2": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "3": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "4": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "5": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "6": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "7": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "8": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "9": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "10": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "11": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "12": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "13": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "14": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "15": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "16": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "17": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "18": {
+            "Artist": "Drxf6mhus",
+            "Song": "Vill ha dig"
+        },
+        "19": {
+            "Artist": "Infinity",
+            "Song": "Happy"
+        },
+        "20": {
+            "Artist": "Scooter",
+            "Song": "How Much Is The Fish?"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "2": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "3": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "4": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "5": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "6": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "7": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "8": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "9": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "10": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "11": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "12": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "13": {
+            "Artist": "Ricky Martin",
+            "Song": "La copa de la vida"
+        },
+        "14": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "15": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "16": {
+            "Artist": "K-Ci & JoJo",
+            "Song": "All My Life"
+        },
+        "17": {
+            "Artist": "Fastball",
+            "Song": "The Way"
+        },
+        "18": {
+            "Artist": "Ayla",
+            "Song": "Ayla Part II"
+        },
+        "19": {
+            "Artist": "Mariah Carey",
+            "Song": "My All"
+        },
+        "20": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "2": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "3": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "4": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "5": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "6": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "7": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "8": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "9": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "10": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "11": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "12": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "13": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "14": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "15": {
+            "Artist": "Fastball",
+            "Song": "The Way"
+        },
+        "16": {
+            "Artist": "Beastie Boys",
+            "Song": "Intergalactic"
+        },
+        "17": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "18": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "19": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "20": {
+            "Artist": "Ayla",
+            "Song": "Ayla Part II"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "2": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "3": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "4": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "5": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "6": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "7": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "8": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "9": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "10": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "11": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "12": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "13": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "14": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "15": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "16": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "17": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "18": {
+            "Artist": "Fastball",
+            "Song": "The Way"
+        },
+        "19": {
+            "Artist": "B*Witched",
+            "Song": "C'est la vie"
+        },
+        "20": {
+            "Artist": "Manic Street Preachers",
+            "Song": "If You Tolerate This Your Children Will Be Next"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "2": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "3": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "4": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "5": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "6": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "7": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "8": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "9": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "10": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "11": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "12": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "13": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "14": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "15": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "16": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        },
+        "17": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "18": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "19": {
+            "Artist": "Manic Street Preachers",
+            "Song": "If You Tolerate This Your Children Will Be Next"
+        },
+        "20": {
+            "Artist": "Ayla",
+            "Song": "Ayla Part II"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "2": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "3": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "4": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "5": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "6": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "7": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "8": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "9": {
+            "Artist": "KISS",
+            "Song": "Psycho Circus"
+        },
+        "10": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "11": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "12": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "13": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "14": {
+            "Artist": "Depeche Mode",
+            "Song": "Only When I Lose Myself"
+        },
+        "15": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "16": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "17": {
+            "Artist": "Brandy & Monica",
+            "Song": "The Boy Is Mine"
+        },
+        "18": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "19": {
+            "Artist": "Pras Michel feat. ODB & intr. Mxfda",
+            "Song": "Ghetto Supastar (That Is What You Are)"
+        },
+        "20": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "2": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "3": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "5": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "6": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "7": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "8": {
+            "Artist": "KISS",
+            "Song": "Psycho Circus"
+        },
+        "9": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "10": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "11": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "12": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "13": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "14": {
+            "Artist": "666",
+            "Song": "Amokk"
+        },
+        "15": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "16": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "17": {
+            "Artist": "Hit 'N' Hide",
+            "Song": "Space Invaders"
+        },
+        "18": {
+            "Artist": "Robbie Williams",
+            "Song": "Millennium"
+        },
+        "19": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "20": {
+            "Artist": "Bravo All Stars",
+            "Song": "Let The Music Heal Your Soul"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "2": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "3": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "5": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "6": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "7": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "8": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "9": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "10": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "11": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "12": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "13": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "14": {
+            "Artist": "Robbie Williams",
+            "Song": "Millennium"
+        },
+        "15": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "16": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "17": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "18": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "19": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "20": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Someone Loves You Honey"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "2": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "3": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "5": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "6": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "7": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "8": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "9": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "10": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "11": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "12": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "13": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "14": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "15": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "16": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "17": {
+            "Artist": "Robbie Williams",
+            "Song": "Millennium"
+        },
+        "18": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "19": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Someone Loves You Honey"
+        },
+        "20": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "2": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "3": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "4": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "5": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "6": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "7": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "8": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "9": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "10": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "11": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "12": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "13": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        },
+        "14": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "15": {
+            "Artist": "Des'ree",
+            "Song": "Life"
+        },
+        "16": {
+            "Artist": "Puff Daddy feat. Jimmy Page",
+            "Song": "Come With Me"
+        },
+        "17": {
+            "Artist": "Spice Girls",
+            "Song": "Viva Forever"
+        },
+        "18": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Someone Loves You Honey"
+        },
+        "19": {
+            "Artist": "Frost [NO]",
+            "Song": "Clouds Across The Moon"
+        },
+        "20": {
+            "Artist": "B*Witched",
+            "Song": "Rollercoaster"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "2": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "3": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "4": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "5": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "6": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "7": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "8": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "9": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "10": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "11": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "12": {
+            "Artist": "R.E.M.",
+            "Song": "Daysleeper"
+        },
+        "13": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "14": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "15": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        },
+        "16": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "17": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Someone Loves You Honey"
+        },
+        "18": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "19": {
+            "Artist": "Sash! feat. Tina Cousins",
+            "Song": "Mysterious Times"
+        },
+        "20": {
+            "Artist": "Another Level",
+            "Song": "Freak Me"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "2": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "3": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "4": {
+            "Artist": "U2",
+            "Song": "Sweetest Thing"
+        },
+        "5": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "6": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "7": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "8": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "9": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "10": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "11": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "12": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "13": {
+            "Artist": "George Michael",
+            "Song": "Outside"
+        },
+        "14": {
+            "Artist": "R.E.M.",
+            "Song": "Daysleeper"
+        },
+        "15": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "16": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "17": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "18": {
+            "Artist": "Lutricia McNeal",
+            "Song": "Someone Loves You Honey"
+        },
+        "19": {
+            "Artist": "Meja",
+            "Song": "All 'Bout The Money"
+        },
+        "20": {
+            "Artist": "E-Type",
+            "Song": "Angels Crying"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "2": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "3": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "4": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "5": {
+            "Artist": "U2",
+            "Song": "Sweetest Thing"
+        },
+        "6": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "7": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "8": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "9": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "10": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "11": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "12": {
+            "Artist": "George Michael",
+            "Song": "Outside"
+        },
+        "13": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "14": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        },
+        "15": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "16": {
+            "Artist": "The Warlocks",
+            "Song": "Those Who Never Saw This"
+        },
+        "17": {
+            "Artist": "Jessica",
+            "Song": "Tell Me What You Like"
+        },
+        "18": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "19": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "20": {
+            "Artist": "Queen / Wyclef Jean feat. Pras & Free",
+            "Song": "Another One Bites The Dust"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "2": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "3": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "4": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "5": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "6": {
+            "Artist": "U2",
+            "Song": "Sweetest Thing"
+        },
+        "7": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "8": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "9": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "10": {
+            "Artist": "George Michael",
+            "Song": "Outside"
+        },
+        "11": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "12": {
+            "Artist": "$cenic",
+            "Song": "Party Right"
+        },
+        "13": {
+            "Artist": "Fountains Of Wayne",
+            "Song": "Sink To The Bottom"
+        },
+        "14": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "15": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        },
+        "16": {
+            "Artist": "Jessica",
+            "Song": "Tell Me What You Like"
+        },
+        "17": {
+            "Artist": "The Warlocks",
+            "Song": "Those Who Never Saw This"
+        },
+        "18": {
+            "Artist": "Infinity",
+            "Song": "Feeling Good"
+        },
+        "19": {
+            "Artist": "Cypress Hill",
+            "Song": "Tequila Sunrise"
+        },
+        "20": {
+            "Artist": "Stardust",
+            "Song": "Music Sounds Better With You"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "2": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "3": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "4": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "5": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "6": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "7": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "8": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Sweetest Thing"
+        },
+        "10": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "11": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "12": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "13": {
+            "Artist": "George Michael",
+            "Song": "Outside"
+        },
+        "14": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Escape To Paradise"
+        },
+        "15": {
+            "Artist": "Jennifer Paige",
+            "Song": "Crush"
+        },
+        "16": {
+            "Artist": "Touch And Go",
+            "Song": "Would You...?"
+        },
+        "17": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "18": {
+            "Artist": "Jessica",
+            "Song": "Tell Me What You Like"
+        },
+        "19": {
+            "Artist": "The Warlocks",
+            "Song": "Those Who Never Saw This"
+        },
+        "20": {
+            "Artist": "Aerosmith",
+            "Song": "I Don't Want To Miss A Thing"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "2": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "3": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "4": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "5": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "6": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "7": {
+            "Artist": "Frost [NO]",
+            "Song": "Close To You"
+        },
+        "8": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "9": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "10": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "Turn The Page"
+        },
+        "12": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "13": {
+            "Artist": "Touch And Go",
+            "Song": "Would You...?"
+        },
+        "14": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "15": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Escape To Paradise"
+        },
+        "16": {
+            "Artist": "U2",
+            "Song": "Sweetest Thing"
+        },
+        "17": {
+            "Artist": "Faithless",
+            "Song": "God Is A DJ"
+        },
+        "18": {
+            "Artist": "KISS",
+            "Song": "We Are One"
+        },
+        "19": {
+            "Artist": "Jessica",
+            "Song": "Tell Me What You Like"
+        },
+        "20": {
+            "Artist": "The Warlocks",
+            "Song": "Those Who Never Saw This"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "2": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "3": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "4": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "5": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "6": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "7": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "8": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "9": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "10": {
+            "Artist": "Touch And Go",
+            "Song": "Would You...?"
+        },
+        "11": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "12": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "13": {
+            "Artist": "Loraine Velez",
+            "Song": "Fame"
+        },
+        "14": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "Turn The Page"
+        },
+        "16": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "17": {
+            "Artist": "U2",
+            "Song": "Sweetest Thing"
+        },
+        "18": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Escape To Paradise"
+        },
+        "19": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        },
+        "20": {
+            "Artist": "Ayla",
+            "Song": "Liebe"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "2": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "3": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "4": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "5": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "6": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "7": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "8": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "9": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "10": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "11": {
+            "Artist": "Touch And Go",
+            "Song": "Would You...?"
+        },
+        "12": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "13": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        },
+        "14": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "Turn The Page"
+        },
+        "16": {
+            "Artist": "Boyzone",
+            "Song": "No Matter What"
+        },
+        "17": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "18": {
+            "Artist": "DJ Quicksilver",
+            "Song": "Escape To Paradise"
+        },
+        "19": {
+            "Artist": "Ayla",
+            "Song": "Liebe"
+        },
+        "20": {
+            "Artist": "Boyzone",
+            "Song": "I Love The Way You Love Me"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "2": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "3": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "4": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "5": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "6": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "7": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "8": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "9": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "10": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "11": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        },
+        "12": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "13": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "14": {
+            "Artist": "Touch And Go",
+            "Song": "Would You...?"
+        },
+        "15": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        },
+        "16": {
+            "Artist": "Boyzone",
+            "Song": "I Love The Way You Love Me"
+        },
+        "17": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "18": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "19": {
+            "Artist": "Ayla",
+            "Song": "Liebe"
+        },
+        "20": {
+            "Artist": "Metallica",
+            "Song": "Turn The Page"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Cher",
+            "Song": "Believe"
+        },
+        "2": {
+            "Artist": "Emilia",
+            "Song": "Big Big World"
+        },
+        "3": {
+            "Artist": "Mariah Carey & Whitney Houston",
+            "Song": "When You Believe"
+        },
+        "4": {
+            "Artist": "Alex Rosén",
+            "Song": "Bobby Brown"
+        },
+        "5": {
+            "Artist": "Toy-Box",
+            "Song": "Tarzan & Jane"
+        },
+        "6": {
+            "Artist": "Spice Girls",
+            "Song": "Goodbye"
+        },
+        "7": {
+            "Artist": "E-Type",
+            "Song": "Here I Go Again"
+        },
+        "8": {
+            "Artist": "Lene Marlin",
+            "Song": "Unforgivable Sinner"
+        },
+        "9": {
+            "Artist": "La Cream",
+            "Song": "You"
+        },
+        "10": {
+            "Artist": "Dr. Bombay",
+            "Song": "S.O.S. (The Tiger Took My Family)"
+        },
+        "11": {
+            "Artist": "Alanis Morissette",
+            "Song": "Thank U"
+        },
+        "12": {
+            "Artist": "Bryan Adams feat. Melanie C.",
+            "Song": "When You're Gone"
+        },
+        "13": {
+            "Artist": "Céline Dion & R. Kelly",
+            "Song": "I'm Your Angel"
+        },
+        "14": {
+            "Artist": "Dr. Bombay",
+            "Song": "Calcutta (Taxi, Taxi, Taxi)"
+        },
+        "15": {
+            "Artist": "Infinity",
+            "Song": "Makin' Out"
+        },
+        "16": {
+            "Artist": "Multicyde",
+            "Song": "The Claptrap"
+        },
+        "17": {
+            "Artist": "Jay-Z",
+            "Song": "Hard Knock Life (Ghetto Anthem)"
+        },
+        "18": {
+            "Artist": "Boyzone",
+            "Song": "I Love The Way You Love Me"
+        },
+        "19": {
+            "Artist": "LeAnn Rimes",
+            "Song": "How Do I Live"
+        },
+        "20": {
+            "Artist": "Antiloop",
+            "Song": "Believe"
+        }
+    }
+}

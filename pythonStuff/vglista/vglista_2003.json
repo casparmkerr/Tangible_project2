@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "2": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "3": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "4": {
+            "Artist": "Christina Aguilera feat. Redman",
+            "Song": "Dirrty"
+        },
+        "5": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        },
+        "6": {
+            "Artist": "Shania Twain",
+            "Song": "I'm Gonna Getcha Good!"
+        },
+        "7": {
+            "Artist": "t.A.T.u.",
+            "Song": "All The Things She Said"
+        },
+        "8": {
+            "Artist": "Howard & Christine",
+            "Song": "Støveldance"
+        },
+        "9": {
+            "Artist": "Jennifer Lopez feat. Jadakiss and Styles",
+            "Song": "Jenny From The Block"
+        },
+        "10": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "11": {
+            "Artist": "Shakira",
+            "Song": "Objection (Tango)"
+        },
+        "12": {
+            "Artist": "Justin Timberlake",
+            "Song": "Like I Love You"
+        },
+        "13": {
+            "Artist": "Atomic Kitten",
+            "Song": "The Tide Is High (Get The Feeling)"
+        },
+        "14": {
+            "Artist": "P!nk",
+            "Song": "Just Like A Pill"
+        },
+        "15": {
+            "Artist": "Madonna",
+            "Song": "Die Another Day"
+        },
+        "16": {
+            "Artist": "Galaxee",
+            "Song": "The Shoemaker"
+        },
+        "17": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "18": {
+            "Artist": "Missy Elliott",
+            "Song": "Work It"
+        },
+        "19": {
+            "Artist": "Diaz",
+            "Song": "Stikking"
+        },
+        "20": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "2": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "3": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "4": {
+            "Artist": "Christina Aguilera feat. Redman",
+            "Song": "Dirrty"
+        },
+        "5": {
+            "Artist": "Shania Twain",
+            "Song": "I'm Gonna Getcha Good!"
+        },
+        "6": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        },
+        "7": {
+            "Artist": "Jennifer Lopez feat. Jadakiss and Styles",
+            "Song": "Jenny From The Block"
+        },
+        "8": {
+            "Artist": "t.A.T.u.",
+            "Song": "All The Things She Said"
+        },
+        "9": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "10": {
+            "Artist": "Shakira",
+            "Song": "Objection (Tango)"
+        },
+        "11": {
+            "Artist": "Justin Timberlake",
+            "Song": "Like I Love You"
+        },
+        "12": {
+            "Artist": "P!nk",
+            "Song": "Just Like A Pill"
+        },
+        "13": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "14": {
+            "Artist": "Howard & Christine",
+            "Song": "Støveldance"
+        },
+        "15": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "16": {
+            "Artist": "Missy Elliott",
+            "Song": "Work It"
+        },
+        "17": {
+            "Artist": "Atomic Kitten",
+            "Song": "The Tide Is High (Get The Feeling)"
+        },
+        "18": {
+            "Artist": "Madonna",
+            "Song": "Die Another Day"
+        },
+        "19": {
+            "Artist": "Santana feat. Michelle Branch",
+            "Song": "The Game Of Love"
+        },
+        "20": {
+            "Artist": "Eminem",
+            "Song": "Cleanin' Out My Closet"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "2": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "3": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "4": {
+            "Artist": "Christina Aguilera feat. Redman",
+            "Song": "Dirrty"
+        },
+        "5": {
+            "Artist": "Jennifer Lopez feat. Jadakiss and Styles",
+            "Song": "Jenny From The Block"
+        },
+        "6": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "7": {
+            "Artist": "Shania Twain",
+            "Song": "I'm Gonna Getcha Good!"
+        },
+        "8": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        },
+        "9": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "10": {
+            "Artist": "t.A.T.u.",
+            "Song": "All The Things She Said"
+        },
+        "11": {
+            "Artist": "Justin Timberlake",
+            "Song": "Like I Love You"
+        },
+        "12": {
+            "Artist": "Shakira",
+            "Song": "Objection (Tango)"
+        },
+        "13": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "14": {
+            "Artist": "Madonna",
+            "Song": "Die Another Day"
+        },
+        "15": {
+            "Artist": "Bjxf6rn Rosenstrxf6m",
+            "Song": "Het"
+        },
+        "16": {
+            "Artist": "Mew",
+            "Song": "Am I Wry? No"
+        },
+        "17": {
+            "Artist": "Diaz",
+            "Song": "Stikking"
+        },
+        "18": {
+            "Artist": "P!nk",
+            "Song": "Just Like A Pill"
+        },
+        "19": {
+            "Artist": "Missy Elliott",
+            "Song": "Work It"
+        },
+        "20": {
+            "Artist": "Atomic Kitten",
+            "Song": "The Tide Is High (Get The Feeling)"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "2": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "3": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "4": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "5": {
+            "Artist": "Christina Aguilera feat. Redman",
+            "Song": "Dirrty"
+        },
+        "6": {
+            "Artist": "Jennifer Lopez feat. Jadakiss and Styles",
+            "Song": "Jenny From The Block"
+        },
+        "7": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "8": {
+            "Artist": "Shania Twain",
+            "Song": "I'm Gonna Getcha Good!"
+        },
+        "9": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "10": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "11": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        },
+        "12": {
+            "Artist": "t.A.T.u.",
+            "Song": "All The Things She Said"
+        },
+        "13": {
+            "Artist": "Justin Timberlake",
+            "Song": "Like I Love You"
+        },
+        "14": {
+            "Artist": "Shakira",
+            "Song": "Objection (Tango)"
+        },
+        "15": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "16": {
+            "Artist": "Madonna",
+            "Song": "Die Another Day"
+        },
+        "17": {
+            "Artist": "Atomic Kitten",
+            "Song": "The Tide Is High (Get The Feeling)"
+        },
+        "18": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "19": {
+            "Artist": "Missy Elliott",
+            "Song": "Work It"
+        },
+        "20": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "2": {
+            "Artist": "St. Thomas",
+            "Song": "A Long Time EP"
+        },
+        "3": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "4": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "5": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "6": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "7": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "8": {
+            "Artist": "Christina Aguilera feat. Redman",
+            "Song": "Dirrty"
+        },
+        "9": {
+            "Artist": "Analogue Orchestra",
+            "Song": "Satellite Lovers EP"
+        },
+        "10": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "11": {
+            "Artist": "Lorraine",
+            "Song": "Lorraine EP"
+        },
+        "12": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "13": {
+            "Artist": "t.A.T.u.",
+            "Song": "All The Things She Said"
+        },
+        "14": {
+            "Artist": "Shania Twain",
+            "Song": "I'm Gonna Getcha Good!"
+        },
+        "15": {
+            "Artist": "Jennifer Lopez feat. Jadakiss and Styles",
+            "Song": "Jenny From The Block"
+        },
+        "16": {
+            "Artist": "Sum 41",
+            "Song": "Still Waiting"
+        },
+        "17": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        },
+        "18": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "19": {
+            "Artist": "Spritney Bears",
+            "Song": "Ghostbusters"
+        },
+        "20": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "2": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "3": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "4": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "5": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "6": {
+            "Artist": "P!nk",
+            "Song": "Family Portrait"
+        },
+        "7": {
+            "Artist": "St. Thomas",
+            "Song": "A Long Time EP"
+        },
+        "8": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "9": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "10": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "11": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "12": {
+            "Artist": "Christina Aguilera feat. Redman",
+            "Song": "Dirrty"
+        },
+        "13": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "14": {
+            "Artist": "Analogue Orchestra",
+            "Song": "Satellite Lovers EP"
+        },
+        "15": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "16": {
+            "Artist": "L8R",
+            "Song": "Back In Black"
+        },
+        "17": {
+            "Artist": "Spritney Bears",
+            "Song": "Ghostbusters"
+        },
+        "18": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "19": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        },
+        "20": {
+            "Artist": "Kelly Osbourne",
+            "Song": "Shut Up"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "2": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "3": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "4": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "5": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "6": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "7": {
+            "Artist": "P!nk",
+            "Song": "Family Portrait"
+        },
+        "8": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "9": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "10": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "11": {
+            "Artist": "St. Thomas",
+            "Song": "A Long Time EP"
+        },
+        "12": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "13": {
+            "Artist": "t.A.T.u.",
+            "Song": "Not Gonna Get Us"
+        },
+        "14": {
+            "Artist": "Avril Lavigne",
+            "Song": "Sk8er Boi"
+        },
+        "15": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "16": {
+            "Artist": "Kelly Osbourne",
+            "Song": "Shut Up"
+        },
+        "17": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "18": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "19": {
+            "Artist": "L8R",
+            "Song": "Back In Black"
+        },
+        "20": {
+            "Artist": "Nelly feat. Kelly Rowland",
+            "Song": "Dilemma"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "2": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "3": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "4": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "5": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "7": {
+            "Artist": "St. Thomas",
+            "Song": "A Long Time EP"
+        },
+        "8": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "9": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "10": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "11": {
+            "Artist": "P!nk",
+            "Song": "Family Portrait"
+        },
+        "12": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "13": {
+            "Artist": "t.A.T.u.",
+            "Song": "Not Gonna Get Us"
+        },
+        "14": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "15": {
+            "Artist": "Kelly Osbourne",
+            "Song": "Shut Up"
+        },
+        "16": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "17": {
+            "Artist": "Avril Lavigne",
+            "Song": "Sk8er Boi"
+        },
+        "18": {
+            "Artist": "L8R",
+            "Song": "Back In Black"
+        },
+        "19": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        },
+        "20": {
+            "Artist": "Johndoe",
+            "Song": "Rastløs Rock 'N' Roll"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "2": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "3": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "4": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "5": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "6": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "7": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "8": {
+            "Artist": "St. Thomas",
+            "Song": "A Long Time EP"
+        },
+        "9": {
+            "Artist": "P!nk",
+            "Song": "Family Portrait"
+        },
+        "10": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "11": {
+            "Artist": "Winta feat. Diaz",
+            "Song": "Emotions"
+        },
+        "12": {
+            "Artist": "t.A.T.u.",
+            "Song": "Not Gonna Get Us"
+        },
+        "13": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "14": {
+            "Artist": "Johndoe",
+            "Song": "Rastløs Rock 'N' Roll"
+        },
+        "15": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "16": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "17": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "18": {
+            "Artist": "Kelly Osbourne",
+            "Song": "Shut Up"
+        },
+        "19": {
+            "Artist": "Robyn",
+            "Song": "Don't Stop The Music"
+        },
+        "20": {
+            "Artist": "Avril Lavigne",
+            "Song": "Sk8er Boi"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "2": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "3": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "4": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "5": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "6": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "7": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "8": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "9": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "10": {
+            "Artist": "Justin Timberlake",
+            "Song": "Cry Me A River"
+        },
+        "11": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "12": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "13": {
+            "Artist": "P!nk",
+            "Song": "Family Portrait"
+        },
+        "14": {
+            "Artist": "Jay-Z feat. Beyoncé Knowles",
+            "Song": "'03 Bonnie And Clyde"
+        },
+        "15": {
+            "Artist": "Kate Ryan",
+            "Song": "Libertine"
+        },
+        "16": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "17": {
+            "Artist": "t.A.T.u.",
+            "Song": "Not Gonna Get Us"
+        },
+        "18": {
+            "Artist": "St. Thomas",
+            "Song": "A Long Time EP"
+        },
+        "19": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        },
+        "20": {
+            "Artist": "Sugababes",
+            "Song": "Stronger"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "2": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "3": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "4": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "5": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "6": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "7": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "8": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "9": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "10": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "11": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "12": {
+            "Artist": "Justin Timberlake",
+            "Song": "Cry Me A River"
+        },
+        "13": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "14": {
+            "Artist": "Céline Dion",
+            "Song": "I Drove All Night"
+        },
+        "15": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        },
+        "16": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "17": {
+            "Artist": "t.A.T.u.",
+            "Song": "Not Gonna Get Us"
+        },
+        "18": {
+            "Artist": "Kate Ryan",
+            "Song": "Libertine"
+        },
+        "19": {
+            "Artist": "P!nk",
+            "Song": "Family Portrait"
+        },
+        "20": {
+            "Artist": "Maria Arredondo",
+            "Song": "Just A Little Heartache"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "2": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "3": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "4": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "5": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "6": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "7": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "8": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "9": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "10": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "11": {
+            "Artist": "Céline Dion",
+            "Song": "I Drove All Night"
+        },
+        "12": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "13": {
+            "Artist": "Justin Timberlake",
+            "Song": "Cry Me A River"
+        },
+        "14": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "15": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "16": {
+            "Artist": "Avril Lavigne",
+            "Song": "I'm With You"
+        },
+        "17": {
+            "Artist": "Nelly feat. Justin Timberlake",
+            "Song": "Work It"
+        },
+        "18": {
+            "Artist": "In-Grid",
+            "Song": "Tu es foutu"
+        },
+        "19": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "20": {
+            "Artist": "Robbie Williams",
+            "Song": "Feel"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "2": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "3": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "4": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "5": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "6": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "7": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "8": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "9": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "10": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "11": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "12": {
+            "Artist": "Céline Dion",
+            "Song": "I Drove All Night"
+        },
+        "13": {
+            "Artist": "Justin Timberlake",
+            "Song": "Cry Me A River"
+        },
+        "14": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "15": {
+            "Artist": "Nelly feat. Justin Timberlake",
+            "Song": "Work It"
+        },
+        "16": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "17": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "18": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        },
+        "19": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "20": {
+            "Artist": "Avril Lavigne",
+            "Song": "I'm With You"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "2": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "3": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "4": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "5": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "6": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "7": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "8": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "9": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "10": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "11": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "12": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "13": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "14": {
+            "Artist": "Céline Dion",
+            "Song": "I Drove All Night"
+        },
+        "15": {
+            "Artist": "Justin Timberlake",
+            "Song": "Cry Me A River"
+        },
+        "16": {
+            "Artist": "Las Ketchup",
+            "Song": "The Ketchup Song (Aserejé)"
+        },
+        "17": {
+            "Artist": "Eminem",
+            "Song": "Lose Yourself"
+        },
+        "18": {
+            "Artist": "Nelly feat. Justin Timberlake",
+            "Song": "Work It"
+        },
+        "19": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "20": {
+            "Artist": "Kelly Rowland",
+            "Song": "Stole"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "2": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "3": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "4": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "5": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "6": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "7": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "8": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "9": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "10": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "11": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "12": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "13": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "14": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "15": {
+            "Artist": "Céline Dion",
+            "Song": "I Drove All Night"
+        },
+        "16": {
+            "Artist": "Nelly feat. Justin Timberlake",
+            "Song": "Work It"
+        },
+        "17": {
+            "Artist": "Xploding Plastix",
+            "Song": "The Benevolent Volume Lurkings EP"
+        },
+        "18": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "19": {
+            "Artist": "Justin Timberlake",
+            "Song": "Cry Me A River"
+        },
+        "20": {
+            "Artist": "Busted",
+            "Song": "Year 3000"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "2": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "3": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "4": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "5": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "6": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "7": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "8": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "9": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "10": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "11": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "12": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "13": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "14": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "15": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "16": {
+            "Artist": "Sugababes",
+            "Song": "Shape"
+        },
+        "17": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        },
+        "18": {
+            "Artist": "Nelly feat. Justin Timberlake",
+            "Song": "Work It"
+        },
+        "19": {
+            "Artist": "Xploding Plastix",
+            "Song": "The Benevolent Volume Lurkings EP"
+        },
+        "20": {
+            "Artist": "Turbonegro",
+            "Song": "FTW"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "2": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "3": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "4": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "5": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "6": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "7": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "8": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "9": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "10": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "11": {
+            "Artist": "Madonna",
+            "Song": "American Life"
+        },
+        "12": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "13": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "14": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        },
+        "15": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "16": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "17": {
+            "Artist": "Turbonegro",
+            "Song": "FTW"
+        },
+        "18": {
+            "Artist": "Sugababes",
+            "Song": "Shape"
+        },
+        "19": {
+            "Artist": "Busted",
+            "Song": "Year 3000"
+        },
+        "20": {
+            "Artist": "Paperboys",
+            "Song": "Find My Way"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "2": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "3": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "4": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "5": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "6": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "7": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "8": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "9": {
+            "Artist": "Madonna",
+            "Song": "American Life"
+        },
+        "10": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "11": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "12": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "13": {
+            "Artist": "Turbonegro",
+            "Song": "FTW"
+        },
+        "14": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "15": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "16": {
+            "Artist": "Big Brovaz",
+            "Song": "Nu Flow"
+        },
+        "17": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "18": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        },
+        "19": {
+            "Artist": "Sugababes",
+            "Song": "Shape"
+        },
+        "20": {
+            "Artist": "Blue feat. Elton John",
+            "Song": "Sorry Seems To Be The Hardest Word"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "2": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "3": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "4": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "5": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "6": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "7": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "8": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "9": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "10": {
+            "Artist": "Madonna",
+            "Song": "American Life"
+        },
+        "11": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "12": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "13": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "14": {
+            "Artist": "Linkin Park",
+            "Song": "Somewhere I Belong"
+        },
+        "15": {
+            "Artist": "Shania Twain",
+            "Song": "Ka-Ching!"
+        },
+        "16": {
+            "Artist": "Christina Aguilera",
+            "Song": "Beautiful"
+        },
+        "17": {
+            "Artist": "Turbonegro",
+            "Song": "FTW"
+        },
+        "18": {
+            "Artist": "Panjabi MC",
+            "Song": "Mundian to bach ke"
+        },
+        "19": {
+            "Artist": "Sugababes",
+            "Song": "Shape"
+        },
+        "20": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Girl Like You"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "2": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "3": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "4": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "5": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "6": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "7": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "8": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "9": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "10": {
+            "Artist": "Madonna",
+            "Song": "American Life"
+        },
+        "11": {
+            "Artist": "Trucks",
+            "Song": "Kickin'"
+        },
+        "12": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "13": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "14": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "15": {
+            "Artist": "Shania Twain",
+            "Song": "Ka-Ching!"
+        },
+        "16": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "17": {
+            "Artist": "Turbonegro",
+            "Song": "FTW"
+        },
+        "18": {
+            "Artist": "Panjabi MC",
+            "Song": "Mundian to bach ke"
+        },
+        "19": {
+            "Artist": "Howard & Christine",
+            "Song": "Ooa hela natten"
+        },
+        "20": {
+            "Artist": "Marilyn Manson",
+            "Song": "Mobscene"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "2": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "3": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "4": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "5": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "6": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "7": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "8": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "9": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "10": {
+            "Artist": "Howard & Christine",
+            "Song": "Ooa hela natten"
+        },
+        "11": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "12": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "13": {
+            "Artist": "Trucks",
+            "Song": "Kickin'"
+        },
+        "14": {
+            "Artist": "Madonna",
+            "Song": "American Life"
+        },
+        "15": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "16": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "17": {
+            "Artist": "Turbonegro",
+            "Song": "FTW"
+        },
+        "18": {
+            "Artist": "Eminem",
+            "Song": "Sing For The Moment"
+        },
+        "19": {
+            "Artist": "Shania Twain",
+            "Song": "Ka-Ching!"
+        },
+        "20": {
+            "Artist": "Panjabi MC",
+            "Song": "Mundian to bach ke"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "2": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "3": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "4": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "5": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "6": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "7": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "8": {
+            "Artist": "Howard & Christine",
+            "Song": "Ooa hela natten"
+        },
+        "9": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "10": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "11": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "12": {
+            "Artist": "Anne Lingan",
+            "Song": "Kicking You Out"
+        },
+        "13": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "14": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "15": {
+            "Artist": "Folk & Røvere feat. Ravi",
+            "Song": "Utadxe6sjxe6låpplevelse"
+        },
+        "16": {
+            "Artist": "Trucks",
+            "Song": "Kickin'"
+        },
+        "17": {
+            "Artist": "Ricky Martin",
+            "Song": "Jaleo"
+        },
+        "18": {
+            "Artist": "Madonna",
+            "Song": "American Life"
+        },
+        "19": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "20": {
+            "Artist": "Panjabi MC",
+            "Song": "Mundian to bach ke"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "2": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "3": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "4": {
+            "Artist": "L8R",
+            "Song": "In Da House"
+        },
+        "5": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "6": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "7": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "8": {
+            "Artist": "Radiohead",
+            "Song": "There There"
+        },
+        "9": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "10": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "11": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "12": {
+            "Artist": "Trucks",
+            "Song": "Kickin'"
+        },
+        "13": {
+            "Artist": "Howard & Christine",
+            "Song": "Ooa hela natten"
+        },
+        "14": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "15": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "16": {
+            "Artist": "Ricky Martin",
+            "Song": "Jaleo"
+        },
+        "17": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "18": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "19": {
+            "Artist": "Maria Arredondo feat. Christian Ingebrigtsen",
+            "Song": "In Love With An Angel"
+        },
+        "20": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "L8R",
+            "Song": "In Da House"
+        },
+        "3": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "4": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "5": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "6": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "7": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "8": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "9": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "10": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "11": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "12": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "13": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "14": {
+            "Artist": "Ricky Martin",
+            "Song": "Jaleo"
+        },
+        "15": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "16": {
+            "Artist": "Radiohead",
+            "Song": "There There"
+        },
+        "17": {
+            "Artist": "Klovner i Kamp",
+            "Song": "Fritt vilt"
+        },
+        "18": {
+            "Artist": "Howard & Christine",
+            "Song": "Ooa hela natten"
+        },
+        "19": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "20": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "3": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "4": {
+            "Artist": "Gåte",
+            "Song": "Statt opp (Maggeduliadei) EP"
+        },
+        "5": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "6": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "7": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "8": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "9": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "10": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "11": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "12": {
+            "Artist": "Ricky Martin",
+            "Song": "Jaleo"
+        },
+        "13": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "14": {
+            "Artist": "L8R",
+            "Song": "In Da House"
+        },
+        "15": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "16": {
+            "Artist": "Klovner i Kamp",
+            "Song": "Fritt vilt"
+        },
+        "17": {
+            "Artist": "Scooter",
+            "Song": "Weekend!"
+        },
+        "18": {
+            "Artist": "Diaz",
+            "Song": "Hvem er denne karen"
+        },
+        "19": {
+            "Artist": "Spritney Bears",
+            "Song": "Woodpeckers From Space"
+        },
+        "20": {
+            "Artist": "Howard & Christine",
+            "Song": "Ooa hela natten"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "3": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "4": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "5": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "6": {
+            "Artist": "Gåte",
+            "Song": "Statt opp (Maggeduliadei) EP"
+        },
+        "7": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "8": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "9": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "10": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "11": {
+            "Artist": "Ricky Martin",
+            "Song": "Jaleo"
+        },
+        "12": {
+            "Artist": "L8R",
+            "Song": "In Da House"
+        },
+        "13": {
+            "Artist": "Gareth Gates",
+            "Song": "Anyone Of Us (Stupid Mistake)"
+        },
+        "14": {
+            "Artist": "Klovner i Kamp",
+            "Song": "Fritt vilt"
+        },
+        "15": {
+            "Artist": "Span [NO]",
+            "Song": "Found"
+        },
+        "16": {
+            "Artist": "Howard",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "17": {
+            "Artist": "Justin Timberlake",
+            "Song": "Rock Your Body"
+        },
+        "18": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "19": {
+            "Artist": "Outlandish",
+            "Song": "Guantanamo"
+        },
+        "20": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "3": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "4": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "5": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "6": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "7": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "8": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "9": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "10": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "11": {
+            "Artist": "Gåte",
+            "Song": "Statt opp (Maggeduliadei) EP"
+        },
+        "12": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "13": {
+            "Artist": "Winta feat. Aphletik",
+            "Song": "Trippin'"
+        },
+        "14": {
+            "Artist": "Span [NO]",
+            "Song": "Found"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "St. Anger"
+        },
+        "16": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "17": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "18": {
+            "Artist": "Ricky Martin",
+            "Song": "Jaleo"
+        },
+        "19": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "If You're Not The One"
+        },
+        "20": {
+            "Artist": "Howard",
+            "Song": "I'm Not Afraid To Move On"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "3": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "4": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "5": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "6": {
+            "Artist": "Metallica",
+            "Song": "St. Anger"
+        },
+        "7": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "8": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "9": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "10": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "11": {
+            "Artist": "Winta feat. Aphletik",
+            "Song": "Trippin'"
+        },
+        "12": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "13": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "15": {
+            "Artist": "Briskeby",
+            "Song": "Hey Baby"
+        },
+        "16": {
+            "Artist": "Gåte",
+            "Song": "Statt opp (Maggeduliadei) EP"
+        },
+        "17": {
+            "Artist": "Six",
+            "Song": "There's A Whole Lot Of Loving"
+        },
+        "18": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "19": {
+            "Artist": "Span [NO]",
+            "Song": "Found"
+        },
+        "20": {
+            "Artist": "Gareth Gates",
+            "Song": "What My Heart Wants To Say"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "3": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "4": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "5": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "6": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "7": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "8": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "9": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "10": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "St. Anger"
+        },
+        "12": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "13": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "14": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        },
+        "15": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "16": {
+            "Artist": "Gareth Gates",
+            "Song": "What My Heart Wants To Say"
+        },
+        "17": {
+            "Artist": "Briskeby",
+            "Song": "Hey Baby"
+        },
+        "18": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "19": {
+            "Artist": "Gåte",
+            "Song": "Statt opp (Maggeduliadei) EP"
+        },
+        "20": {
+            "Artist": "50 Cent",
+            "Song": "21 Questions"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "3": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "4": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "5": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "6": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "7": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "8": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "9": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "10": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "11": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "12": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "13": {
+            "Artist": "Metallica",
+            "Song": "St. Anger"
+        },
+        "14": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        },
+        "15": {
+            "Artist": "Briskeby",
+            "Song": "Hey Baby"
+        },
+        "16": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "17": {
+            "Artist": "Craig David feat. Sting",
+            "Song": "Rise & Fall"
+        },
+        "18": {
+            "Artist": "50 Cent",
+            "Song": "21 Questions"
+        },
+        "19": {
+            "Artist": "Gareth Gates",
+            "Song": "What My Heart Wants To Say"
+        },
+        "20": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "2": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "3": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "4": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "5": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "6": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "7": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "9": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "10": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "11": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "12": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "13": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        },
+        "14": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "15": {
+            "Artist": "50 Cent",
+            "Song": "21 Questions"
+        },
+        "16": {
+            "Artist": "Gareth Gates",
+            "Song": "What My Heart Wants To Say"
+        },
+        "17": {
+            "Artist": "50 Cent",
+            "Song": "In Da Club"
+        },
+        "18": {
+            "Artist": "Craig David feat. Sting",
+            "Song": "Rise & Fall"
+        },
+        "19": {
+            "Artist": "Metallica",
+            "Song": "St. Anger"
+        },
+        "20": {
+            "Artist": "DJ BoBo",
+            "Song": "Chihuahua"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "3": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "4": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "5": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "6": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "7": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "8": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "9": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "10": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "11": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "12": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        },
+        "13": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "14": {
+            "Artist": "Jostein Hasselgård",
+            "Song": "I'm Not Afraid To Move On"
+        },
+        "15": {
+            "Artist": "Da D.O.N.S",
+            "Song": "She Don't Know My Game"
+        },
+        "16": {
+            "Artist": "50 Cent",
+            "Song": "21 Questions"
+        },
+        "17": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "18": {
+            "Artist": "Gareth Gates",
+            "Song": "What My Heart Wants To Say"
+        },
+        "19": {
+            "Artist": "Christian Ingebrigtsen",
+            "Song": "Things Are Gonna Change"
+        },
+        "20": {
+            "Artist": "DJ BoBo",
+            "Song": "Chihuahua"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "3": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "4": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "5": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "6": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "7": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "9": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "10": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "11": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "12": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        },
+        "13": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "14": {
+            "Artist": "Da D.O.N.S",
+            "Song": "She Don't Know My Game"
+        },
+        "15": {
+            "Artist": "DJ BoBo",
+            "Song": "Chihuahua"
+        },
+        "16": {
+            "Artist": "Busta Rhymes and Mariah Carey feat. The Flipmode Squad",
+            "Song": "I Know What You Want"
+        },
+        "17": {
+            "Artist": "Craig David feat. Sting",
+            "Song": "Rise & Fall"
+        },
+        "18": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "19": {
+            "Artist": "Gareth Gates",
+            "Song": "What My Heart Wants To Say"
+        },
+        "20": {
+            "Artist": "Ebba Forsberg",
+            "Song": "Do Without Him"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "3": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "4": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "5": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "6": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "7": {
+            "Artist": "Thomas Dybdahl",
+            "Song": "Rain Down On Me"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "9": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "10": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "11": {
+            "Artist": "To små karer",
+            "Song": "Drømmer om et sted"
+        },
+        "12": {
+            "Artist": "Laze",
+            "Song": "Stepping Out"
+        },
+        "13": {
+            "Artist": "Equicez",
+            "Song": "Barnslig"
+        },
+        "14": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "15": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "16": {
+            "Artist": "DJ BoBo",
+            "Song": "Chihuahua"
+        },
+        "17": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        },
+        "18": {
+            "Artist": "Da D.O.N.S",
+            "Song": "She Don't Know My Game"
+        },
+        "19": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "20": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "3": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "4": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "5": {
+            "Artist": "Thomas Dybdahl",
+            "Song": "Rain Down On Me"
+        },
+        "6": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "7": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "8": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "9": {
+            "Artist": "Laze",
+            "Song": "Stepping Out"
+        },
+        "10": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "11": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "12": {
+            "Artist": "Equicez",
+            "Song": "Barnslig"
+        },
+        "13": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        },
+        "14": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "15": {
+            "Artist": "DJ BoBo",
+            "Song": "Chihuahua"
+        },
+        "16": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "17": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "18": {
+            "Artist": "Da D.O.N.S",
+            "Song": "She Don't Know My Game"
+        },
+        "19": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "20": {
+            "Artist": "Christina Aguilera",
+            "Song": "Fighter"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "3": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "4": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "5": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "6": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "7": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "8": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "9": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "10": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        },
+        "11": {
+            "Artist": "Laze",
+            "Song": "Stepping Out"
+        },
+        "12": {
+            "Artist": "Equicez",
+            "Song": "Barnslig"
+        },
+        "13": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "14": {
+            "Artist": "Dina [NO]",
+            "Song": "Bli hos meg"
+        },
+        "15": {
+            "Artist": "P!nk feat. William Orbit",
+            "Song": "Feel Good Time"
+        },
+        "16": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "17": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        },
+        "18": {
+            "Artist": "NG3",
+            "Song": "The Anthem"
+        },
+        "19": {
+            "Artist": "Thomas Dybdahl",
+            "Song": "Rain Down On Me"
+        },
+        "20": {
+            "Artist": "DJ BoBo",
+            "Song": "Chihuahua"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "4": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "5": {
+            "Artist": "Iron Maiden",
+            "Song": "Wildest Dreams"
+        },
+        "6": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "7": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "8": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "9": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "10": {
+            "Artist": "Fenrik Lane",
+            "Song": "Come Down Here EP"
+        },
+        "11": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "12": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "13": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        },
+        "14": {
+            "Artist": "Laze",
+            "Song": "Stepping Out"
+        },
+        "15": {
+            "Artist": "The Rolling Stones",
+            "Song": "Sympathy For The Devil"
+        },
+        "16": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "17": {
+            "Artist": "Paperboys",
+            "Song": "What You Need"
+        },
+        "18": {
+            "Artist": "A-Moe",
+            "Song": "Mom Is Home"
+        },
+        "19": {
+            "Artist": "Equicez",
+            "Song": "Barnslig"
+        },
+        "20": {
+            "Artist": "Chingy",
+            "Song": "Right Thurr"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "2": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "4": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "5": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "6": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "7": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "8": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "9": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "10": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "11": {
+            "Artist": "Elvis Presley",
+            "Song": "Rubberneckin'"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "13": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "14": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "15": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        },
+        "16": {
+            "Artist": "Maria Arredondo",
+            "Song": "Hardly Hurts At All"
+        },
+        "17": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        },
+        "18": {
+            "Artist": "Equicez",
+            "Song": "Barnslig"
+        },
+        "19": {
+            "Artist": "The Rolling Stones",
+            "Song": "Sympathy For The Devil"
+        },
+        "20": {
+            "Artist": "Laze",
+            "Song": "Stepping Out"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "2": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "4": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "5": {
+            "Artist": "Metallica",
+            "Song": "Frantic"
+        },
+        "6": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "7": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "8": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "9": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "10": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "11": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "13": {
+            "Artist": "Elvis Presley",
+            "Song": "Rubberneckin'"
+        },
+        "14": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        },
+        "15": {
+            "Artist": "Chingy",
+            "Song": "Right Thurr"
+        },
+        "16": {
+            "Artist": "Beyoncé",
+            "Song": "Crazy In Love"
+        },
+        "17": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        },
+        "18": {
+            "Artist": "Laze",
+            "Song": "Stepping Out"
+        },
+        "19": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "20": {
+            "Artist": "The Rolling Stones",
+            "Song": "Sympathy For The Devil"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "3": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "4": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "5": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "6": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "7": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "8": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "9": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "10": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "11": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "12": {
+            "Artist": "Metallica",
+            "Song": "Frantic"
+        },
+        "13": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "14": {
+            "Artist": "Elvis Presley",
+            "Song": "Rubberneckin'"
+        },
+        "15": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        },
+        "16": {
+            "Artist": "The Rolling Stones",
+            "Song": "Sympathy For The Devil"
+        },
+        "17": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        },
+        "18": {
+            "Artist": "Evanescence",
+            "Song": "Bring Me To Life"
+        },
+        "19": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "Never Gonna Leave Your Side"
+        },
+        "20": {
+            "Artist": "Chingy",
+            "Song": "Right Thurr"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "2": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "3": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "4": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "5": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "6": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "7": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "8": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "9": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "10": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "11": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "12": {
+            "Artist": "Travis",
+            "Song": "Re-Offender"
+        },
+        "13": {
+            "Artist": "Metallica",
+            "Song": "Frantic"
+        },
+        "14": {
+            "Artist": "Christina Aguilera feat. Lil' Kim",
+            "Song": "Can't Hold Us Down"
+        },
+        "15": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "16": {
+            "Artist": "Elvis Presley",
+            "Song": "Rubberneckin'"
+        },
+        "17": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "18": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        },
+        "19": {
+            "Artist": "Daniel Bedingfield",
+            "Song": "Never Gonna Leave Your Side"
+        },
+        "20": {
+            "Artist": "Venke Knutson",
+            "Song": "Panic"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "3": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "4": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "5": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "6": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "7": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "8": {
+            "Artist": "L8R",
+            "Song": "World Of Pain"
+        },
+        "9": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "10": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "11": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "12": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "13": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "14": {
+            "Artist": "Christina Aguilera feat. Lil' Kim",
+            "Song": "Can't Hold Us Down"
+        },
+        "15": {
+            "Artist": "A-Moe",
+            "Song": "Little Red Riding Hood"
+        },
+        "16": {
+            "Artist": "Travis",
+            "Song": "Re-Offender"
+        },
+        "17": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "18": {
+            "Artist": "Chingy",
+            "Song": "Right Thurr"
+        },
+        "19": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "20": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "2": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "3": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "4": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "5": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "6": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "7": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "8": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "9": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "10": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "11": {
+            "Artist": "R.E.M.",
+            "Song": "Bad Day"
+        },
+        "12": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "13": {
+            "Artist": "Paperboys",
+            "Song": "On The Low"
+        },
+        "14": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "15": {
+            "Artist": "A-Moe",
+            "Song": "Little Red Riding Hood"
+        },
+        "16": {
+            "Artist": "Christina Aguilera feat. Lil' Kim",
+            "Song": "Can't Hold Us Down"
+        },
+        "17": {
+            "Artist": "Lumidee",
+            "Song": "Never Leave You (Uh-Oooh)"
+        },
+        "18": {
+            "Artist": "Sean Paul",
+            "Song": "Get Busy"
+        },
+        "19": {
+            "Artist": "Kurt Nilsen",
+            "Song": "She's So High"
+        },
+        "20": {
+            "Artist": "Chingy",
+            "Song": "Right Thurr"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "3": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "4": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "5": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "6": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "7": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "8": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "9": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "10": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "11": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "12": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "13": {
+            "Artist": "A-Moe",
+            "Song": "Little Red Riding Hood"
+        },
+        "14": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "15": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "16": {
+            "Artist": "Paperboys",
+            "Song": "On The Low"
+        },
+        "17": {
+            "Artist": "William Hut",
+            "Song": "It's The Breeze EP"
+        },
+        "18": {
+            "Artist": "R.E.M.",
+            "Song": "Bad Day"
+        },
+        "19": {
+            "Artist": "Christina Aguilera feat. Lil' Kim",
+            "Song": "Can't Hold Us Down"
+        },
+        "20": {
+            "Artist": "Metallica",
+            "Song": "Frantic"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "2": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "3": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "4": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "5": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "6": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "7": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "8": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "9": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "10": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "11": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "12": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "13": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "14": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "15": {
+            "Artist": "A-Moe",
+            "Song": "Little Red Riding Hood"
+        },
+        "16": {
+            "Artist": "David [NO]",
+            "Song": "Wild At Heart"
+        },
+        "17": {
+            "Artist": "Paperboys",
+            "Song": "On The Low"
+        },
+        "18": {
+            "Artist": "R.E.M.",
+            "Song": "Bad Day"
+        },
+        "19": {
+            "Artist": "Chingy",
+            "Song": "Right Thurr"
+        },
+        "20": {
+            "Artist": "Christina Aguilera feat. Lil' Kim",
+            "Song": "Can't Hold Us Down"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "2": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "3": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "4": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "5": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "6": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "7": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "8": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "9": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "10": {
+            "Artist": "Beyoncé feat. Sean Paul",
+            "Song": "Baby Boy"
+        },
+        "11": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "12": {
+            "Artist": "Heidi Marie Vestrheim",
+            "Song": "Pigs"
+        },
+        "13": {
+            "Artist": "Evanescence",
+            "Song": "Going Under"
+        },
+        "14": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "15": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "16": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "17": {
+            "Artist": "Stacie Orrico",
+            "Song": "Stuck"
+        },
+        "18": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "19": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "20": {
+            "Artist": "A-Moe",
+            "Song": "Little Red Riding Hood"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "3": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "4": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "5": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "6": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "7": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "8": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "9": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "10": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "11": {
+            "Artist": "Beyoncé feat. Sean Paul",
+            "Song": "Baby Boy"
+        },
+        "12": {
+            "Artist": "Evanescence",
+            "Song": "Going Under"
+        },
+        "13": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "14": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "15": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        },
+        "16": {
+            "Artist": "Lene",
+            "Song": "It's Your Duty"
+        },
+        "17": {
+            "Artist": "Missy Elliott",
+            "Song": "Pass That Dutch"
+        },
+        "18": {
+            "Artist": "Gaute",
+            "Song": "Chasing Rainbows"
+        },
+        "19": {
+            "Artist": "Christina Aguilera feat. Lil' Kim",
+            "Song": "Can't Hold Us Down"
+        },
+        "20": {
+            "Artist": "Paperboys",
+            "Song": "On The Low"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "3": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "4": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "5": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "6": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "7": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "8": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "9": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "10": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "11": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "12": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "13": {
+            "Artist": "Evanescence",
+            "Song": "Going Under"
+        },
+        "14": {
+            "Artist": "Beyoncé feat. Sean Paul",
+            "Song": "Baby Boy"
+        },
+        "15": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "16": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "17": {
+            "Artist": "Ronan Keating",
+            "Song": "Lost For Words"
+        },
+        "18": {
+            "Artist": "Joaquin",
+            "Song": "Something About Her"
+        },
+        "19": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "20": {
+            "Artist": "Lene Marlin",
+            "Song": "You Weren't There"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "3": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "4": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "5": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "6": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "7": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "8": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "9": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "10": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "11": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "12": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "13": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "14": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "15": {
+            "Artist": "Beyoncé feat. Sean Paul",
+            "Song": "Baby Boy"
+        },
+        "16": {
+            "Artist": "Evanescence",
+            "Song": "Going Under"
+        },
+        "17": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "18": {
+            "Artist": "Side Brok",
+            "Song": "1, 2, 3, Fyre"
+        },
+        "19": {
+            "Artist": "Blu Cantrell",
+            "Song": "Breathe"
+        },
+        "20": {
+            "Artist": "Wyclef Jean feat. Missy Elliott",
+            "Song": "Party To Damascus"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "3": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "4": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "5": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "6": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "7": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "8": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "9": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "10": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "11": {
+            "Artist": "Beyoncé feat. Sean Paul",
+            "Song": "Baby Boy"
+        },
+        "12": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "13": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "14": {
+            "Artist": "Dina [NO]",
+            "Song": "For evig min"
+        },
+        "15": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "16": {
+            "Artist": "Evanescence",
+            "Song": "Going Under"
+        },
+        "17": {
+            "Artist": "JO2",
+            "Song": "Babyboo"
+        },
+        "18": {
+            "Artist": "Nelly / P. Diddy / Murphy Lee",
+            "Song": "Shake Ya Tailfeather"
+        },
+        "19": {
+            "Artist": "The Darkness",
+            "Song": "I Believe In A Thing Called Love"
+        },
+        "20": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "3": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "4": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "5": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "6": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "7": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "8": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "9": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "10": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "11": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "12": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "13": {
+            "Artist": "Scooter",
+            "Song": "Jigga Jigga!"
+        },
+        "14": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "15": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "16": {
+            "Artist": "Evanescence",
+            "Song": "Going Under"
+        },
+        "17": {
+            "Artist": "JO2",
+            "Song": "Babyboo"
+        },
+        "18": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "19": {
+            "Artist": "Beyoncé feat. Sean Paul",
+            "Song": "Baby Boy"
+        },
+        "20": {
+            "Artist": "The Darkness",
+            "Song": "I Believe In A Thing Called Love"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Hey Ya!"
+        },
+        "2": {
+            "Artist": "Stacie Orrico",
+            "Song": "(There's Gotta Be) More To Life"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Shut Up"
+        },
+        "4": {
+            "Artist": "No Doubt",
+            "Song": "It's My Life"
+        },
+        "5": {
+            "Artist": "Sugababes",
+            "Song": "Hole In The Head"
+        },
+        "6": {
+            "Artist": "David [NO]",
+            "Song": "What The Hell"
+        },
+        "7": {
+            "Artist": "Dido",
+            "Song": "White Flag"
+        },
+        "8": {
+            "Artist": "P!nk",
+            "Song": "Trouble"
+        },
+        "9": {
+            "Artist": "Britney Spears feat. Madonna",
+            "Song": "Me Against The Music"
+        },
+        "10": {
+            "Artist": "Scooter",
+            "Song": "Jigga Jigga!"
+        },
+        "11": {
+            "Artist": "Erik Faber",
+            "Song": "Century"
+        },
+        "12": {
+            "Artist": "Outlandish",
+            "Song": "Aicha"
+        },
+        "13": {
+            "Artist": "Black Diamond Brigade",
+            "Song": "Black Diamond"
+        },
+        "14": {
+            "Artist": "Kevin Lyttle",
+            "Song": "Turn Me On"
+        },
+        "15": {
+            "Artist": "50 Cent",
+            "Song": "P.I.M.P."
+        },
+        "16": {
+            "Artist": "Atomic Kitten",
+            "Song": "If You Come To Me"
+        },
+        "17": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Where Is The Love?"
+        },
+        "18": {
+            "Artist": "JO2",
+            "Song": "Babyboo"
+        },
+        "19": {
+            "Artist": "Kylie Minogue",
+            "Song": "Slow"
+        },
+        "20": {
+            "Artist": "The Darkness",
+            "Song": "I Believe In A Thing Called Love"
+        }
+    }
+}

@@ -1,0 +1,2165 @@
+{
+    "1": {},
+    "2": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "2": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        },
+        "3": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "4": {
+            "Artist": "Ocean",
+            "Song": "Put Your Hand In The Hand"
+        },
+        "5": {
+            "Artist": "Saft",
+            "Song": "People In Motion"
+        },
+        "6": {
+            "Artist": "Redbone",
+            "Song": "The Witch Queen Of New Orleans"
+        },
+        "7": {
+            "Artist": "Titanic",
+            "Song": "Sultana"
+        },
+        "8": {
+            "Artist": "Joxebl Daydé",
+            "Song": "Mamy Blue"
+        },
+        "9": {
+            "Artist": "Michel Delpech",
+            "Song": "Pour un flirt"
+        },
+        "10": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "2": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        },
+        "3": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "4": {
+            "Artist": "Saft",
+            "Song": "People In Motion"
+        },
+        "5": {
+            "Artist": "Ocean",
+            "Song": "Put Your Hand In The Hand"
+        },
+        "6": {
+            "Artist": "Redbone",
+            "Song": "The Witch Queen Of New Orleans"
+        },
+        "7": {
+            "Artist": "Titanic",
+            "Song": "Sultana"
+        },
+        "8": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "9": {
+            "Artist": "George Harrison",
+            "Song": "Bangla Desh"
+        },
+        "10": {
+            "Artist": "Joan Baez",
+            "Song": "The Night They Drove Old Dixie Down"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "2": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        },
+        "3": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "4": {
+            "Artist": "Saft",
+            "Song": "People In Motion"
+        },
+        "5": {
+            "Artist": "Ocean",
+            "Song": "Put Your Hand In The Hand"
+        },
+        "6": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "7": {
+            "Artist": "Joan Baez",
+            "Song": "The Night They Drove Old Dixie Down"
+        },
+        "8": {
+            "Artist": "Redbone",
+            "Song": "The Witch Queen Of New Orleans"
+        },
+        "9": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "10": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "2": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "3": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "4": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        },
+        "5": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "6": {
+            "Artist": "Saft",
+            "Song": "People In Motion"
+        },
+        "7": {
+            "Artist": "Joan Baez",
+            "Song": "The Night They Drove Old Dixie Down"
+        },
+        "8": {
+            "Artist": "George Harrison",
+            "Song": "Bangla Desh"
+        },
+        "9": {
+            "Artist": "John Lennon / Plastic Ono Band",
+            "Song": "Imagine"
+        },
+        "10": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "3": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "4": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "5": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        },
+        "6": {
+            "Artist": "John Lennon / Plastic Ono Band",
+            "Song": "Imagine"
+        },
+        "7": {
+            "Artist": "George Harrison",
+            "Song": "Bangla Desh"
+        },
+        "8": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "9": {
+            "Artist": "Saft",
+            "Song": "People In Motion"
+        },
+        "10": {
+            "Artist": "Joan Baez",
+            "Song": "The Night They Drove Old Dixie Down"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "3": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "4": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "5": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "6": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "7": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        },
+        "8": {
+            "Artist": "Joan Baez",
+            "Song": "The Night They Drove Old Dixie Down"
+        },
+        "9": {
+            "Artist": "John Lennon / Plastic Ono Band",
+            "Song": "Imagine"
+        },
+        "10": {
+            "Artist": "Saft",
+            "Song": "People In Motion"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "3": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "4": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "5": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "6": {
+            "Artist": "T. Rex",
+            "Song": "Telegram Sam"
+        },
+        "7": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "8": {
+            "Artist": "Tore Magnus",
+            "Song": "Våre små søsken"
+        },
+        "9": {
+            "Artist": "John Lennon / Plastic Ono Band",
+            "Song": "Imagine"
+        },
+        "10": {
+            "Artist": "Pop Tops",
+            "Song": "Mamy Blue"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "3": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "4": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "5": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "6": {
+            "Artist": "T. Rex",
+            "Song": "Telegram Sam"
+        },
+        "7": {
+            "Artist": "Tore Magnus",
+            "Song": "Våre små søsken"
+        },
+        "8": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "9": {
+            "Artist": "John Lennon / Plastic Ono Band",
+            "Song": "Imagine"
+        },
+        "10": {
+            "Artist": "George Harrison",
+            "Song": "Bangla Desh"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "3": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "4": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "5": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "6": {
+            "Artist": "T. Rex",
+            "Song": "Telegram Sam"
+        },
+        "7": {
+            "Artist": "Tore Magnus",
+            "Song": "Våre små søsken"
+        },
+        "8": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        },
+        "9": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "10": {
+            "Artist": "John Lennon / Plastic Ono Band",
+            "Song": "Imagine"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "3": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "4": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "5": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "6": {
+            "Artist": "T. Rex",
+            "Song": "Telegram Sam"
+        },
+        "7": {
+            "Artist": "Tore Magnus",
+            "Song": "Våre små søsken"
+        },
+        "8": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "9": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "10": {
+            "Artist": "Finn Kalvik",
+            "Song": "En tur rundt i byen"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "3": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "4": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "5": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "6": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "7": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "8": {
+            "Artist": "T. Rex",
+            "Song": "Telegram Sam"
+        },
+        "9": {
+            "Artist": "Tore Magnus",
+            "Song": "Våre små søsken"
+        },
+        "10": {
+            "Artist": "Don McLean",
+            "Song": "American Pie"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "3": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "4": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "5": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "6": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "7": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "8": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "9": {
+            "Artist": "Don McLean",
+            "Song": "American Pie"
+        },
+        "10": {
+            "Artist": "T. Rex",
+            "Song": "Telegram Sam"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "2": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "3": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "4": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "5": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "6": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "7": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "8": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "9": {
+            "Artist": "Middle Of The Road",
+            "Song": "Soley Soley"
+        },
+        "10": {
+            "Artist": "Don McLean",
+            "Song": "American Pie"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "3": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "4": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "5": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "6": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "7": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "8": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "9": {
+            "Artist": "Don McLean",
+            "Song": "American Pie"
+        },
+        "10": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "5": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "6": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "7": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "8": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        },
+        "9": {
+            "Artist": "Don McLean",
+            "Song": "American Pie"
+        },
+        "10": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        },
+        "11": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "3": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "4": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "5": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "6": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "7": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "8": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "9": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "10": {
+            "Artist": "The Sweet",
+            "Song": "Poppa Joe"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "3": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "4": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "5": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "6": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "7": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "8": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "9": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "10": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "3": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "4": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "5": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "6": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "7": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "8": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "9": {
+            "Artist": "The New Seekers",
+            "Song": "I'd Like To Teach The World To Sing (In Perfect Harmony)"
+        },
+        "10": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "3": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "4": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "5": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "6": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "7": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "8": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "9": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "10": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "5": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "6": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "7": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "8": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "9": {
+            "Artist": "Middle Of The Road",
+            "Song": "Sacramento"
+        },
+        "10": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "5": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "6": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "7": {
+            "Artist": "The Rolling Stones",
+            "Song": "Tumbling Dice"
+        },
+        "8": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "9": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "10": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "2": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "5": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "6": {
+            "Artist": "The Rolling Stones",
+            "Song": "Tumbling Dice"
+        },
+        "7": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "8": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        },
+        "9": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "10": {
+            "Artist": "Eivind Løberg & Mini-Løberg",
+            "Song": "Ratiti"
+        },
+        "11": {
+            "Artist": "Middle Of The Road",
+            "Song": "Samson And Delilah"
+        },
+        "12": {
+            "Artist": "Cat Stevens",
+            "Song": "Morning Has Broken"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "2": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "5": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "6": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "7": {
+            "Artist": "The Rolling Stones",
+            "Song": "Tumbling Dice"
+        },
+        "8": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "9": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "10": {
+            "Artist": "Chicory Tip",
+            "Song": "Son Of My Father"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "2": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "5": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "6": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "7": {
+            "Artist": "The Rolling Stones",
+            "Song": "Tumbling Dice"
+        },
+        "8": {
+            "Artist": "Paul Simon",
+            "Song": "Mother And Child Reunion"
+        },
+        "9": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "10": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "2": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "5": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "6": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "7": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "8": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "9": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "10": {
+            "Artist": "The Rolling Stones",
+            "Song": "Tumbling Dice"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "2": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "5": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "6": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "7": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "8": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "9": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "10": {
+            "Artist": "The Military Band Of The Royal Scots Dragoon Guards",
+            "Song": "Amazing Grace"
+        },
+        "11": {
+            "Artist": "The Rolling Stones",
+            "Song": "Tumbling Dice"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "5": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "6": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "7": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "8": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        },
+        "9": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "10": {
+            "Artist": "Christie",
+            "Song": "Iron Horse"
+        },
+        "11": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "5": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "6": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "7": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "8": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "9": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "10": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "6": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "7": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "8": {
+            "Artist": "The New Seekers",
+            "Song": "Beg, Steal Or Borrow"
+        },
+        "9": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "10": {
+            "Artist": "Neil Young",
+            "Song": "Heart Of Gold"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "4": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "5": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "6": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "7": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "8": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "9": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "10": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "2": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "3": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "6": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "7": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "8": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "9": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "10": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "2": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "3": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "4": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "5": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "6": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        },
+        "7": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "8": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "9": {
+            "Artist": "Vicky Leandros",
+            "Song": "Aprxe8s toi"
+        },
+        "10": {
+            "Artist": "Donny Osmond",
+            "Song": "Puppy Love"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "2": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "3": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "4": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "5": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "6": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "7": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "8": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "9": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        },
+        "10": {
+            "Artist": "David Cassidy",
+            "Song": "Could It Be Forever"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "3": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "6": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "7": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "8": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Little Willy"
+        },
+        "10": {
+            "Artist": "Nico [1970s]",
+            "Song": "Cento campane"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "3": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "4": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "5": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "6": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "7": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "8": {
+            "Artist": "The Sweet",
+            "Song": "Little Willy"
+        },
+        "9": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "10": {
+            "Artist": "T. Rex",
+            "Song": "Metal Guru"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "3": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "6": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "7": {
+            "Artist": "The Sweet",
+            "Song": "Little Willy"
+        },
+        "8": {
+            "Artist": "Ann-Louise Hanson",
+            "Song": "Tag emot en utstrxe4ckt hand"
+        },
+        "9": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "10": {
+            "Artist": "Alice Cooper",
+            "Song": "School's Out"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "3": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "6": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "7": {
+            "Artist": "The Sweet",
+            "Song": "Little Willy"
+        },
+        "8": {
+            "Artist": "Alice Cooper",
+            "Song": "School's Out"
+        },
+        "9": {
+            "Artist": "New World",
+            "Song": "Sister Jane"
+        },
+        "10": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "3": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "6": {
+            "Artist": "Alice Cooper",
+            "Song": "School's Out"
+        },
+        "7": {
+            "Artist": "New World",
+            "Song": "Sister Jane"
+        },
+        "8": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Little Willy"
+        },
+        "10": {
+            "Artist": "Donny Osmond",
+            "Song": "Puppy Love"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "3": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "6": {
+            "Artist": "New World",
+            "Song": "Sister Jane"
+        },
+        "7": {
+            "Artist": "Alice Cooper",
+            "Song": "School's Out"
+        },
+        "8": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "10": {
+            "Artist": "The Sweet",
+            "Song": "Little Willy"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "3": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "4": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "5": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "6": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "7": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "8": {
+            "Artist": "New World",
+            "Song": "Sister Jane"
+        },
+        "9": {
+            "Artist": "Dr. Hook And The Medicine Show",
+            "Song": "Sylvia's Mother"
+        },
+        "10": {
+            "Artist": "Middle Of The Road",
+            "Song": "Bottoms Up"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "4": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "5": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "6": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "7": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "8": {
+            "Artist": "New World",
+            "Song": "Sister Jane"
+        },
+        "9": {
+            "Artist": "Stein Ingebrigtsen",
+            "Song": "Cento campane"
+        },
+        "10": {
+            "Artist": "Middle Of The Road",
+            "Song": "Bottoms Up"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "2": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "4": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "5": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "6": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "7": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "8": {
+            "Artist": "Middle Of The Road",
+            "Song": "Bottoms Up"
+        },
+        "9": {
+            "Artist": "New World",
+            "Song": "Sister Jane"
+        },
+        "10": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "2": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "4": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "5": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "6": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "7": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "8": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "Hello-A"
+        },
+        "9": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        },
+        "10": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "4": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "5": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "6": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "7": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "8": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "Hello-A"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "10": {
+            "Artist": "Roy Black & Anita",
+            "Song": "Da er det skjønt å vxe6re til"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "4": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "5": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "6": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "7": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        },
+        "8": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "Hello-A"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "10": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "4": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "5": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "6": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "7": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        },
+        "8": {
+            "Artist": "Mouth & MacNeal",
+            "Song": "Hello-A"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "10": {
+            "Artist": "Daniel Boone",
+            "Song": "Beautiful Sunday"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "4": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "5": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        },
+        "6": {
+            "Artist": "Benny Borg",
+            "Song": "Balladen om Morgan Kane"
+        },
+        "7": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "10": {
+            "Artist": "Shag",
+            "Song": "Loop Di Love"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "4": {
+            "Artist": "Benny Borg",
+            "Song": "Balladen om Morgan Kane"
+        },
+        "5": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        },
+        "6": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "7": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "8": {
+            "Artist": "Shag",
+            "Song": "Loop Di Love"
+        },
+        "9": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        },
+        "10": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Benny Borg",
+            "Song": "Balladen om Morgan Kane"
+        },
+        "4": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        },
+        "5": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "6": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "7": {
+            "Artist": "Shag",
+            "Song": "Loop Di Love"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "9": {
+            "Artist": "The Sweet",
+            "Song": "Wig-Wam Bam"
+        },
+        "10": {
+            "Artist": "Neil Diamond",
+            "Song": "Song Sung Blue"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "3": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        },
+        "4": {
+            "Artist": "Benny Borg",
+            "Song": "Balladen om Morgan Kane"
+        },
+        "5": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "6": {
+            "Artist": "Shag",
+            "Song": "Loop Di Love"
+        },
+        "7": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "9": {
+            "Artist": "Lieutenant Pigeon",
+            "Song": "Mouldy Old Dough"
+        },
+        "10": {
+            "Artist": "John & Yoko / The Plastic Ono Band with The Harlem Community Choir",
+            "Song": "Happy Xmas (War Is Over)"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Clair"
+        },
+        "2": {
+            "Artist": "Wencke Myhre",
+            "Song": "Jeg og du og vi to"
+        },
+        "3": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Matrimony"
+        },
+        "4": {
+            "Artist": "Benny Borg",
+            "Song": "Balladen om Morgan Kane"
+        },
+        "5": {
+            "Artist": "Gilbert O'Sullivan",
+            "Song": "Ooh-Wakka-Doo-Wakka-Day"
+        },
+        "6": {
+            "Artist": "John & Yoko / The Plastic Ono Band with The Harlem Community Choir",
+            "Song": "Happy Xmas (War Is Over)"
+        },
+        "7": {
+            "Artist": "Hot Butter",
+            "Song": "Popcorn"
+        },
+        "8": {
+            "Artist": "Inger Lise Rypdal",
+            "Song": "Jeg fant min frihet"
+        },
+        "9": {
+            "Artist": "Shag",
+            "Song": "Loop Di Love"
+        },
+        "10": {
+            "Artist": "Chuck Berry",
+            "Song": "My Ding-A-Ling"
+        }
+    }
+}

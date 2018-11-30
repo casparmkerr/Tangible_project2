@@ -1,0 +1,2186 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "2": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "4": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "5": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "9": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        },
+        "10": {
+            "Artist": "The Pony-Tails",
+            "Song": "Born Too Late"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "2": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "4": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "5": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "6": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "8": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        },
+        "9": {
+            "Artist": "Bruno Martino",
+            "Song": "Come prima"
+        },
+        "10": {
+            "Artist": "Domenico Modugno",
+            "Song": "Nel blu dipinto di blu"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "4": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "5": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "6": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "7": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "9": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "10": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "4": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "7": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "8": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "9": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "10": {
+            "Artist": "Johnny Mathis",
+            "Song": "A Certain Smile"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "5": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "6": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "7": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "8": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        },
+        "9": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "10": {
+            "Artist": "Lord Rockingham's XI",
+            "Song": "Hoots Mon"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "5": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "6": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "7": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "8": {
+            "Artist": "Bjørg og Per Gunnar",
+            "Song": "Så kom våren til Tarina"
+        },
+        "9": {
+            "Artist": "Marino Marini",
+            "Song": "Come prima"
+        },
+        "10": {
+            "Artist": "Louis Prima & His Orchestra",
+            "Song": "Buona sera"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "4": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "6": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "7": {
+            "Artist": "Ricky Nelson",
+            "Song": "Poor Little Fool"
+        },
+        "8": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "9": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "10": {
+            "Artist": "Jane Morgan",
+            "Song": "The Day The Rains Came"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "3": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "4": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "8": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "9": {
+            "Artist": "Jane Morgan",
+            "Song": "The Day The Rains Came"
+        },
+        "10": {
+            "Artist": "Pat Boone",
+            "Song": "I'll Remember Tonight"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "3": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "4": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "7": {
+            "Artist": "Jane Morgan",
+            "Song": "The Day The Rains Came"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "King Creole"
+        },
+        "9": {
+            "Artist": "Cliff Richard",
+            "Song": "Move It"
+        },
+        "10": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "2": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "3": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "4": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "8": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "9": {
+            "Artist": "Jane Morgan",
+            "Song": "The Day The Rains Came"
+        },
+        "10": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "2": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "3": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "4": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "7": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "8": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "9": {
+            "Artist": "Connie Francis",
+            "Song": "Carolina Moon"
+        },
+        "10": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "2": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "3": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "4": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "7": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        },
+        "8": {
+            "Artist": "Conway Twitty",
+            "Song": "It's Only Make Believe"
+        },
+        "9": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "10": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "4": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "7": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        },
+        "8": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "9": {
+            "Artist": "Pat Boone",
+            "Song": "I'll Remember Tonight"
+        },
+        "10": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "4": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "5": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "6": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "I Got Stung"
+        },
+        "8": {
+            "Artist": "Ricky Nelson",
+            "Song": "Someday (You'll Want Me To Want You)"
+        },
+        "9": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        },
+        "10": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "3": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "5": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "6": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "8": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "9": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        },
+        "10": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "3": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "5": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "6": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "7": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "8": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        },
+        "9": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Piken i dalen"
+        },
+        "10": {
+            "Artist": "Dean Martin",
+            "Song": "Return To Me (Ritorna a me)"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "3": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "6": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "7": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "8": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        },
+        "9": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "10": {
+            "Artist": "Lloyd Price",
+            "Song": "Stagger Lee"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "3": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "6": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "7": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "8": {
+            "Artist": "The Coasters",
+            "Song": "Charlie Brown"
+        },
+        "9": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        },
+        "10": {
+            "Artist": "Shirley Bassey",
+            "Song": "Kiss Me, Honey Honey, Kiss Me"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "2": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "5": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "7": {
+            "Artist": "The Coasters",
+            "Song": "Charlie Brown"
+        },
+        "8": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "9": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "10": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "High Class Baby"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "3": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "4": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "5": {
+            "Artist": "The Coasters",
+            "Song": "Charlie Brown"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "7": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "8": {
+            "Artist": "Little Richard",
+            "Song": "Baby Face"
+        },
+        "9": {
+            "Artist": "Lloyd Price",
+            "Song": "Stagger Lee"
+        },
+        "10": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "3": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "4": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "6": {
+            "Artist": "The Coasters",
+            "Song": "Charlie Brown"
+        },
+        "7": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "8": {
+            "Artist": "Lloyd Price",
+            "Song": "Stagger Lee"
+        },
+        "9": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "10": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "5": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "6": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "7": {
+            "Artist": "The Coasters",
+            "Song": "Charlie Brown"
+        },
+        "8": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "10": {
+            "Artist": "Lloyd Price",
+            "Song": "Stagger Lee"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "3": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "5": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "6": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "8": {
+            "Artist": "The Coasters",
+            "Song": "Charlie Brown"
+        },
+        "9": {
+            "Artist": "Nora Brockstedt",
+            "Song": "Augustin"
+        },
+        "10": {
+            "Artist": "Lloyd Price",
+            "Song": "Stagger Lee"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "4": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "5": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "6": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "7": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "8": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "9": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "10": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "Never Mind"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "3": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "4": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "5": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "6": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "7": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "Never Mind"
+        },
+        "8": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "10": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "3": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "4": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "6": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "8": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "Never Mind"
+        },
+        "9": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "10": {
+            "Artist": "The Kingston Trio",
+            "Song": "Tom Dooley"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "3": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "5": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "Never Mind"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "My Happiness"
+        },
+        "8": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "9": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "10": {
+            "Artist": "Little Richard",
+            "Song": "By The Light Of The Silvery Moon"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "3": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "4": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "5": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "6": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "7": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "Never Mind"
+        },
+        "8": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "10": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "2": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "3": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "5": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "6": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "7": {
+            "Artist": "Cliff Richard & The Drifters",
+            "Song": "Never Mind"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "A Fool Such As I"
+        },
+        "9": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "10": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "2": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "3": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "5": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "7": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "9": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "10": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "2": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "3": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "4": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "6": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "7": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "8": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "10": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "2": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "3": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "4": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "5": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "6": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "7": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "8": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        },
+        "9": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        },
+        "10": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "3": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "4": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "5": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "6": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        },
+        "7": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "8": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "I Need Your Love Tonight"
+        },
+        "10": {
+            "Artist": "Bruno Martino",
+            "Song": "Piove"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "3": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "4": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "5": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        },
+        "6": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "7": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "8": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "9": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        },
+        "10": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "3": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "4": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "5": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "6": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "7": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "8": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "9": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        },
+        "10": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Pengegaloppen"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "3": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "4": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "5": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "6": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "7": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "8": {
+            "Artist": "Lloyd Price",
+            "Song": "Personality"
+        },
+        "9": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        },
+        "10": {
+            "Artist": "Connie Francis",
+            "Song": "Lipstick On Your Collar"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "3": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "4": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "5": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "6": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "Lipstick On Your Collar"
+        },
+        "8": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "9": {
+            "Artist": "Ricky Nelson",
+            "Song": "Never Be Anyone Else But You"
+        },
+        "10": {
+            "Artist": "Bobby Darin",
+            "Song": "Dream Lover"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "3": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "4": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "5": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "Lipstick On Your Collar"
+        },
+        "8": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "9": {
+            "Artist": "Ruby Murray",
+            "Song": "Goodbye Jimmy, Goodbye"
+        },
+        "10": {
+            "Artist": "Sam Cooke",
+            "Song": "Only Sixteen"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "3": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "4": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "6": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "Lipstick On Your Collar"
+        },
+        "8": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "9": {
+            "Artist": "Paul Anka",
+            "Song": "Lonely Boy"
+        },
+        "10": {
+            "Artist": "Sam Cooke",
+            "Song": "Only Sixteen"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "4": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "5": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "6": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "7": {
+            "Artist": "Connie Francis",
+            "Song": "Lipstick On Your Collar"
+        },
+        "8": {
+            "Artist": "Chris Barber's Jazz Band",
+            "Song": "Petite fleur"
+        },
+        "9": {
+            "Artist": "Paul Anka",
+            "Song": "Lonely Boy"
+        },
+        "10": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "3": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "4": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "5": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "6": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "7": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "8": {
+            "Artist": "Connie Francis",
+            "Song": "Lipstick On Your Collar"
+        },
+        "9": {
+            "Artist": "Paul Anka",
+            "Song": "Lonely Boy"
+        },
+        "10": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "4": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "5": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "6": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "7": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        },
+        "8": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "9": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "10": {
+            "Artist": "Jerry Keller",
+            "Song": "Here Comes Summer"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "4": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "5": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "6": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "7": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "8": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "9": {
+            "Artist": "Jerry Keller",
+            "Song": "Here Comes Summer"
+        },
+        "10": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "2": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "4": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "5": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "6": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "7": {
+            "Artist": "Stonewall Jackson",
+            "Song": "Waterloo"
+        },
+        "8": {
+            "Artist": "Jerry Keller",
+            "Song": "Here Comes Summer"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "10": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "2": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "4": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "5": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "6": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "7": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "8": {
+            "Artist": "Jerry Keller",
+            "Song": "Here Comes Summer"
+        },
+        "9": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        },
+        "10": {
+            "Artist": "Per Asplin",
+            "Song": "En glad calypso om våren"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "2": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "3": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "4": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "5": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "6": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "7": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "8": {
+            "Artist": "Floyd Robinson",
+            "Song": "Makin' Love"
+        },
+        "9": {
+            "Artist": "Jerry Keller",
+            "Song": "Here Comes Summer"
+        },
+        "10": {
+            "Artist": "Elvis Presley",
+            "Song": "A Big Hunk O' Love"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "2": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "3": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "4": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "5": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "6": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "7": {
+            "Artist": "Floyd Robinson",
+            "Song": "Makin' Love"
+        },
+        "8": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "9": {
+            "Artist": "Jerry Keller",
+            "Song": "Here Comes Summer"
+        },
+        "10": {
+            "Artist": "Bobby Darin",
+            "Song": "Mack The Knife"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "2": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "3": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "4": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "5": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "6": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "7": {
+            "Artist": "Floyd Robinson",
+            "Song": "Makin' Love"
+        },
+        "8": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "9": {
+            "Artist": "Bobby Darin",
+            "Song": "Mack The Knife"
+        },
+        "10": {
+            "Artist": "The Fleetwoods",
+            "Song": "Mr. Blue"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "2": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "3": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "4": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "5": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "6": {
+            "Artist": "The Fleetwoods",
+            "Song": "Mr. Blue"
+        },
+        "7": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "8": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "9": {
+            "Artist": "Floyd Robinson",
+            "Song": "Makin' Love"
+        },
+        "10": {
+            "Artist": "Bobby Darin",
+            "Song": "Mack The Knife"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "2": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "3": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "4": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "5": {
+            "Artist": "The Fleetwoods",
+            "Song": "Mr. Blue"
+        },
+        "6": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Gull og grønne skoger"
+        },
+        "7": {
+            "Artist": "Emile Ford & The Checkmates",
+            "Song": "What Do You Want To Make Those Eyes At Me For?"
+        },
+        "8": {
+            "Artist": "The Browns",
+            "Song": "The Three Bells"
+        },
+        "9": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "10": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "2": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "3": {
+            "Artist": "Emile Ford & The Checkmates",
+            "Song": "What Do You Want To Make Those Eyes At Me For?"
+        },
+        "4": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "5": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Gull og grønne skoger"
+        },
+        "6": {
+            "Artist": "The Fleetwoods",
+            "Song": "Mr. Blue"
+        },
+        "7": {
+            "Artist": "Craig Douglas",
+            "Song": "Only Sixteen"
+        },
+        "8": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "9": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "10": {
+            "Artist": "Bing Crosby",
+            "Song": "White Christmas"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Emile Ford & The Checkmates",
+            "Song": "What Do You Want To Make Those Eyes At Me For?"
+        },
+        "2": {
+            "Artist": "Cliff Richard & The Shadows",
+            "Song": "Travellin' Light"
+        },
+        "3": {
+            "Artist": "Billy Vaughn",
+            "Song": "Morgen"
+        },
+        "4": {
+            "Artist": "Vidar Sandbeck",
+            "Song": "Gull og grønne skoger"
+        },
+        "5": {
+            "Artist": "Cliff Richard",
+            "Song": "Living Doll"
+        },
+        "6": {
+            "Artist": "Bing Crosby",
+            "Song": "White Christmas"
+        },
+        "7": {
+            "Artist": "The Fleetwoods",
+            "Song": "Mr. Blue"
+        },
+        "8": {
+            "Artist": "Conway Twitty",
+            "Song": "Mona Lisa"
+        },
+        "9": {
+            "Artist": "Gunnar Engedahl & Erling Stordahl",
+            "Song": "Ungkarsvalsen"
+        },
+        "10": {
+            "Artist": "Guy Mitchell",
+            "Song": "Heartaches By The Number"
+        }
+    }
+}

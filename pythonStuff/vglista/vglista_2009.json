@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "3": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "5": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "6": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "7": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "8": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "9": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "10": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "11": {
+            "Artist": "Jussi Bjxf6rling",
+            "Song": "O helga natt"
+        },
+        "12": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "13": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "14": {
+            "Artist": "The Pogues feat. Kirsty MacColl",
+            "Song": "Fairytale Of New York"
+        },
+        "15": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "16": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "17": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "18": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "20": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "2": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "5": {
+            "Artist": "ABBA",
+            "Song": "Happy New Year"
+        },
+        "6": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "7": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "8": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "9": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "10": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "11": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "12": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "13": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "14": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "16": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "17": {
+            "Artist": "Britney Spears",
+            "Song": "Circus"
+        },
+        "18": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "19": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "20": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "4": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "6": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "7": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "8": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "9": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "10": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "11": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "13": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "14": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Circus"
+        },
+        "16": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "17": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "18": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "19": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "20": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "4": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "6": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "7": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "8": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "9": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "10": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "11": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "12": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "13": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "14": {
+            "Artist": "Bruce Springsteen",
+            "Song": "The Wrestler"
+        },
+        "15": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "16": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "17": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "18": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "19": {
+            "Artist": "Britney Spears",
+            "Song": "Circus"
+        },
+        "20": {
+            "Artist": "Eva & The Heartmaker",
+            "Song": "Superhero"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "3": {
+            "Artist": "Rxf6yksopp",
+            "Song": "Happy Up Here"
+        },
+        "4": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "5": {
+            "Artist": "U2",
+            "Song": "Get On Your Boots"
+        },
+        "6": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "7": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "8": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "9": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "10": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "11": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "12": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "13": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "14": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "15": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "16": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "17": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "19": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "20": {
+            "Artist": "deLillos",
+            "Song": "Flink"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "3": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "4": {
+            "Artist": "Eva & The Heartmaker",
+            "Song": "Superhero"
+        },
+        "5": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "6": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "7": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "8": {
+            "Artist": "Rxf6yksopp",
+            "Song": "Happy Up Here"
+        },
+        "9": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Working On A Dream"
+        },
+        "10": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "11": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "12": {
+            "Artist": "U2",
+            "Song": "Get On Your Boots"
+        },
+        "13": {
+            "Artist": "Bigbang",
+            "Song": "Swedish Television"
+        },
+        "14": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "15": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "16": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "17": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "18": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "19": {
+            "Artist": "Ida Maria",
+            "Song": "I Like You So Much Better When You're Naked"
+        },
+        "20": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "2": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "3": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "5": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "6": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        },
+        "7": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "8": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "9": {
+            "Artist": "Rxf6yksopp",
+            "Song": "Happy Up Here"
+        },
+        "10": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Working On A Dream"
+        },
+        "11": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "12": {
+            "Artist": "Ovi",
+            "Song": "Seven Seconds"
+        },
+        "13": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "14": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "15": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "16": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "17": {
+            "Artist": "Bigbang",
+            "Song": "Swedish Television"
+        },
+        "18": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Rehab"
+        },
+        "20": {
+            "Artist": "Karpe Diem",
+            "Song": "Vestkantsvartinga"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "3": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "5": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        },
+        "6": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "7": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "9": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "10": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "11": {
+            "Artist": "Rxf6yksopp",
+            "Song": "Happy Up Here"
+        },
+        "12": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Working On A Dream"
+        },
+        "13": {
+            "Artist": "Ghost Dog",
+            "Song": "Grand Idea"
+        },
+        "14": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "15": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "16": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "17": {
+            "Artist": "Karpe Diem",
+            "Song": "Vestkantsvartinga"
+        },
+        "18": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "20": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "3": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "4": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "6": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "7": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "8": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        },
+        "9": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "10": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "11": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Working On A Dream"
+        },
+        "12": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "13": {
+            "Artist": "Alexander Stenerud",
+            "Song": "Find My Girl"
+        },
+        "14": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "15": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "16": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "17": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "18": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "19": {
+            "Artist": "Beyoncé",
+            "Song": "Single Ladies (Put A Ring On It)"
+        },
+        "20": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "3": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "4": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "6": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "7": {
+            "Artist": "Alexander Stenerud",
+            "Song": "Find My Girl"
+        },
+        "8": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "9": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "10": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        },
+        "11": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "12": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "13": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "14": {
+            "Artist": "Depeche Mode",
+            "Song": "Wrong"
+        },
+        "15": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Working On A Dream"
+        },
+        "16": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "17": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "18": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "19": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "20": {
+            "Artist": "Karpe Diem",
+            "Song": "Vestkantsvartinga"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "3": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "4": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "5": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "6": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "7": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "8": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "9": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "10": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "11": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "12": {
+            "Artist": "Bigbang",
+            "Song": "Swedish Television"
+        },
+        "13": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        },
+        "14": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "15": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "16": {
+            "Artist": "Alexander Stenerud",
+            "Song": "Find My Girl"
+        },
+        "17": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "18": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        },
+        "19": {
+            "Artist": "Karpe Diem",
+            "Song": "Vestkantsvartinga"
+        },
+        "20": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "3": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "4": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "5": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "6": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "7": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "8": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "9": {
+            "Artist": "Erik & Kriss",
+            "Song": "Svigemors drøm"
+        },
+        "10": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "11": {
+            "Artist": "Bigbang",
+            "Song": "Swedish Television"
+        },
+        "12": {
+            "Artist": "deLillos",
+            "Song": "Flink"
+        },
+        "13": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "14": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "15": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        },
+        "16": {
+            "Artist": "Akon feat. Kardinal Offishall & Colby O'Donis",
+            "Song": "Beautiful"
+        },
+        "17": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "18": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        },
+        "19": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "20": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "3": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "4": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "5": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "6": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "7": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "8": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "9": {
+            "Artist": "Erik & Kriss",
+            "Song": "Svigemors drøm"
+        },
+        "10": {
+            "Artist": "Eva & The Heartmaker",
+            "Song": "Please!"
+        },
+        "11": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "12": {
+            "Artist": "Bigbang",
+            "Song": "Swedish Television"
+        },
+        "13": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "14": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "15": {
+            "Artist": "Lene Marlin",
+            "Song": "Here We Are"
+        },
+        "16": {
+            "Artist": "deLillos",
+            "Song": "Flink"
+        },
+        "17": {
+            "Artist": "Akon feat. Kardinal Offishall & Colby O'Donis",
+            "Song": "Beautiful"
+        },
+        "18": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "19": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "20": {
+            "Artist": "Eminem / Dr. Dre / 50 Cent",
+            "Song": "Crack A Bottle"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Erik & Kriss",
+            "Song": "Svigemors drøm"
+        },
+        "3": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "4": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "5": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "6": {
+            "Artist": "Lene Marlin",
+            "Song": "Here We Are"
+        },
+        "7": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "8": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "9": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "10": {
+            "Artist": "Eva & The Heartmaker",
+            "Song": "Please!"
+        },
+        "11": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "12": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "13": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "14": {
+            "Artist": "Bigbang",
+            "Song": "Swedish Television"
+        },
+        "15": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "16": {
+            "Artist": "Akon feat. Kardinal Offishall & Colby O'Donis",
+            "Song": "Beautiful"
+        },
+        "17": {
+            "Artist": "deLillos",
+            "Song": "Flink"
+        },
+        "18": {
+            "Artist": "Inglow",
+            "Song": "Remember"
+        },
+        "19": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "20": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "3": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "4": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "5": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "6": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "7": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "8": {
+            "Artist": "Lene Marlin",
+            "Song": "Here We Are"
+        },
+        "9": {
+            "Artist": "Harald Rønneberg and Erik og Kriss",
+            "Song": "Pol til pol"
+        },
+        "10": {
+            "Artist": "Thomas Numme feat. Dansken & Fingern",
+            "Song": "Gutta på skauen"
+        },
+        "11": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "12": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "13": {
+            "Artist": "Anne Marie Almedal",
+            "Song": "Himmelblå"
+        },
+        "14": {
+            "Artist": "Erik & Kriss",
+            "Song": "Svigemors drøm"
+        },
+        "15": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "16": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "17": {
+            "Artist": "Eva & The Heartmaker",
+            "Song": "Please!"
+        },
+        "18": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "19": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "20": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Espen Lind, Kurt Nilsen, Alejandro Fuentes & Askil Holm",
+            "Song": "With Or Without You"
+        },
+        "2": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "4": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "5": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "6": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "7": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "8": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "9": {
+            "Artist": "Thomas Numme feat. Dansken & Fingern",
+            "Song": "Gutta på skauen"
+        },
+        "10": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "11": {
+            "Artist": "Erik & Kriss",
+            "Song": "Svigemors drøm"
+        },
+        "12": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "13": {
+            "Artist": "Lene Marlin",
+            "Song": "Here We Are"
+        },
+        "14": {
+            "Artist": "Harald Rønneberg and Erik og Kriss",
+            "Song": "Pol til pol"
+        },
+        "15": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "16": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "17": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        },
+        "18": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "19": {
+            "Artist": "Alesha Dixon",
+            "Song": "The Boy Does Nothing"
+        },
+        "20": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Espen Lind, Kurt Nilsen, Alejandro Fuentes & Askil Holm",
+            "Song": "With Or Without You"
+        },
+        "2": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "4": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "5": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "6": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "7": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "8": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "9": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "10": {
+            "Artist": "Chris Lee",
+            "Song": "Monkey"
+        },
+        "11": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "12": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "13": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        },
+        "14": {
+            "Artist": "Lene Marlin",
+            "Song": "Here We Are"
+        },
+        "15": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "16": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "17": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "18": {
+            "Artist": "Erik & Kriss",
+            "Song": "Svigemors drøm"
+        },
+        "19": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "20": {
+            "Artist": "Inglow",
+            "Song": "Remember"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "2": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "3": {
+            "Artist": "Espen Lind, Kurt Nilsen, Alejandro Fuentes & Askil Holm",
+            "Song": "With Or Without You"
+        },
+        "4": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "5": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "6": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "7": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "8": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "9": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "10": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "11": {
+            "Artist": "Chris Lee",
+            "Song": "Monkey"
+        },
+        "12": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "13": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "14": {
+            "Artist": "Ess I Ermet",
+            "Song": "Typisk"
+        },
+        "15": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "16": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "17": {
+            "Artist": "Inglow",
+            "Song": "Remember"
+        },
+        "18": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "19": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "20": {
+            "Artist": "Green Day",
+            "Song": "Know Your Enemy"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "2": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "3": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "4": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "5": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "7": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "8": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "9": {
+            "Artist": "Samsaya",
+            "Song": "Money"
+        },
+        "10": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "11": {
+            "Artist": "Espen Lind, Kurt Nilsen, Alejandro Fuentes & Askil Holm",
+            "Song": "With Or Without You"
+        },
+        "12": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "13": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "14": {
+            "Artist": "Chris Lee",
+            "Song": "Monkey"
+        },
+        "15": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "16": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "17": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "18": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "19": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        },
+        "20": {
+            "Artist": "Kaizers Orchestra",
+            "Song": "Under månen"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "2": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "3": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "4": {
+            "Artist": "Samsaya",
+            "Song": "Money"
+        },
+        "5": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "6": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "7": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "8": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "9": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "10": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "11": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "12": {
+            "Artist": "Chris Lee",
+            "Song": "Monkey"
+        },
+        "13": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "14": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "15": {
+            "Artist": "Espen Lind, Kurt Nilsen, Alejandro Fuentes & Askil Holm",
+            "Song": "With Or Without You"
+        },
+        "16": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "17": {
+            "Artist": "Miley Cyrus",
+            "Song": "Hoedown Throwdown"
+        },
+        "18": {
+            "Artist": "T.I. feat. Justin Timberlake",
+            "Song": "Dead And Gone"
+        },
+        "19": {
+            "Artist": "CC Cowboys",
+            "Song": "Kanskje du behøver noen"
+        },
+        "20": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "3": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "4": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "5": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "6": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "7": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "8": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "9": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "10": {
+            "Artist": "Samsaya",
+            "Song": "Money"
+        },
+        "11": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "12": {
+            "Artist": "Yohanna",
+            "Song": "Is It True?"
+        },
+        "13": {
+            "Artist": "Celeste [NO]",
+            "Song": "Panic Attack"
+        },
+        "14": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "15": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "16": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "17": {
+            "Artist": "Green Day",
+            "Song": "Know Your Enemy"
+        },
+        "18": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "19": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "20": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Yohanna",
+            "Song": "Is It True?"
+        },
+        "4": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "5": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "7": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "9": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "10": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "11": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "12": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "13": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "14": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "15": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "16": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "17": {
+            "Artist": "Samsaya",
+            "Song": "Money"
+        },
+        "18": {
+            "Artist": "AySel & Arash",
+            "Song": "Always"
+        },
+        "19": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "20": {
+            "Artist": "Malena Ernman",
+            "Song": "La voix"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "4": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "5": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "6": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "7": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "8": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "9": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "10": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "11": {
+            "Artist": "Yohanna",
+            "Song": "Is It True?"
+        },
+        "12": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "13": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "14": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "15": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "16": {
+            "Artist": "Alexander Rybak",
+            "Song": "Roll With The Wind"
+        },
+        "17": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "18": {
+            "Artist": "James Morrison feat. Nelly Furtado",
+            "Song": "Broken Strings"
+        },
+        "19": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "Butterflies"
+        },
+        "20": {
+            "Artist": "Green Day",
+            "Song": "Know Your Enemy"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "2": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "4": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "5": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "6": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "7": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "8": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "9": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "10": {
+            "Artist": "Alexander Rybak",
+            "Song": "Roll With The Wind"
+        },
+        "11": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "12": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "13": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "14": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "15": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "16": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "17": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "18": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "19": {
+            "Artist": "Green Day",
+            "Song": "Know Your Enemy"
+        },
+        "20": {
+            "Artist": "Jonas Brothers",
+            "Song": "Paranoid"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "2": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "3": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "4": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "5": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "6": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "7": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "8": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "9": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "10": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "11": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "12": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "13": {
+            "Artist": "Erik & Kriss",
+            "Song": "Rundt fingern"
+        },
+        "14": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "15": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "16": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "17": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "18": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "19": {
+            "Artist": "Miley Cyrus",
+            "Song": "The Climb"
+        },
+        "20": {
+            "Artist": "Bruce Springsteen",
+            "Song": "The River"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "3": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "4": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "5": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "6": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "7": {
+            "Artist": "Erik & Kriss",
+            "Song": "Rundt fingern"
+        },
+        "8": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "9": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "10": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "11": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "12": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "13": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "14": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "15": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "16": {
+            "Artist": "Taylor Swift",
+            "Song": "Love Story"
+        },
+        "17": {
+            "Artist": "Flo Rida feat. Ke$ha",
+            "Song": "Right Round"
+        },
+        "18": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "19": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        },
+        "20": {
+            "Artist": "Aleksander Denstad With",
+            "Song": "What's The Story"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "4": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "5": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "6": {
+            "Artist": "Erik & Kriss",
+            "Song": "Rundt fingern"
+        },
+        "7": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "9": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "10": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "11": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "12": {
+            "Artist": "Michael Jackson",
+            "Song": "Heal The World"
+        },
+        "13": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "14": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "15": {
+            "Artist": "Michael Jackson",
+            "Song": "Thriller"
+        },
+        "16": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "17": {
+            "Artist": "Eminem",
+            "Song": "We Made You"
+        },
+        "18": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "19": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "20": {
+            "Artist": "Rxf6yksopp",
+            "Song": "The Girl And The Robot"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "4": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "5": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "7": {
+            "Artist": "Erik & Kriss",
+            "Song": "Rundt fingern"
+        },
+        "8": {
+            "Artist": "Michael Jackson",
+            "Song": "Thriller"
+        },
+        "9": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "10": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "11": {
+            "Artist": "Michael Jackson",
+            "Song": "Heal The World"
+        },
+        "12": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "13": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "14": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "15": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "16": {
+            "Artist": "Michael Jackson",
+            "Song": "They Don't Care About Us"
+        },
+        "17": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "18": {
+            "Artist": "Alexander Rybak",
+            "Song": "Fairytale"
+        },
+        "19": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "20": {
+            "Artist": "Michael Jackson",
+            "Song": "Black Or White"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Michael Jackson",
+            "Song": "Heal The World"
+        },
+        "4": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "5": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "7": {
+            "Artist": "Michael Jackson",
+            "Song": "Thriller"
+        },
+        "8": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "9": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "10": {
+            "Artist": "Michael Jackson",
+            "Song": "They Don't Care About Us"
+        },
+        "11": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "12": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "13": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "14": {
+            "Artist": "USA For Africa",
+            "Song": "We Are The World"
+        },
+        "15": {
+            "Artist": "Michael Jackson",
+            "Song": "Man In The Mirror"
+        },
+        "16": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "17": {
+            "Artist": "Michael Jackson",
+            "Song": "Dirty Diana"
+        },
+        "18": {
+            "Artist": "Michael Jackson",
+            "Song": "Black Or White"
+        },
+        "19": {
+            "Artist": "Alexander Rybak",
+            "Song": "Funny Little World"
+        },
+        "20": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "5": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "6": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "7": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "9": {
+            "Artist": "Pauline",
+            "Song": "Give Me A Call"
+        },
+        "10": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "11": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "12": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "13": {
+            "Artist": "Michael Jackson",
+            "Song": "Heal The World"
+        },
+        "14": {
+            "Artist": "Michael Jackson",
+            "Song": "Thriller"
+        },
+        "15": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "16": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "17": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "18": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "19": {
+            "Artist": "Michael Jackson",
+            "Song": "Black Or White"
+        },
+        "20": {
+            "Artist": "Michael Jackson",
+            "Song": "They Don't Care About Us"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "5": {
+            "Artist": "Kings Of Leon",
+            "Song": "Use Somebody"
+        },
+        "6": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "7": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "8": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "9": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "10": {
+            "Artist": "Pauline",
+            "Song": "Give Me A Call"
+        },
+        "11": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "12": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "13": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "14": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "15": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "16": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "17": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "18": {
+            "Artist": "Tone Damli Aaberge",
+            "Song": "I Know"
+        },
+        "19": {
+            "Artist": "Chris Lee",
+            "Song": "Monkey"
+        },
+        "20": {
+            "Artist": "Henning Kvitnes",
+            "Song": "Ut å vekke sola"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "4": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "5": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "6": {
+            "Artist": "Kings Of Leon",
+            "Song": "Use Somebody"
+        },
+        "7": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "8": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "9": {
+            "Artist": "Pauline",
+            "Song": "Give Me A Call"
+        },
+        "10": {
+            "Artist": "Madonna",
+            "Song": "Like A Virgin"
+        },
+        "11": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "12": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "13": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "14": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "15": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "16": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "17": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "18": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "19": {
+            "Artist": "Lonely Crowd",
+            "Song": "She's Not Afraid"
+        },
+        "20": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "4": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "5": {
+            "Artist": "Madonna",
+            "Song": "Celebration"
+        },
+        "6": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "7": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "9": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "10": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "11": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "12": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "13": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "14": {
+            "Artist": "Kings Of Leon",
+            "Song": "Use Somebody"
+        },
+        "15": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "16": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "17": {
+            "Artist": "Jan Johansen",
+            "Song": "Se på mig"
+        },
+        "18": {
+            "Artist": "Jaa9 & OnklP",
+            "Song": "Glir forbi"
+        },
+        "19": {
+            "Artist": "Eric Hutchinson",
+            "Song": "Rock & Roll"
+        },
+        "20": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "3": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "4": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "5": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "6": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "7": {
+            "Artist": "Jan Johansen",
+            "Song": "Se på mig"
+        },
+        "8": {
+            "Artist": "Madonna",
+            "Song": "Celebration"
+        },
+        "9": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "10": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "11": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "12": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "13": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "15": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "16": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "17": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "18": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "19": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "20": {
+            "Artist": "Kings Of Leon",
+            "Song": "Use Somebody"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "3": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "5": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "7": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "8": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "9": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "10": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "11": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "12": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "13": {
+            "Artist": "Madonna",
+            "Song": "Celebration"
+        },
+        "14": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "15": {
+            "Artist": "Jan Johansen",
+            "Song": "Se på mig"
+        },
+        "16": {
+            "Artist": "a-ha",
+            "Song": "Foot Of The Mountain"
+        },
+        "17": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "18": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "19": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "20": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "3": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "5": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "6": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "7": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "8": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "9": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "10": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "11": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "12": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "13": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "14": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "15": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "16": {
+            "Artist": "Beyoncé",
+            "Song": "Halo"
+        },
+        "17": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        },
+        "18": {
+            "Artist": "Lonely Crowd",
+            "Song": "She's Not Afraid"
+        },
+        "19": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "20": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "3": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "5": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "6": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "7": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "8": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "9": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "10": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "11": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "12": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "13": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "14": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "15": {
+            "Artist": "La Roux",
+            "Song": "In For The Kill"
+        },
+        "16": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "17": {
+            "Artist": "Empire Of The Sun",
+            "Song": "We Are The People"
+        },
+        "18": {
+            "Artist": "Samsaya",
+            "Song": "ADHD (Love Me Not)"
+        },
+        "19": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "20": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Boom Boom Pow"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "3": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "5": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "7": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "8": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "9": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "10": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "11": {
+            "Artist": "La Roux",
+            "Song": "In For The Kill"
+        },
+        "12": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "13": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "14": {
+            "Artist": "The BlackSheeps",
+            "Song": "Edwin"
+        },
+        "15": {
+            "Artist": "Empire Of The Sun",
+            "Song": "We Are The People"
+        },
+        "16": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        },
+        "17": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "18": {
+            "Artist": "Jørgen",
+            "Song": "Din egen vei"
+        },
+        "19": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "20": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "4": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "5": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "7": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "8": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "9": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "10": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "11": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "12": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "13": {
+            "Artist": "Empire Of The Sun",
+            "Song": "We Are The People"
+        },
+        "14": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "15": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "16": {
+            "Artist": "P!nk",
+            "Song": "Please Don't Leave Me"
+        },
+        "17": {
+            "Artist": "La Roux",
+            "Song": "In For The Kill"
+        },
+        "18": {
+            "Artist": "Lily Allen",
+            "Song": "Fuck You"
+        },
+        "19": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        },
+        "20": {
+            "Artist": "Aqua",
+            "Song": "Back To The 80's"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "5": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "6": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "7": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "8": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "9": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "10": {
+            "Artist": "Melody Gardot",
+            "Song": "Baby I'm A Fool"
+        },
+        "11": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "12": {
+            "Artist": "Empire Of The Sun",
+            "Song": "We Are The People"
+        },
+        "13": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "14": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "15": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "16": {
+            "Artist": "Rammstein",
+            "Song": "Pussy"
+        },
+        "17": {
+            "Artist": "Dum Dum Boys",
+            "Song": "Snø på Mars"
+        },
+        "18": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "19": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "20": {
+            "Artist": "Keri Hilson feat. Kanye West & Ne-Yo",
+            "Song": "Knock You Down"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "5": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "7": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "8": {
+            "Artist": "Donkeyboy",
+            "Song": "Blade Running"
+        },
+        "9": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "10": {
+            "Artist": "Melody Gardot",
+            "Song": "Baby I'm A Fool"
+        },
+        "11": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "12": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "13": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "15": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "16": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "17": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "18": {
+            "Artist": "Empire Of The Sun",
+            "Song": "We Are The People"
+        },
+        "19": {
+            "Artist": "Mika",
+            "Song": "We Are Golden"
+        },
+        "20": {
+            "Artist": "La Roux",
+            "Song": "Bulletproof"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Kent",
+            "Song": "Txf6ntarna"
+        },
+        "2": {
+            "Artist": "Chris Lee",
+            "Song": "Talk To The Hand"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "5": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "6": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "7": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "8": {
+            "Artist": "Donkeyboy",
+            "Song": "Awake"
+        },
+        "9": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "10": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "11": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "12": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "13": {
+            "Artist": "Britney Spears",
+            "Song": "3"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "15": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "16": {
+            "Artist": "Pitbull",
+            "Song": "I Know You Want Me (Calle Ocho)"
+        },
+        "17": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "18": {
+            "Artist": "Paperboys",
+            "Song": "Lonesome Traveler"
+        },
+        "19": {
+            "Artist": "La Roux",
+            "Song": "Bulletproof"
+        },
+        "20": {
+            "Artist": "Empire Of The Sun",
+            "Song": "We Are The People"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "3": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "4": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "5": {
+            "Artist": "Chris Lee",
+            "Song": "Talk To The Hand"
+        },
+        "6": {
+            "Artist": "Donkeyboy",
+            "Song": "Broke My Eyes"
+        },
+        "7": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "8": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "9": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "10": {
+            "Artist": "Britney Spears",
+            "Song": "3"
+        },
+        "11": {
+            "Artist": "Kent",
+            "Song": "Txf6ntarna"
+        },
+        "12": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "13": {
+            "Artist": "Agnes",
+            "Song": "Release Me"
+        },
+        "14": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "15": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "16": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "17": {
+            "Artist": "Donkeyboy",
+            "Song": "Awake"
+        },
+        "18": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "19": {
+            "Artist": "Robbie Williams",
+            "Song": "Bodies"
+        },
+        "20": {
+            "Artist": "La Roux",
+            "Song": "Bulletproof"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "3": {
+            "Artist": "Aleksander With feat. Lene Marlin",
+            "Song": "Worth It"
+        },
+        "4": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "5": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "6": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "7": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "8": {
+            "Artist": "Chris Lee",
+            "Song": "Talk To The Hand"
+        },
+        "9": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "10": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "11": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "12": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "13": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "14": {
+            "Artist": "Naturi Naughton",
+            "Song": "Fame"
+        },
+        "15": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        },
+        "16": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "17": {
+            "Artist": "Britney Spears",
+            "Song": "3"
+        },
+        "18": {
+            "Artist": "Muse",
+            "Song": "Uprising"
+        },
+        "19": {
+            "Artist": "La Roux",
+            "Song": "Bulletproof"
+        },
+        "20": {
+            "Artist": "P!nk",
+            "Song": "Please Don't Leave Me"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "3": {
+            "Artist": "Aalesund Allstars",
+            "Song": "Sunn møring"
+        },
+        "4": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "5": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "6": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "7": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "8": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "9": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "10": {
+            "Artist": "Selena Gomez",
+            "Song": "Magic"
+        },
+        "11": {
+            "Artist": "Aleksander With feat. Lene Marlin",
+            "Song": "Worth It"
+        },
+        "12": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "13": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "14": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "15": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "16": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "17": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "18": {
+            "Artist": "La Roux",
+            "Song": "Bulletproof"
+        },
+        "19": {
+            "Artist": "Britney Spears",
+            "Song": "3"
+        },
+        "20": {
+            "Artist": "Shakira",
+            "Song": "She Wolf"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "3": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "4": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "5": {
+            "Artist": "Selena Gomez",
+            "Song": "Magic"
+        },
+        "6": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "7": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "9": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "10": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "11": {
+            "Artist": "Veronica Maggio",
+            "Song": "Måndagsbarn"
+        },
+        "12": {
+            "Artist": "A1",
+            "Song": "Take You Home"
+        },
+        "13": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "14": {
+            "Artist": "David Guetta feat. Kelly Rowland",
+            "Song": "When Love Takes Over"
+        },
+        "15": {
+            "Artist": "Lenka",
+            "Song": "Trouble Is A Friend"
+        },
+        "16": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "17": {
+            "Artist": "Aleksander With feat. Lene Marlin",
+            "Song": "Worth It"
+        },
+        "18": {
+            "Artist": "Cascada",
+            "Song": "Evacuate The Dancefloor"
+        },
+        "19": {
+            "Artist": "Jay-Z / Rihanna / Kanye West",
+            "Song": "Run This Town"
+        },
+        "20": {
+            "Artist": "Muse",
+            "Song": "Unintended"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "2": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "3": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "4": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "5": {
+            "Artist": "Lady Gaga",
+            "Song": "Bad Romance"
+        },
+        "6": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "7": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "8": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "9": {
+            "Artist": "A1",
+            "Song": "Take You Home"
+        },
+        "10": {
+            "Artist": "Lenka",
+            "Song": "Trouble Is A Friend"
+        },
+        "11": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "12": {
+            "Artist": "Chris Lee",
+            "Song": "Talk To The Hand"
+        },
+        "13": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "14": {
+            "Artist": "Sissel og Odd",
+            "Song": "Upp gledjest alle, gledjest no"
+        },
+        "15": {
+            "Artist": "Chris Lee",
+            "Song": "Drunk Dialer"
+        },
+        "16": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        },
+        "17": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "18": {
+            "Artist": "Leona Lewis",
+            "Song": "Happy"
+        },
+        "19": {
+            "Artist": "Aleksander With feat. Lene Marlin",
+            "Song": "Worth It"
+        },
+        "20": {
+            "Artist": "Selena Gomez",
+            "Song": "Magic"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Alicia Keys",
+            "Song": "Try Sleeping With A Broken Heart"
+        },
+        "3": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "4": {
+            "Artist": "Lady Gaga",
+            "Song": "Bad Romance"
+        },
+        "5": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "6": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "7": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "8": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "9": {
+            "Artist": "Chris Lee",
+            "Song": "Drunk Dialer"
+        },
+        "10": {
+            "Artist": "Lenka",
+            "Song": "Trouble Is A Friend"
+        },
+        "11": {
+            "Artist": "Jason Derulo",
+            "Song": "Whatcha Say"
+        },
+        "12": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "13": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "14": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "15": {
+            "Artist": "A1",
+            "Song": "Take You Home"
+        },
+        "16": {
+            "Artist": "Chris Lee",
+            "Song": "Talk To The Hand"
+        },
+        "17": {
+            "Artist": "Leona Lewis",
+            "Song": "Happy"
+        },
+        "18": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "19": {
+            "Artist": "Sissel og Odd",
+            "Song": "Upp gledjest alle, gledjest no"
+        },
+        "20": {
+            "Artist": "Sivert Høyem",
+            "Song": "Moon Landing"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "2": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "3": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "4": {
+            "Artist": "Lady Gaga",
+            "Song": "Bad Romance"
+        },
+        "5": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "6": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "7": {
+            "Artist": "Jason Derulo",
+            "Song": "Whatcha Say"
+        },
+        "8": {
+            "Artist": "Maria Solheim & Hans-Erik Dyvik Husby",
+            "Song": "Rom for alle"
+        },
+        "9": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "I Gotta Feeling"
+        },
+        "10": {
+            "Artist": "Chris Lee",
+            "Song": "Drunk Dialer"
+        },
+        "11": {
+            "Artist": "Bjørn Hellfuck",
+            "Song": "Krabbeklo"
+        },
+        "12": {
+            "Artist": "Miley Cyrus",
+            "Song": "Party In The U.S.A."
+        },
+        "13": {
+            "Artist": "Jay Sean feat. Lil Wayne",
+            "Song": "Down"
+        },
+        "14": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "15": {
+            "Artist": "Alicia Keys",
+            "Song": "Try Sleeping With A Broken Heart"
+        },
+        "16": {
+            "Artist": "Lenka",
+            "Song": "Trouble Is A Friend"
+        },
+        "17": {
+            "Artist": "Sissel og Odd",
+            "Song": "Upp gledjest alle, gledjest no"
+        },
+        "18": {
+            "Artist": "Beyoncé",
+            "Song": "Sweet Dreams"
+        },
+        "19": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "20": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Meet Me Halfway"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Maria Solheim & Hans-Erik Dyvik Husby",
+            "Song": "Rom for alle"
+        },
+        "2": {
+            "Artist": "Lady Gaga",
+            "Song": "Bad Romance"
+        },
+        "3": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "4": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "5": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "6": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "7": {
+            "Artist": "Navigators",
+            "Song": "Wall Of Stone"
+        },
+        "8": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "9": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "10": {
+            "Artist": "Jason Derulo",
+            "Song": "Whatcha Say"
+        },
+        "11": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "12": {
+            "Artist": "Chris Lee",
+            "Song": "Drunk Dialer"
+        },
+        "13": {
+            "Artist": "Lenka",
+            "Song": "Trouble Is A Friend"
+        },
+        "14": {
+            "Artist": "Bjørn Hellfuck",
+            "Song": "Krabbeklo"
+        },
+        "15": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "16": {
+            "Artist": "Sissel og Odd",
+            "Song": "Upp gledjest alle, gledjest no"
+        },
+        "17": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "18": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "19": {
+            "Artist": "Owl City",
+            "Song": "Fireflies"
+        },
+        "20": {
+            "Artist": "The Black Eyed Peas",
+            "Song": "Meet Me Halfway"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Maria Solheim & Hans-Erik Dyvik Husby",
+            "Song": "Rom for alle"
+        },
+        "2": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "3": {
+            "Artist": "Lady Gaga",
+            "Song": "Bad Romance"
+        },
+        "4": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "5": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "6": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "7": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "8": {
+            "Artist": "Owl City",
+            "Song": "Fireflies"
+        },
+        "9": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "10": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "11": {
+            "Artist": "Navigators",
+            "Song": "Wall Of Stone"
+        },
+        "12": {
+            "Artist": "Jason Derulo",
+            "Song": "Whatcha Say"
+        },
+        "13": {
+            "Artist": "Sissel og Odd",
+            "Song": "Upp gledjest alle, gledjest no"
+        },
+        "14": {
+            "Artist": "Bjørn Hellfuck",
+            "Song": "Krabbeklo"
+        },
+        "15": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "16": {
+            "Artist": "David Guetta feat. Akon",
+            "Song": "Sexy Bitch"
+        },
+        "17": {
+            "Artist": "Wyclef Jean feat. Akon & Lil Wayne and intr. Niia",
+            "Song": "Sweetest Girl Dollar Bill"
+        },
+        "18": {
+            "Artist": "Jace Everett",
+            "Song": "Bad Things"
+        },
+        "19": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "20": {
+            "Artist": "Anita Skorgan",
+            "Song": "I denne julenatt"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Maria Solheim & Hans-Erik Dyvik Husby",
+            "Song": "Rom for alle"
+        },
+        "2": {
+            "Artist": "Chand Torsvik",
+            "Song": "Diamanten"
+        },
+        "3": {
+            "Artist": "Rihanna",
+            "Song": "Russian Roulette"
+        },
+        "4": {
+            "Artist": "Lady Gaga",
+            "Song": "Bad Romance"
+        },
+        "5": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "6": {
+            "Artist": "Donkeyboy",
+            "Song": "Sometimes"
+        },
+        "7": {
+            "Artist": "Ke$ha",
+            "Song": "TiK ToK"
+        },
+        "8": {
+            "Artist": "Shackles",
+            "Song": "Breaking The Silence"
+        },
+        "9": {
+            "Artist": "Owl City",
+            "Song": "Fireflies"
+        },
+        "10": {
+            "Artist": "Jay-Z + Alicia Keys",
+            "Song": "Empire State Of Mind"
+        },
+        "11": {
+            "Artist": "Sissel og Odd",
+            "Song": "Upp gledjest alle, gledjest no"
+        },
+        "12": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "13": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "14": {
+            "Artist": "Donkeyboy",
+            "Song": "Ambitions"
+        },
+        "15": {
+            "Artist": "Ungdom for Røde Kors",
+            "Song": "En stjerne skinner i natt"
+        },
+        "16": {
+            "Artist": "Alicia Keys",
+            "Song": "Try Sleeping With A Broken Heart"
+        },
+        "17": {
+            "Artist": "The Pogues feat. Kirsty MacColl",
+            "Song": "Fairytale Of New York"
+        },
+        "18": {
+            "Artist": "Jason Derulo",
+            "Song": "Whatcha Say"
+        },
+        "19": {
+            "Artist": "Anita Skorgan",
+            "Song": "I denne julenatt"
+        },
+        "20": {
+            "Artist": "Bjørn Hellfuck",
+            "Song": "Krabbeklo"
+        }
+    }
+}

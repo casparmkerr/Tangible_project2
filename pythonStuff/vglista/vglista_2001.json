@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "2": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        },
+        "3": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "4": {
+            "Artist": "Kings Of Convenience",
+            "Song": "Playing Live In A Room"
+        },
+        "5": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        },
+        "6": {
+            "Artist": "Madonna",
+            "Song": "Don't Tell Me"
+        },
+        "7": {
+            "Artist": "Hypetraxx",
+            "Song": "The Darkside"
+        },
+        "8": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "9": {
+            "Artist": "Ice",
+            "Song": "Can't Get Over You"
+        },
+        "10": {
+            "Artist": "Craig David",
+            "Song": "Walking Away"
+        },
+        "11": {
+            "Artist": "Backstreet Boys",
+            "Song": "Shape Of My Heart"
+        },
+        "12": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "13": {
+            "Artist": "The Offspring",
+            "Song": "Original Prankster"
+        },
+        "14": {
+            "Artist": "D'Lay",
+            "Song": "On Your Own"
+        },
+        "15": {
+            "Artist": "Reset",
+            "Song": "Calling You"
+        },
+        "16": {
+            "Artist": "Destiny's Child",
+            "Song": "Independent Women Part I"
+        },
+        "17": {
+            "Artist": "Sugababes",
+            "Song": "Overload"
+        },
+        "18": {
+            "Artist": "Westlife",
+            "Song": "My Love"
+        },
+        "19": {
+            "Artist": "Delerium feat. Sarah McLachlan",
+            "Song": "Silence"
+        },
+        "20": {
+            "Artist": "Boyzvoice",
+            "Song": "We Are The Playmomen"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "2": {
+            "Artist": "Kings Of Convenience",
+            "Song": "Playing Live In A Room"
+        },
+        "3": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "4": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "5": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "6": {
+            "Artist": "State",
+            "Song": "Allelu"
+        },
+        "7": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        },
+        "8": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        },
+        "9": {
+            "Artist": "Craig David",
+            "Song": "Walking Away"
+        },
+        "10": {
+            "Artist": "Madonna",
+            "Song": "Don't Tell Me"
+        },
+        "11": {
+            "Artist": "Ice",
+            "Song": "Can't Get Over You"
+        },
+        "12": {
+            "Artist": "Sugababes",
+            "Song": "Overload"
+        },
+        "13": {
+            "Artist": "Destiny's Child",
+            "Song": "Independent Women Part I"
+        },
+        "14": {
+            "Artist": "Backstreet Boys",
+            "Song": "Shape Of My Heart"
+        },
+        "15": {
+            "Artist": "Hypetraxx",
+            "Song": "The Darkside"
+        },
+        "16": {
+            "Artist": "The Offspring",
+            "Song": "Original Prankster"
+        },
+        "17": {
+            "Artist": "D'Lay",
+            "Song": "On Your Own"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Stronger"
+        },
+        "19": {
+            "Artist": "Corvine",
+            "Song": "Nova EP"
+        },
+        "20": {
+            "Artist": "Delerium feat. Sarah McLachlan",
+            "Song": "Silence"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "2": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "3": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Love Don't Cost A Thing"
+        },
+        "4": {
+            "Artist": "Kings Of Convenience",
+            "Song": "Playing Live In A Room"
+        },
+        "5": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "6": {
+            "Artist": "Craig David",
+            "Song": "Walking Away"
+        },
+        "7": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        },
+        "8": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "9": {
+            "Artist": "Madonna",
+            "Song": "Don't Tell Me"
+        },
+        "10": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        },
+        "11": {
+            "Artist": "Hypetraxx",
+            "Song": "The Darkside"
+        },
+        "12": {
+            "Artist": "The Offspring",
+            "Song": "Original Prankster"
+        },
+        "13": {
+            "Artist": "Backstreet Boys",
+            "Song": "Shape Of My Heart"
+        },
+        "14": {
+            "Artist": "Ice",
+            "Song": "Can't Get Over You"
+        },
+        "15": {
+            "Artist": "Sugababes",
+            "Song": "Overload"
+        },
+        "16": {
+            "Artist": "Westlife",
+            "Song": "My Love"
+        },
+        "17": {
+            "Artist": "D'Lay",
+            "Song": "On Your Own"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Stronger"
+        },
+        "19": {
+            "Artist": "Corvine",
+            "Song": "Nova EP"
+        },
+        "20": {
+            "Artist": "Destiny's Child",
+            "Song": "Independent Women Part I"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "2": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "3": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Love Don't Cost A Thing"
+        },
+        "4": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "5": {
+            "Artist": "Kings Of Convenience",
+            "Song": "Playing Live In A Room"
+        },
+        "6": {
+            "Artist": "Craig David",
+            "Song": "Walking Away"
+        },
+        "7": {
+            "Artist": "Hypetraxx",
+            "Song": "The Darkside"
+        },
+        "8": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        },
+        "9": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        },
+        "10": {
+            "Artist": "Madonna",
+            "Song": "Don't Tell Me"
+        },
+        "11": {
+            "Artist": "Britney Spears",
+            "Song": "Stronger"
+        },
+        "12": {
+            "Artist": "Ice",
+            "Song": "Can't Get Over You"
+        },
+        "13": {
+            "Artist": "The Offspring",
+            "Song": "Original Prankster"
+        },
+        "14": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "15": {
+            "Artist": "Destiny's Child",
+            "Song": "Independent Women Part I"
+        },
+        "16": {
+            "Artist": "Backstreet Boys",
+            "Song": "Shape Of My Heart"
+        },
+        "17": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "18": {
+            "Artist": "D'Lay",
+            "Song": "On Your Own"
+        },
+        "19": {
+            "Artist": "Sugababes",
+            "Song": "Overload"
+        },
+        "20": {
+            "Artist": "Bon Jovi",
+            "Song": "Thank You For Loving Me"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "2": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "3": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "4": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "5": {
+            "Artist": "Kings Of Convenience",
+            "Song": "Playing Live In A Room"
+        },
+        "6": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Love Don't Cost A Thing"
+        },
+        "7": {
+            "Artist": "Ice",
+            "Song": "Stay"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "9": {
+            "Artist": "Craig David",
+            "Song": "Walking Away"
+        },
+        "10": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "11": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        },
+        "12": {
+            "Artist": "Tweeterfriendly Music",
+            "Song": "Inviting The Dying"
+        },
+        "13": {
+            "Artist": "Hypetraxx",
+            "Song": "The Darkside"
+        },
+        "14": {
+            "Artist": "Madonna",
+            "Song": "Don't Tell Me"
+        },
+        "15": {
+            "Artist": "Jay-Z",
+            "Song": "I Just Wanna Love U (Give It 2 Me)"
+        },
+        "16": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        },
+        "17": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Stronger"
+        },
+        "19": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "20": {
+            "Artist": "Destiny's Child",
+            "Song": "Independent Women Part I"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "2": {
+            "Artist": "Bob Hund",
+            "Song": "Skall du hxe4nga med! Nxe4!"
+        },
+        "3": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "4": {
+            "Artist": "U2",
+            "Song": "Stuck In A Moment You Can't Get Out Of"
+        },
+        "5": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "6": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "7": {
+            "Artist": "Ice",
+            "Song": "Stay"
+        },
+        "8": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "9": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "10": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Love Don't Cost A Thing"
+        },
+        "11": {
+            "Artist": "Robbie Williams",
+            "Song": "Supreme"
+        },
+        "12": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "13": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "14": {
+            "Artist": "Klovner i Kamp",
+            "Song": "Tykt og tynt"
+        },
+        "15": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "16": {
+            "Artist": "Westlife",
+            "Song": "I Lay My Love On You"
+        },
+        "17": {
+            "Artist": "Jay-Z",
+            "Song": "I Just Wanna Love U (Give It 2 Me)"
+        },
+        "18": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "19": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        },
+        "20": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "2": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "3": {
+            "Artist": "Coldplay",
+            "Song": "Trouble - Norwegian Live EP"
+        },
+        "4": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "5": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "6": {
+            "Artist": "Bob Hund",
+            "Song": "Skall du hxe4nga med! Nxe4!"
+        },
+        "7": {
+            "Artist": "Ice",
+            "Song": "Stay"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "9": {
+            "Artist": "U2",
+            "Song": "Stuck In A Moment You Can't Get Out Of"
+        },
+        "10": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "11": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "12": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "13": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Love Don't Cost A Thing"
+        },
+        "14": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "15": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "16": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "17": {
+            "Artist": "Klovner i Kamp",
+            "Song": "Tykt og tynt"
+        },
+        "18": {
+            "Artist": "Robbie Williams",
+            "Song": "Supreme"
+        },
+        "19": {
+            "Artist": "A1",
+            "Song": "Same Old Brand New You"
+        },
+        "20": {
+            "Artist": "Christian Strand",
+            "Song": "Maybe Baby"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "2": {
+            "Artist": "Sondre Lerche",
+            "Song": "You Know So Well"
+        },
+        "3": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "4": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "5": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "6": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "7": {
+            "Artist": "Coldplay",
+            "Song": "Trouble - Norwegian Live EP"
+        },
+        "8": {
+            "Artist": "Ice",
+            "Song": "Stay"
+        },
+        "9": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "10": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "11": {
+            "Artist": "Bob Hund",
+            "Song": "Skall du hxe4nga med! Nxe4!"
+        },
+        "12": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "13": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "14": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "15": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "16": {
+            "Artist": "Sister Sonny",
+            "Song": "Duperbeach EP"
+        },
+        "17": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "18": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "19": {
+            "Artist": "U2",
+            "Song": "Stuck In A Moment You Can't Get Out Of"
+        },
+        "20": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Love Don't Cost A Thing"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "Madrugada",
+            "Song": "Hands Up - I Love You"
+        },
+        "2": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "3": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "4": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "5": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "6": {
+            "Artist": "Sondre Lerche",
+            "Song": "You Know So Well"
+        },
+        "7": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "8": {
+            "Artist": "Coldplay",
+            "Song": "Trouble - Norwegian Live EP"
+        },
+        "9": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "10": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "11": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "12": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "13": {
+            "Artist": "Baha Men",
+            "Song": "Who Let The Dogs Out"
+        },
+        "14": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "15": {
+            "Artist": "Bob Hund",
+            "Song": "Skall du hxe4nga med! Nxe4!"
+        },
+        "16": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        },
+        "17": {
+            "Artist": "Ice",
+            "Song": "Stay"
+        },
+        "18": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "19": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        },
+        "20": {
+            "Artist": "Robbie Williams",
+            "Song": "Supreme"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "Madrugada",
+            "Song": "Hands Up - I Love You"
+        },
+        "2": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "3": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "4": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "5": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "6": {
+            "Artist": "Sondre Lerche",
+            "Song": "You Know So Well"
+        },
+        "7": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "8": {
+            "Artist": "Cadillac",
+            "Song": "The Show"
+        },
+        "9": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "10": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "11": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "12": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "13": {
+            "Artist": "Dido",
+            "Song": "Here With Me"
+        },
+        "14": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "15": {
+            "Artist": "Coldplay",
+            "Song": "Trouble - Norwegian Live EP"
+        },
+        "16": {
+            "Artist": "Robbie Williams",
+            "Song": "Supreme"
+        },
+        "17": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "18": {
+            "Artist": "Locomotives",
+            "Song": "Hallelujah EP"
+        },
+        "19": {
+            "Artist": "Ice",
+            "Song": "Stay"
+        },
+        "20": {
+            "Artist": "LeAnn Rimes",
+            "Song": "Can't Fight The Moonlight"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "2": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "3": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "4": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "5": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "6": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "7": {
+            "Artist": "Sondre Lerche",
+            "Song": "You Know So Well"
+        },
+        "8": {
+            "Artist": "Dido",
+            "Song": "Here With Me"
+        },
+        "9": {
+            "Artist": "Madrugada",
+            "Song": "Hands Up - I Love You"
+        },
+        "10": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "11": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "12": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "13": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "14": {
+            "Artist": "Fragma feat. Maria Rubia",
+            "Song": "Everytime You Need Me"
+        },
+        "15": {
+            "Artist": "Dario G",
+            "Song": "Dream To Me"
+        },
+        "16": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        },
+        "17": {
+            "Artist": "Poor Rich Ones",
+            "Song": "All Those Present"
+        },
+        "18": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "19": {
+            "Artist": "Mocci",
+            "Song": "You've Got The Motion"
+        },
+        "20": {
+            "Artist": "Eminem feat. Dido",
+            "Song": "Stan"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "2": {
+            "Artist": "Spin-Up",
+            "Song": "If You Wanna Party"
+        },
+        "3": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "4": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "5": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "6": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "7": {
+            "Artist": "Haldor Lxe6greid",
+            "Song": "On My Own"
+        },
+        "8": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "9": {
+            "Artist": "Dido",
+            "Song": "Here With Me"
+        },
+        "10": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "11": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "12": {
+            "Artist": "Sondre Lerche",
+            "Song": "You Know So Well"
+        },
+        "13": {
+            "Artist": "Dario G",
+            "Song": "Dream To Me"
+        },
+        "14": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "15": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "16": {
+            "Artist": "Poor Rich Ones",
+            "Song": "All Those Present"
+        },
+        "17": {
+            "Artist": "Madrugada",
+            "Song": "Hands Up - I Love You"
+        },
+        "18": {
+            "Artist": "Backstreet Boys",
+            "Song": "The Call"
+        },
+        "19": {
+            "Artist": "Il Caesar",
+            "Song": "Calma"
+        },
+        "20": {
+            "Artist": "Limp Bizkit",
+            "Song": "Rollin'"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "2": {
+            "Artist": "Spin-Up",
+            "Song": "If You Wanna Party"
+        },
+        "3": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "4": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "5": {
+            "Artist": "Haldor Lxe6greid",
+            "Song": "On My Own"
+        },
+        "6": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "7": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "8": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "9": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "10": {
+            "Artist": "Sondre Lerche",
+            "Song": "You Know So Well"
+        },
+        "11": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "12": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "13": {
+            "Artist": "Dido",
+            "Song": "Here With Me"
+        },
+        "14": {
+            "Artist": "Dario G",
+            "Song": "Dream To Me"
+        },
+        "15": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "16": {
+            "Artist": "Wyclef Jean feat. Mary J Blige",
+            "Song": "911"
+        },
+        "17": {
+            "Artist": "Poor Rich Ones",
+            "Song": "All Those Present"
+        },
+        "18": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "19": {
+            "Artist": "Nick Cave & The Bad Seeds",
+            "Song": "As I Sat Sadly By Her Side"
+        },
+        "20": {
+            "Artist": "Britney Spears",
+            "Song": "Don't Let Me Be The Last To Know"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "2": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "3": {
+            "Artist": "Spin-Up",
+            "Song": "If You Wanna Party"
+        },
+        "4": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "5": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "6": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "7": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "8": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "9": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "10": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "11": {
+            "Artist": "Nick Cave & The Bad Seeds",
+            "Song": "As I Sat Sadly By Her Side"
+        },
+        "12": {
+            "Artist": "Haldor Lxe6greid",
+            "Song": "On My Own"
+        },
+        "13": {
+            "Artist": "Pen Jakke",
+            "Song": "Generasjon Hiphop"
+        },
+        "14": {
+            "Artist": "D'Lay",
+            "Song": "Going Wild"
+        },
+        "15": {
+            "Artist": "Dario G",
+            "Song": "Dream To Me"
+        },
+        "16": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "17": {
+            "Artist": "Outkast",
+            "Song": "Ms. Jackson"
+        },
+        "18": {
+            "Artist": "Dido",
+            "Song": "Here With Me"
+        },
+        "19": {
+            "Artist": "Public Domain",
+            "Song": "Operation Blade (Bass In The Place London...)"
+        },
+        "20": {
+            "Artist": "Dream",
+            "Song": "He Loves U Not"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "2": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "3": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "4": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "5": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "6": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "7": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "8": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "9": {
+            "Artist": "Spin-Up",
+            "Song": "If You Wanna Party"
+        },
+        "10": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "11": {
+            "Artist": "D'Lay",
+            "Song": "Going Wild"
+        },
+        "12": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "13": {
+            "Artist": "Janet Jackson",
+            "Song": "All For You"
+        },
+        "14": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "15": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "16": {
+            "Artist": "Pen Jakke",
+            "Song": "Generasjon Hiphop"
+        },
+        "17": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "18": {
+            "Artist": "Haldor Lxe6greid",
+            "Song": "On My Own"
+        },
+        "19": {
+            "Artist": "Dido",
+            "Song": "Here With Me"
+        },
+        "20": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "2": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "3": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "4": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "5": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "6": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "7": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "8": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "9": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "10": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "11": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "12": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "13": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "14": {
+            "Artist": "Spin-Up",
+            "Song": "If You Wanna Party"
+        },
+        "15": {
+            "Artist": "Janet Jackson",
+            "Song": "All For You"
+        },
+        "16": {
+            "Artist": "D'Lay",
+            "Song": "Going Wild"
+        },
+        "17": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "18": {
+            "Artist": "Haldor Lxe6greid",
+            "Song": "On My Own"
+        },
+        "19": {
+            "Artist": "Pen Jakke",
+            "Song": "Generasjon Hiphop"
+        },
+        "20": {
+            "Artist": "Poor Rich Ones",
+            "Song": "All Those Present"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "2": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "3": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "4": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "5": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "6": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "7": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "8": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "9": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "10": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "11": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "12": {
+            "Artist": "Janet Jackson",
+            "Song": "All For You"
+        },
+        "13": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "14": {
+            "Artist": "Madonna",
+            "Song": "What It Feels Like For A Girl"
+        },
+        "15": {
+            "Artist": "Spin-Up",
+            "Song": "If You Wanna Party"
+        },
+        "16": {
+            "Artist": "Ricky Martin with Christina Aguilera",
+            "Song": "Nobody Wants To Be Lonely"
+        },
+        "17": {
+            "Artist": "Nelly Furtado",
+            "Song": "I'm Like A Bird"
+        },
+        "18": {
+            "Artist": "Addis Black Widow",
+            "Song": "Goes Around Comes Around"
+        },
+        "19": {
+            "Artist": "D'Lay",
+            "Song": "Going Wild"
+        },
+        "20": {
+            "Artist": "Pen Jakke",
+            "Song": "Generasjon Hiphop"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "2": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "3": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "4": {
+            "Artist": "R.E.M.",
+            "Song": "Imitation Of Life"
+        },
+        "5": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "6": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "7": {
+            "Artist": "Depeche Mode",
+            "Song": "Dream On"
+        },
+        "8": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "9": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "10": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "11": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "12": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "13": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "14": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "15": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Play"
+        },
+        "16": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "17": {
+            "Artist": "Madonna",
+            "Song": "What It Feels Like For A Girl"
+        },
+        "18": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "19": {
+            "Artist": "Nelly Furtado",
+            "Song": "I'm Like A Bird"
+        },
+        "20": {
+            "Artist": "Janet Jackson",
+            "Song": "All For You"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "2": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "3": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "4": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "5": {
+            "Artist": "R.E.M.",
+            "Song": "Imitation Of Life"
+        },
+        "6": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "7": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "8": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "9": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "10": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "11": {
+            "Artist": "Organic",
+            "Song": "Big Brother"
+        },
+        "12": {
+            "Artist": "Depeche Mode",
+            "Song": "Dream On"
+        },
+        "13": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "14": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "15": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "16": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Play"
+        },
+        "17": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "18": {
+            "Artist": "Madonna",
+            "Song": "What It Feels Like For A Girl"
+        },
+        "19": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "20": {
+            "Artist": "Janet Jackson",
+            "Song": "All For You"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "2": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "3": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "4": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "5": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "6": {
+            "Artist": "Reset",
+            "Song": "Say I'm The One"
+        },
+        "7": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "8": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "9": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "10": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "11": {
+            "Artist": "R.E.M.",
+            "Song": "Imitation Of Life"
+        },
+        "12": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Play"
+        },
+        "13": {
+            "Artist": "Depeche Mode",
+            "Song": "Dream On"
+        },
+        "14": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "15": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "16": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "17": {
+            "Artist": "Janet Jackson",
+            "Song": "All For You"
+        },
+        "18": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "19": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "20": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "2": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "3": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "4": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "5": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "6": {
+            "Artist": "Reset",
+            "Song": "Say I'm The One"
+        },
+        "7": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "8": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "9": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "10": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "11": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "12": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "13": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Play"
+        },
+        "14": {
+            "Artist": "Gorillaz",
+            "Song": "Clint Eastwood"
+        },
+        "15": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "16": {
+            "Artist": "Shaggy feat. RikRok",
+            "Song": "It Wasn't Me"
+        },
+        "17": {
+            "Artist": "Lil Bow Wow",
+            "Song": "Bow Wow (That's My Name)"
+        },
+        "18": {
+            "Artist": "R.E.M.",
+            "Song": "Imitation Of Life"
+        },
+        "19": {
+            "Artist": "Creed",
+            "Song": "With Arms Wide Open"
+        },
+        "20": {
+            "Artist": "Nelly Furtado",
+            "Song": "I'm Like A Bird"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "2": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "3": {
+            "Artist": "Radiohead",
+            "Song": "Pyramid Song"
+        },
+        "4": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "5": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "7": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "8": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "9": {
+            "Artist": "El More",
+            "Song": "Everybody"
+        },
+        "10": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "11": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "12": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "13": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "14": {
+            "Artist": "Reset",
+            "Song": "Say I'm The One"
+        },
+        "15": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "16": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "17": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Play"
+        },
+        "18": {
+            "Artist": "R.E.M.",
+            "Song": "Imitation Of Life"
+        },
+        "19": {
+            "Artist": "Opus X",
+            "Song": "Girl What's Up"
+        },
+        "20": {
+            "Artist": "Madonna",
+            "Song": "What It Feels Like For A Girl"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "2": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "3": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "4": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "5": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "6": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "7": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "8": {
+            "Artist": "Radiohead",
+            "Song": "Pyramid Song"
+        },
+        "9": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "10": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "11": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "12": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "13": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "14": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "15": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "16": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "17": {
+            "Artist": "Dido",
+            "Song": "Thank You"
+        },
+        "18": {
+            "Artist": "Reset",
+            "Song": "Say I'm The One"
+        },
+        "19": {
+            "Artist": "Opus X",
+            "Song": "Girl What's Up"
+        },
+        "20": {
+            "Artist": "Luxus Leverpostei",
+            "Song": "The Big Big Brother"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Spin-Up",
+            "Song": "Sing Na Na Na"
+        },
+        "2": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "3": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "5": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "6": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "7": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "8": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "9": {
+            "Artist": "Basement Jaxx",
+            "Song": "Romeo"
+        },
+        "10": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "11": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "12": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "13": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        },
+        "14": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "15": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "16": {
+            "Artist": "Multicyde",
+            "Song": "A Better Day"
+        },
+        "17": {
+            "Artist": "Mr. Milo Lil' Danny & Friends",
+            "Song": "Song To Benjamin"
+        },
+        "18": {
+            "Artist": "Radiohead",
+            "Song": "Pyramid Song"
+        },
+        "19": {
+            "Artist": "Cape",
+            "Song": "Tic Tac"
+        },
+        "20": {
+            "Artist": "Dido",
+            "Song": "Thank You"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "2": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "3": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "4": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "5": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "6": {
+            "Artist": "Spin-Up",
+            "Song": "Sing Na Na Na"
+        },
+        "7": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "8": {
+            "Artist": "St. Thomas",
+            "Song": "The Cornerman EP"
+        },
+        "9": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "10": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "11": {
+            "Artist": "Basement Jaxx",
+            "Song": "Romeo"
+        },
+        "12": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "13": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "14": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "15": {
+            "Artist": "Oral Bee feat. Mr. Pimp-Lotion",
+            "Song": "Den breiale stilen"
+        },
+        "16": {
+            "Artist": "Peel",
+            "Song": "Natalie Somewhere"
+        },
+        "17": {
+            "Artist": "Destiny's Child",
+            "Song": "Survivor"
+        },
+        "18": {
+            "Artist": "Analogue Orchestra",
+            "Song": "Back To Stereo EP"
+        },
+        "19": {
+            "Artist": "Westlife",
+            "Song": "Uptown Girl"
+        },
+        "20": {
+            "Artist": "Wheatus",
+            "Song": "Teenage Dirtbag"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "2": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "5": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "6": {
+            "Artist": "Sondre Lerche",
+            "Song": "No One's Gonna Come"
+        },
+        "7": {
+            "Artist": "Bigbang",
+            "Song": "Smiling For"
+        },
+        "8": {
+            "Artist": "St. Thomas",
+            "Song": "The Cornerman EP"
+        },
+        "9": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "10": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "11": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "12": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "13": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "14": {
+            "Artist": "Eve",
+            "Song": "Who's That Girl?"
+        },
+        "15": {
+            "Artist": "Basement Jaxx",
+            "Song": "Romeo"
+        },
+        "16": {
+            "Artist": "Spin-Up",
+            "Song": "Sing Na Na Na"
+        },
+        "17": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "18": {
+            "Artist": "Jessica Simpson",
+            "Song": "Irresistible"
+        },
+        "19": {
+            "Artist": "Spooks",
+            "Song": "Things I've Seen"
+        },
+        "20": {
+            "Artist": "Analogue Orchestra",
+            "Song": "Back To Stereo EP"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "2": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "5": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "6": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "7": {
+            "Artist": "Bigbang",
+            "Song": "Smiling For"
+        },
+        "8": {
+            "Artist": "St. Thomas",
+            "Song": "The Cornerman EP"
+        },
+        "9": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "10": {
+            "Artist": "Spin-Up",
+            "Song": "Sing Na Na Na"
+        },
+        "11": {
+            "Artist": "Sondre Lerche",
+            "Song": "No One's Gonna Come"
+        },
+        "12": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "13": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        },
+        "14": {
+            "Artist": "Analogue Orchestra",
+            "Song": "Back To Stereo EP"
+        },
+        "15": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "16": {
+            "Artist": "Eve",
+            "Song": "Who's That Girl?"
+        },
+        "17": {
+            "Artist": "Basement Jaxx",
+            "Song": "Romeo"
+        },
+        "18": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "19": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "20": {
+            "Artist": "Jessica Simpson",
+            "Song": "Irresistible"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "2": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "5": {
+            "Artist": "U2",
+            "Song": "Elevation"
+        },
+        "6": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "7": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        },
+        "8": {
+            "Artist": "St. Thomas",
+            "Song": "The Cornerman EP"
+        },
+        "9": {
+            "Artist": "Bigbang",
+            "Song": "Smiling For"
+        },
+        "10": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "11": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "12": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "13": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "14": {
+            "Artist": "Sondre Lerche",
+            "Song": "No One's Gonna Come"
+        },
+        "15": {
+            "Artist": "Fragma",
+            "Song": "You Are Alive"
+        },
+        "16": {
+            "Artist": "Basement Jaxx",
+            "Song": "Romeo"
+        },
+        "17": {
+            "Artist": "Analogue Orchestra",
+            "Song": "Back To Stereo EP"
+        },
+        "18": {
+            "Artist": "Jessica Simpson",
+            "Song": "Irresistible"
+        },
+        "19": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "20": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "2": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "5": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "7": {
+            "Artist": "U2",
+            "Song": "Elevation"
+        },
+        "8": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        },
+        "9": {
+            "Artist": "Antique",
+            "Song": "(I Would) Die For You"
+        },
+        "10": {
+            "Artist": "St. Thomas",
+            "Song": "The Cornerman EP"
+        },
+        "11": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "12": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "13": {
+            "Artist": "Crazy Town",
+            "Song": "Butterfly"
+        },
+        "14": {
+            "Artist": "Fragma",
+            "Song": "You Are Alive"
+        },
+        "15": {
+            "Artist": "Basement Jaxx",
+            "Song": "Romeo"
+        },
+        "16": {
+            "Artist": "Jessica Simpson",
+            "Song": "Irresistible"
+        },
+        "17": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "18": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "19": {
+            "Artist": "Titiyo",
+            "Song": "Come Along"
+        },
+        "20": {
+            "Artist": "Sondre Lerche",
+            "Song": "No One's Gonna Come"
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "2": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "5": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "6": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "7": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "8": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "9": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        },
+        "10": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "11": {
+            "Artist": "U2",
+            "Song": "Elevation"
+        },
+        "12": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "13": {
+            "Artist": "Fragma",
+            "Song": "You Are Alive"
+        },
+        "14": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "15": {
+            "Artist": "Antique",
+            "Song": "(I Would) Die For You"
+        },
+        "16": {
+            "Artist": "Travis",
+            "Song": "Sing"
+        },
+        "17": {
+            "Artist": "St. Thomas",
+            "Song": "The Cornerman EP"
+        },
+        "18": {
+            "Artist": "Bosson",
+            "Song": "One In A Million"
+        },
+        "19": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "20": {
+            "Artist": "The Strokes",
+            "Song": "The Modern Age"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "2": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "3": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "4": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "5": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "6": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "8": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "9": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "10": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "11": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "12": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "13": {
+            "Artist": "U2",
+            "Song": "Elevation"
+        },
+        "14": {
+            "Artist": "Antique",
+            "Song": "(I Would) Die For You"
+        },
+        "15": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        },
+        "16": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "17": {
+            "Artist": "Fragma",
+            "Song": "You Are Alive"
+        },
+        "18": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "19": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "20": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "2": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "3": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "4": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "5": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "6": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "8": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "9": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "10": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "11": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "12": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "13": {
+            "Artist": "U2",
+            "Song": "Elevation"
+        },
+        "14": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "15": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "16": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "17": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "18": {
+            "Artist": "Antique",
+            "Song": "(I Would) Die For You"
+        },
+        "19": {
+            "Artist": "Safri Duo",
+            "Song": "Played-A-Live (The Bongo Song)"
+        },
+        "20": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "2": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "3": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "4": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "5": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "7": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "8": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "9": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "10": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "11": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "12": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "13": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "14": {
+            "Artist": "Brandy and Ray J",
+            "Song": "Another Day In Paradise"
+        },
+        "15": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "16": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "17": {
+            "Artist": "U2",
+            "Song": "Elevation"
+        },
+        "18": {
+            "Artist": "Vincens",
+            "Song": "Where's The Love Gone"
+        },
+        "19": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "20": {
+            "Artist": "*N Sync",
+            "Song": "Pop"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "3": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "4": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "5": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "6": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "7": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "8": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "9": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "10": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "11": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "12": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "13": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "14": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "15": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "16": {
+            "Artist": "Geri Halliwell",
+            "Song": "It's Raining Men"
+        },
+        "17": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "18": {
+            "Artist": "Vincens",
+            "Song": "Where's The Love Gone"
+        },
+        "19": {
+            "Artist": "Bjxf6rk",
+            "Song": "Hidden Place"
+        },
+        "20": {
+            "Artist": "Jamiroquai",
+            "Song": "Little L"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "3": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "4": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "5": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "6": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "8": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "9": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "10": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "11": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "12": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "13": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "14": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "15": {
+            "Artist": "The Supermen Lovers feat. Mani Hoffman",
+            "Song": "Starlight"
+        },
+        "16": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        },
+        "17": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "18": {
+            "Artist": "Vincens",
+            "Song": "Where's The Love Gone"
+        },
+        "19": {
+            "Artist": "Bjxf6rk",
+            "Song": "Hidden Place"
+        },
+        "20": {
+            "Artist": "Jamiroquai",
+            "Song": "Little L"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "5": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "6": {
+            "Artist": "Madrugada",
+            "Song": "A Deadend Mind EP"
+        },
+        "7": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "8": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "9": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "10": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "11": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "12": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "13": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "14": {
+            "Artist": "Wyclef Jean",
+            "Song": "Perfect Gentleman"
+        },
+        "15": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "16": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "17": {
+            "Artist": "Faithless",
+            "Song": "We Come 1"
+        },
+        "18": {
+            "Artist": "Vincens",
+            "Song": "Where's The Love Gone"
+        },
+        "19": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "20": {
+            "Artist": "Nelly feat. City Spud",
+            "Song": "Ride Wit Me"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "5": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "6": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "7": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "8": {
+            "Artist": "Spin-Up",
+            "Song": "Sing Na Na Na"
+        },
+        "9": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "10": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "11": {
+            "Artist": "Herborg Kråkevik",
+            "Song": "Songen i mitt liv"
+        },
+        "12": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "13": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "14": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "15": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "16": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "17": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        },
+        "18": {
+            "Artist": "Vincens",
+            "Song": "Where's The Love Gone"
+        },
+        "19": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "20": {
+            "Artist": "Blu Cantrell",
+            "Song": "Hit 'em Up Style (Oops!)"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "2": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "3": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "4": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "5": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "6": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "7": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "8": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "9": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "10": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "11": {
+            "Artist": "Destiny's Child",
+            "Song": "Bootylicious"
+        },
+        "12": {
+            "Artist": "Blu Cantrell",
+            "Song": "Hit 'em Up Style (Oops!)"
+        },
+        "13": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "14": {
+            "Artist": "Dante Thomas feat. Pras",
+            "Song": "Miss California"
+        },
+        "15": {
+            "Artist": "Gabrielle",
+            "Song": "Out Of Reach"
+        },
+        "16": {
+            "Artist": "Madrugada",
+            "Song": "A Deadend Mind EP"
+        },
+        "17": {
+            "Artist": "Herborg Kråkevik",
+            "Song": "Songen i mitt liv"
+        },
+        "18": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "19": {
+            "Artist": "Daddy DJ",
+            "Song": "Daddy DJ"
+        },
+        "20": {
+            "Artist": "Roger Sanchez",
+            "Song": "Another Chance"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "2": {
+            "Artist": "The Margarets",
+            "Song": "Alain Delon / Rubber Rubbish"
+        },
+        "3": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "4": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "5": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "6": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "7": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "8": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "9": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "10": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "11": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "12": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "13": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "14": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "15": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "16": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "17": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "18": {
+            "Artist": "Reset",
+            "Song": "Say Yeah!"
+        },
+        "19": {
+            "Artist": "Shaggy feat. Rayvon",
+            "Song": "Angel"
+        },
+        "20": {
+            "Artist": "Blu Cantrell",
+            "Song": "Hit 'em Up Style (Oops!)"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "3": {
+            "Artist": "The Margarets",
+            "Song": "Alain Delon / Rubber Rubbish"
+        },
+        "4": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "5": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "6": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "7": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "8": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "9": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "10": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "11": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "12": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "13": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "14": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "15": {
+            "Artist": "DJ xd6tzi",
+            "Song": "Hey Baby (uhh, ahh)"
+        },
+        "16": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "17": {
+            "Artist": "Blue",
+            "Song": "All Rise"
+        },
+        "18": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "19": {
+            "Artist": "Shaggy",
+            "Song": "Luv Me, Luv Me"
+        },
+        "20": {
+            "Artist": "Reset",
+            "Song": "Say Yeah!"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "3": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "4": {
+            "Artist": "The Margarets",
+            "Song": "Alain Delon / Rubber Rubbish"
+        },
+        "5": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "6": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "7": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "8": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "9": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "10": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "11": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "12": {
+            "Artist": "DJ xd6tzi",
+            "Song": "Hey Baby (uhh, ahh)"
+        },
+        "13": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "14": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "15": {
+            "Artist": "Usher",
+            "Song": "U Remind Me"
+        },
+        "16": {
+            "Artist": "Shaggy",
+            "Song": "Luv Me, Luv Me"
+        },
+        "17": {
+            "Artist": "D12",
+            "Song": "Purple Pills"
+        },
+        "18": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "19": {
+            "Artist": "Blu Cantrell",
+            "Song": "Hit 'em Up Style (Oops!)"
+        },
+        "20": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Michael Jackson",
+            "Song": "You Rock My World"
+        },
+        "3": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "4": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "5": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "6": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "7": {
+            "Artist": "The Margarets",
+            "Song": "Alain Delon / Rubber Rubbish"
+        },
+        "8": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "9": {
+            "Artist": "DJ xd6tzi",
+            "Song": "Hey Baby (uhh, ahh)"
+        },
+        "10": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "11": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "12": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "13": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "14": {
+            "Artist": "Shaggy",
+            "Song": "Luv Me, Luv Me"
+        },
+        "15": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "16": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "17": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "18": {
+            "Artist": "Galaxee",
+            "Song": "The Crow Song"
+        },
+        "19": {
+            "Artist": "Sarah Connor feat. TQ",
+            "Song": "Let's Get Back To Bed - Boy!"
+        },
+        "20": {
+            "Artist": "Blu Cantrell",
+            "Song": "Hit 'em Up Style (Oops!)"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "3": {
+            "Artist": "Michael Jackson",
+            "Song": "You Rock My World"
+        },
+        "4": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "5": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "6": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "7": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "8": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "9": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "10": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "11": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "12": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "13": {
+            "Artist": "DJ xd6tzi",
+            "Song": "Hey Baby (uhh, ahh)"
+        },
+        "14": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "15": {
+            "Artist": "Apollo [NO]",
+            "Song": "Hvite netter"
+        },
+        "16": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "17": {
+            "Artist": "Daddy DJ",
+            "Song": "The Girl In Red"
+        },
+        "18": {
+            "Artist": "Shaggy",
+            "Song": "Luv Me, Luv Me"
+        },
+        "19": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "20": {
+            "Artist": "Bomfunk MCs",
+            "Song": "Super Electric"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "4": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "5": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "6": {
+            "Artist": "Michael Jackson",
+            "Song": "You Rock My World"
+        },
+        "7": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "9": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "10": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "11": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "12": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "13": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "14": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "15": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "16": {
+            "Artist": "Bomfunk MCs",
+            "Song": "Super Electric"
+        },
+        "17": {
+            "Artist": "Daddy DJ",
+            "Song": "The Girl In Red"
+        },
+        "18": {
+            "Artist": "Jennifer Lopez",
+            "Song": "Ain't It Funny"
+        },
+        "19": {
+            "Artist": "Faith Hill",
+            "Song": "There You'll Be"
+        },
+        "20": {
+            "Artist": "Apollo [NO]",
+            "Song": "Hvite netter"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "4": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "5": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "7": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "8": {
+            "Artist": "Michael Jackson",
+            "Song": "You Rock My World"
+        },
+        "9": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "10": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "11": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "12": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "13": {
+            "Artist": "Bomfunk MCs",
+            "Song": "Super Electric"
+        },
+        "14": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        },
+        "15": {
+            "Artist": "Christina Aguilera, Mya, Lil' Kim, P!nk",
+            "Song": "Lady Marmalade"
+        },
+        "16": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "17": {
+            "Artist": "Nelly Furtado",
+            "Song": "Turn Off The Light"
+        },
+        "18": {
+            "Artist": "Sarah Connor feat. TQ",
+            "Song": "Let's Get Back To Bed - Boy!"
+        },
+        "19": {
+            "Artist": "Blue",
+            "Song": "Too Close"
+        },
+        "20": {
+            "Artist": "Daddy DJ",
+            "Song": "The Girl In Red"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "4": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "5": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "6": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "7": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "8": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "9": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "10": {
+            "Artist": "Michael Jackson",
+            "Song": "You Rock My World"
+        },
+        "11": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "12": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "13": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "14": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "15": {
+            "Artist": "Uncle Kracker",
+            "Song": "Follow Me"
+        },
+        "16": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "17": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "18": {
+            "Artist": "Daddy DJ",
+            "Song": "The Girl In Red"
+        },
+        "19": {
+            "Artist": "Bomfunk MCs",
+            "Song": "Super Electric"
+        },
+        "20": {
+            "Artist": "Atomic Kitten",
+            "Song": "Eternal Flame"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Anastacia",
+            "Song": "Paid My Dues"
+        },
+        "4": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "5": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "6": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "8": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "9": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "10": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "11": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "12": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "13": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "14": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "15": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "16": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "17": {
+            "Artist": "Michael Jackson",
+            "Song": "You Rock My World"
+        },
+        "18": {
+            "Artist": "Silver",
+            "Song": "Riot 1-2-3"
+        },
+        "19": {
+            "Artist": "Daddy DJ",
+            "Song": "The Girl In Red"
+        },
+        "20": {
+            "Artist": "Bomfunk MCs",
+            "Song": "Super Electric"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "2": {
+            "Artist": "Anastacia",
+            "Song": "Paid My Dues"
+        },
+        "3": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "4": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "5": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "7": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "8": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "9": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "10": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "11": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "12": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "13": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "14": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "15": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "16": {
+            "Artist": "2PM",
+            "Song": "Sonata"
+        },
+        "17": {
+            "Artist": "U2",
+            "Song": "Walk On"
+        },
+        "18": {
+            "Artist": "E-Type",
+            "Song": "Life"
+        },
+        "19": {
+            "Artist": "Mary J Blige",
+            "Song": "Family Affair"
+        },
+        "20": {
+            "Artist": "Cher",
+            "Song": "The Music's No Good Without You"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "2": {
+            "Artist": "Anastacia",
+            "Song": "Paid My Dues"
+        },
+        "3": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "4": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "5": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "6": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "7": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "8": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "9": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "10": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "11": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "12": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "13": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "14": {
+            "Artist": "E-Type",
+            "Song": "Life"
+        },
+        "15": {
+            "Artist": "Galaxee",
+            "Song": "Lullaby"
+        },
+        "16": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "17": {
+            "Artist": "2PM",
+            "Song": "Sonata"
+        },
+        "18": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        },
+        "19": {
+            "Artist": "Mis-Teeq",
+            "Song": "One Night Stand"
+        },
+        "20": {
+            "Artist": "U2",
+            "Song": "Walk On"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "Anastacia",
+            "Song": "Paid My Dues"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "4": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "5": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "6": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "8": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "9": {
+            "Artist": "Galaxee",
+            "Song": "Lullaby"
+        },
+        "10": {
+            "Artist": "E-Type",
+            "Song": "Life"
+        },
+        "11": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "12": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "13": {
+            "Artist": "Lambretta",
+            "Song": "Bimbo"
+        },
+        "14": {
+            "Artist": "Mis-Teeq",
+            "Song": "One Night Stand"
+        },
+        "15": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "16": {
+            "Artist": "2PM",
+            "Song": "Sonata"
+        },
+        "17": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "18": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "19": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "20": {
+            "Artist": "Hanah",
+            "Song": "Hollywood Lie"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Anastacia",
+            "Song": "Paid My Dues"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "4": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "5": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "6": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "7": {
+            "Artist": "Galaxee",
+            "Song": "Lullaby"
+        },
+        "8": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "9": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "10": {
+            "Artist": "E-Type",
+            "Song": "Life"
+        },
+        "11": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "12": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "13": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        },
+        "14": {
+            "Artist": "Lambretta",
+            "Song": "Bimbo"
+        },
+        "15": {
+            "Artist": "Hanah",
+            "Song": "Best Friend"
+        },
+        "16": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "17": {
+            "Artist": "Britney Spears",
+            "Song": "I'm A Slave 4 U"
+        },
+        "18": {
+            "Artist": "Britney Spears",
+            "Song": "Overprotected"
+        },
+        "19": {
+            "Artist": "Wyclef Jean",
+            "Song": "Wish You Were Here"
+        },
+        "20": {
+            "Artist": "2PM",
+            "Song": "Sonata"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Anastacia",
+            "Song": "Paid My Dues"
+        },
+        "2": {
+            "Artist": "Afroman",
+            "Song": "Because I Got High"
+        },
+        "3": {
+            "Artist": "Kylie Minogue",
+            "Song": "Can't Get You Out Of My Head"
+        },
+        "4": {
+            "Artist": "Alicia Keys",
+            "Song": "Fallin'"
+        },
+        "5": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Hero"
+        },
+        "6": {
+            "Artist": "Jennifer Lopez",
+            "Song": "I'm Real"
+        },
+        "7": {
+            "Artist": "Destiny's Child",
+            "Song": "Emotion"
+        },
+        "8": {
+            "Artist": "E-Type",
+            "Song": "Life"
+        },
+        "9": {
+            "Artist": "Christina Milian",
+            "Song": "AM To PM"
+        },
+        "10": {
+            "Artist": "Alien Ant Farm",
+            "Song": "Smooth Criminal"
+        },
+        "11": {
+            "Artist": "City High",
+            "Song": "What Would You Do?"
+        },
+        "12": {
+            "Artist": "Galaxee",
+            "Song": "Lullaby"
+        },
+        "13": {
+            "Artist": "Westlife",
+            "Song": "Queen Of My Heart"
+        },
+        "14": {
+            "Artist": "Lambretta",
+            "Song": "Bimbo"
+        },
+        "15": {
+            "Artist": "Hanah",
+            "Song": "Best Friend"
+        },
+        "16": {
+            "Artist": "2PM",
+            "Song": "Sonata"
+        },
+        "17": {
+            "Artist": "Britney Spears",
+            "Song": "Overprotected"
+        },
+        "18": {
+            "Artist": "Mis-Teeq",
+            "Song": "One Night Stand"
+        },
+        "19": {
+            "Artist": "Eve feat. Gwen Stefani",
+            "Song": "Let Me Blow Ya Mind"
+        },
+        "20": {
+            "Artist": "Backstreet Boys",
+            "Song": "Drowning"
+        }
+    }
+}

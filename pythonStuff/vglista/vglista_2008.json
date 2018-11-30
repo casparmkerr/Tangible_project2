@@ -1,0 +1,4266 @@
+{
+    "1": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "3": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "4": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "5": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "6": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "7": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "8": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "9": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "10": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "11": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "12": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "14": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "15": {
+            "Artist": "Bertine Zetlitz",
+            "Song": "Ashamed"
+        },
+        "16": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "17": {
+            "Artist": "The Pogues feat. Kirsty MacColl",
+            "Song": "Fairytale Of New York"
+        },
+        "18": {
+            "Artist": "Michael Bublé",
+            "Song": "Everything"
+        },
+        "19": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Push Push"
+        },
+        "20": {
+            "Artist": "KT Tunstall",
+            "Song": "Hold On"
+        }
+    },
+    "2": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "3": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "4": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "5": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "6": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "7": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "8": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "9": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "10": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "11": {
+            "Artist": "ABBA",
+            "Song": "Happy New Year"
+        },
+        "12": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "13": {
+            "Artist": "Michael Bublé",
+            "Song": "Everything"
+        },
+        "14": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "15": {
+            "Artist": "Plain White T's",
+            "Song": "Hey There Delilah"
+        },
+        "16": {
+            "Artist": "Kylie Minogue",
+            "Song": "2 Hearts"
+        },
+        "17": {
+            "Artist": "Alejandro Fuentes",
+            "Song": "Hell If I"
+        },
+        "18": {
+            "Artist": "Mika",
+            "Song": "Relax (Take It Easy)"
+        },
+        "19": {
+            "Artist": "KT Tunstall",
+            "Song": "Hold On"
+        },
+        "20": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Reality Kicks"
+        }
+    },
+    "3": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "3": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "4": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "5": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "6": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "7": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "8": {
+            "Artist": "Michael Bublé",
+            "Song": "Everything"
+        },
+        "9": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "10": {
+            "Artist": "Venke Knutson",
+            "Song": "Holiday"
+        },
+        "11": {
+            "Artist": "Kanye West feat. Chris Martin",
+            "Song": "Homecoming"
+        },
+        "12": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "13": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "14": {
+            "Artist": "Michael Bublé",
+            "Song": "Lost"
+        },
+        "15": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "16": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "17": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "18": {
+            "Artist": "Kaizers Orchestra",
+            "Song": "Enden av November"
+        },
+        "19": {
+            "Artist": "Rihanna feat. Jay-Z",
+            "Song": "Umbrella"
+        },
+        "20": {
+            "Artist": "Venke Knutson",
+            "Song": "Walk The Walk"
+        }
+    },
+    "4": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "3": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "4": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "5": {
+            "Artist": "Sichelle",
+            "Song": "Min"
+        },
+        "6": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "7": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "8": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "9": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "10": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "11": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "12": {
+            "Artist": "Kanye West feat. Chris Martin",
+            "Song": "Homecoming"
+        },
+        "13": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "14": {
+            "Artist": "Michael Bublé",
+            "Song": "Everything"
+        },
+        "15": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "16": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "17": {
+            "Artist": "Morten Harket",
+            "Song": "Movies"
+        },
+        "18": {
+            "Artist": "deLillos",
+            "Song": "Tøff i pyjamas"
+        },
+        "19": {
+            "Artist": "Kaizers Orchestra",
+            "Song": "Enden av November"
+        },
+        "20": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        }
+    },
+    "5": {
+        "1": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "2": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "3": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "4": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "5": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "6": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "7": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "8": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "9": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "10": {
+            "Artist": "Surferosa",
+            "Song": "The Future"
+        },
+        "11": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "12": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "13": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "14": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "15": {
+            "Artist": "Sichelle",
+            "Song": "Min"
+        },
+        "16": {
+            "Artist": "Kanye West feat. Chris Martin",
+            "Song": "Homecoming"
+        },
+        "17": {
+            "Artist": "Lene Alexandra",
+            "Song": "Sillycone Valley"
+        },
+        "18": {
+            "Artist": "Michael Bublé",
+            "Song": "Everything"
+        },
+        "19": {
+            "Artist": "Timbaland feat. Keri Hilson",
+            "Song": "The Way I Are"
+        },
+        "20": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        }
+    },
+    "6": {
+        "1": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "2": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "3": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "4": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "5": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "6": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "7": {
+            "Artist": "Sichelle",
+            "Song": "Min"
+        },
+        "8": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "9": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "10": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "11": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "12": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "13": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "14": {
+            "Artist": "Kanye West feat. Chris Martin",
+            "Song": "Homecoming"
+        },
+        "15": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "16": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "17": {
+            "Artist": "Lene Alexandra",
+            "Song": "Sillycone Valley"
+        },
+        "18": {
+            "Artist": "Michael Bublé",
+            "Song": "Everything"
+        },
+        "19": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "20": {
+            "Artist": "Madrugada",
+            "Song": "Whatever Happened To You?"
+        }
+    },
+    "7": {
+        "1": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "2": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "3": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "4": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "5": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "6": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "7": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "8": {
+            "Artist": "Ingrid Olava",
+            "Song": "Only Just Begun"
+        },
+        "9": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "10": {
+            "Artist": "Svein xd8stvik",
+            "Song": "Kongen av Mallorca"
+        },
+        "11": {
+            "Artist": "Sichelle",
+            "Song": "Min"
+        },
+        "12": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "13": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "14": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "15": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        },
+        "16": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "17": {
+            "Artist": "Kanye West feat. Chris Martin",
+            "Song": "Homecoming"
+        },
+        "18": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "19": {
+            "Artist": "Eros Ramazzotti",
+            "Song": "Cose della vita"
+        },
+        "20": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        }
+    },
+    "8": {
+        "1": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "2": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "3": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "4": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "5": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "6": {
+            "Artist": "Jahn Teigen",
+            "Song": "Det vakreste som fins"
+        },
+        "7": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "8": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "9": {
+            "Artist": "Svein xd8stvik",
+            "Song": "Kongen av Mallorca"
+        },
+        "10": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "11": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "12": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "13": {
+            "Artist": "Michael Jackson",
+            "Song": "Thriller"
+        },
+        "14": {
+            "Artist": "Madrugada",
+            "Song": "Look Away Lucifer"
+        },
+        "15": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "16": {
+            "Artist": "The National Bank",
+            "Song": "Family"
+        },
+        "17": {
+            "Artist": "Michael Jackson",
+            "Song": "Billie Jean"
+        },
+        "18": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "19": {
+            "Artist": "Sichelle",
+            "Song": "Min"
+        },
+        "20": {
+            "Artist": "Kanye West feat. Chris Martin",
+            "Song": "Homecoming"
+        }
+    },
+    "9": {
+        "1": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "2": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "3": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "4": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "5": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "6": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "7": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "8": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "9": {
+            "Artist": "Svein xd8stvik",
+            "Song": "Kongen av Mallorca"
+        },
+        "10": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "11": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "12": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "13": {
+            "Artist": "Jahn Teigen",
+            "Song": "Det vakreste som fins"
+        },
+        "14": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "15": {
+            "Artist": "Sichelle",
+            "Song": "Min"
+        },
+        "16": {
+            "Artist": "Madcon",
+            "Song": "Back On The Road"
+        },
+        "17": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "18": {
+            "Artist": "Erik og Kriss",
+            "Song": "Dra tilbake"
+        },
+        "19": {
+            "Artist": "Michael Jackson",
+            "Song": "Thriller"
+        },
+        "20": {
+            "Artist": "Glenn Lyse",
+            "Song": "Days Go By"
+        }
+    },
+    "10": {
+        "1": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "2": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "3": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "4": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "5": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "6": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "7": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "8": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "9": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "10": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "11": {
+            "Artist": "Name",
+            "Song": "Hand Me Down"
+        },
+        "12": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "13": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "14": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "15": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "16": {
+            "Artist": "Janet Jackson",
+            "Song": "Feedback"
+        },
+        "17": {
+            "Artist": "Ingrid Olava",
+            "Song": "Only Just Begun"
+        },
+        "18": {
+            "Artist": "Aly & AJ",
+            "Song": "Potential Break Up Song"
+        },
+        "19": {
+            "Artist": "Jahn Teigen",
+            "Song": "Det vakreste som fins"
+        },
+        "20": {
+            "Artist": "Sarah McLachlan",
+            "Song": "Angel"
+        }
+    },
+    "11": {
+        "1": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "2": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "3": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "4": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "5": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "6": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "7": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "8": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "9": {
+            "Artist": "Sarah McLachlan",
+            "Song": "Angel"
+        },
+        "10": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "11": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "12": {
+            "Artist": "Madrugada",
+            "Song": "What's On Your Mind?"
+        },
+        "13": {
+            "Artist": "Name",
+            "Song": "Hand Me Down"
+        },
+        "14": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "15": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        },
+        "16": {
+            "Artist": "Janet Jackson",
+            "Song": "Feedback"
+        },
+        "17": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        },
+        "18": {
+            "Artist": "Michael Jackson",
+            "Song": "Beat It"
+        },
+        "19": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "20": {
+            "Artist": "Ingrid Olava",
+            "Song": "Only Just Begun"
+        }
+    },
+    "12": {
+        "1": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "2": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "3": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "4": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "5": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "6": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "7": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "8": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "9": {
+            "Artist": "Sarah McLachlan",
+            "Song": "Angel"
+        },
+        "10": {
+            "Artist": "Madrugada",
+            "Song": "What's On Your Mind?"
+        },
+        "11": {
+            "Artist": "Name",
+            "Song": "Hand Me Down"
+        },
+        "12": {
+            "Artist": "Alicia Keys",
+            "Song": "No One"
+        },
+        "13": {
+            "Artist": "Glenn Lyse",
+            "Song": "Guilty"
+        },
+        "14": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "15": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "16": {
+            "Artist": "Colbie Caillat",
+            "Song": "Bubbly"
+        },
+        "17": {
+            "Artist": "Timbaland feat. Keri Hilson & Nicole Scherzinger",
+            "Song": "Scream"
+        },
+        "18": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "19": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        },
+        "20": {
+            "Artist": "Basshunter feat. DJ Mental Theo's Bazzheadz",
+            "Song": "Now You're Gone"
+        }
+    },
+    "13": {
+        "1": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "2": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "3": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "4": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "5": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "6": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "7": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "8": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "9": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "10": {
+            "Artist": "Name",
+            "Song": "Hand Me Down"
+        },
+        "11": {
+            "Artist": "Glenn Lyse",
+            "Song": "Guilty"
+        },
+        "12": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "13": {
+            "Artist": "Brick & Lace",
+            "Song": "Love Is Wicked"
+        },
+        "14": {
+            "Artist": "Muse",
+            "Song": "Unintended"
+        },
+        "15": {
+            "Artist": "Madrugada",
+            "Song": "What's On Your Mind?"
+        },
+        "16": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "17": {
+            "Artist": "Timbaland feat. Keri Hilson & Nicole Scherzinger",
+            "Song": "Scream"
+        },
+        "18": {
+            "Artist": "Something Sally feat. Joss Stone",
+            "Song": "Tip Of My Tongue"
+        },
+        "19": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "20": {
+            "Artist": "Sarah McLachlan",
+            "Song": "Angel"
+        }
+    },
+    "14": {
+        "1": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "2": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "3": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "4": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "5": {
+            "Artist": "Muse",
+            "Song": "Unintended"
+        },
+        "6": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "7": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "8": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "9": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "10": {
+            "Artist": "Muse",
+            "Song": "Starlight"
+        },
+        "11": {
+            "Artist": "Ingrid Olava",
+            "Song": "Only Just Begun"
+        },
+        "12": {
+            "Artist": "Brandi Carlile",
+            "Song": "The Story"
+        },
+        "13": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "Eg ser"
+        },
+        "14": {
+            "Artist": "Madrugada",
+            "Song": "What's On Your Mind?"
+        },
+        "15": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "16": {
+            "Artist": "Manshow",
+            "Song": "Dorthe-Rap"
+        },
+        "17": {
+            "Artist": "Glenn Lyse",
+            "Song": "Guilty"
+        },
+        "18": {
+            "Artist": "Timbaland feat. Keri Hilson & Nicole Scherzinger",
+            "Song": "Scream"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "20": {
+            "Artist": "Muse",
+            "Song": "Knights Of Cydonia"
+        }
+    },
+    "15": {
+        "1": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "2": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "3": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "4": {
+            "Artist": "Radiohead",
+            "Song": "Nude"
+        },
+        "5": {
+            "Artist": "Muse",
+            "Song": "Unintended"
+        },
+        "6": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "7": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "8": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "9": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "10": {
+            "Artist": "Manshow",
+            "Song": "Dorthe-Rap"
+        },
+        "11": {
+            "Artist": "Muse",
+            "Song": "Starlight"
+        },
+        "12": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "13": {
+            "Artist": "Mariah Carey",
+            "Song": "Touch My Body"
+        },
+        "14": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "15": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "16": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "17": {
+            "Artist": "Ingrid Olava",
+            "Song": "Only Just Begun"
+        },
+        "18": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "19": {
+            "Artist": "Morten Harket",
+            "Song": "Darkspace"
+        },
+        "20": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        }
+    },
+    "16": {
+        "1": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "2": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "3": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "4": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "5": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "6": {
+            "Artist": "Morten Harket",
+            "Song": "Darkspace"
+        },
+        "7": {
+            "Artist": "Linjemenna",
+            "Song": "Liv og død for Fredrikstad"
+        },
+        "8": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "9": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "10": {
+            "Artist": "Mariah Carey",
+            "Song": "Touch My Body"
+        },
+        "11": {
+            "Artist": "R.E.M.",
+            "Song": "Supernatural Superserious"
+        },
+        "12": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "13": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "14": {
+            "Artist": "Muse",
+            "Song": "Unintended"
+        },
+        "15": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "16": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "17": {
+            "Artist": "OneRepublic",
+            "Song": "Stop And Stare"
+        },
+        "18": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "19": {
+            "Artist": "Rihanna",
+            "Song": "Don't Stop The Music"
+        },
+        "20": {
+            "Artist": "R.E.M.",
+            "Song": "Living Well Is The Best Revenge"
+        }
+    },
+    "17": {
+        "1": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "2": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "3": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "4": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "5": {
+            "Artist": "Morten Harket",
+            "Song": "Darkspace"
+        },
+        "6": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "7": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "8": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "9": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "10": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "11": {
+            "Artist": "Mariah Carey",
+            "Song": "Touch My Body"
+        },
+        "12": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "13": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "14": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        },
+        "15": {
+            "Artist": "OneRepublic",
+            "Song": "Stop And Stare"
+        },
+        "16": {
+            "Artist": "Muse",
+            "Song": "Unintended"
+        },
+        "17": {
+            "Artist": "Surferosa",
+            "Song": "Open Your Eyes"
+        },
+        "18": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        },
+        "19": {
+            "Artist": "Madrugada",
+            "Song": "What's On Your Mind?"
+        },
+        "20": {
+            "Artist": "Ingrid Olava",
+            "Song": "Back To Love"
+        }
+    },
+    "18": {
+        "1": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "3": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "4": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "5": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "6": {
+            "Artist": "Morten Harket",
+            "Song": "Darkspace"
+        },
+        "7": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "8": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "9": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "10": {
+            "Artist": "Usher feat. Young Jeezy",
+            "Song": "Love In This Club"
+        },
+        "11": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        },
+        "12": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "13": {
+            "Artist": "Mariah Carey",
+            "Song": "Touch My Body"
+        },
+        "14": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "15": {
+            "Artist": "Gatas Parlament",
+            "Song": "Counter Strike EP"
+        },
+        "16": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "17": {
+            "Artist": "OneRepublic",
+            "Song": "Stop And Stare"
+        },
+        "18": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        },
+        "19": {
+            "Artist": "Leona Lewis",
+            "Song": "Better In Time"
+        },
+        "20": {
+            "Artist": "Madcon",
+            "Song": "Beggin"
+        }
+    },
+    "19": {
+        "1": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "2": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "3": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "4": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "5": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "6": {
+            "Artist": "Kobojsarna",
+            "Song": "Jag vet du vill ha mig"
+        },
+        "7": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "8": {
+            "Artist": "Morten Harket",
+            "Song": "Darkspace"
+        },
+        "9": {
+            "Artist": "Gatas Parlament",
+            "Song": "Counter Strike EP"
+        },
+        "10": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        },
+        "11": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        },
+        "12": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "13": {
+            "Artist": "Usher feat. Young Jeezy",
+            "Song": "Love In This Club"
+        },
+        "14": {
+            "Artist": "Herman's Hermits",
+            "Song": "No Milk Today"
+        },
+        "15": {
+            "Artist": "Leona Lewis",
+            "Song": "Bleeding Love"
+        },
+        "16": {
+            "Artist": "Madonna",
+            "Song": "Give It 2 Me"
+        },
+        "17": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "18": {
+            "Artist": "Mariah Carey",
+            "Song": "Touch My Body"
+        },
+        "19": {
+            "Artist": "Kurt Nilsen",
+            "Song": "Don't Have What It Takes"
+        },
+        "20": {
+            "Artist": "Timbaland Presents OneRepublic",
+            "Song": "Apologize"
+        }
+    },
+    "20": {
+        "1": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "2": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "3": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "4": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "5": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "6": {
+            "Artist": "Kobojsarna",
+            "Song": "Jag vet du vill ha mig"
+        },
+        "7": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "8": {
+            "Artist": "Coldplay",
+            "Song": "Violet Hill"
+        },
+        "9": {
+            "Artist": "Anouk",
+            "Song": "Lost"
+        },
+        "10": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "11": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "12": {
+            "Artist": "Gatas Parlament",
+            "Song": "Counter Strike EP"
+        },
+        "13": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "14": {
+            "Artist": "Usher feat. Young Jeezy",
+            "Song": "Love In This Club"
+        },
+        "15": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "16": {
+            "Artist": "Madonna",
+            "Song": "Give It 2 Me"
+        },
+        "17": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "18": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "19": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        },
+        "20": {
+            "Artist": "Adele",
+            "Song": "Chasing Pavements"
+        }
+    },
+    "21": {
+        "1": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "2": {
+            "Artist": "Anouk",
+            "Song": "Lost"
+        },
+        "3": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "4": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "5": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "6": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "7": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "8": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "9": {
+            "Artist": "Kobojsarna",
+            "Song": "Jag vet du vill ha mig"
+        },
+        "10": {
+            "Artist": "Coldplay",
+            "Song": "Violet Hill"
+        },
+        "11": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "12": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "13": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "14": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "15": {
+            "Artist": "Albino Superstars",
+            "Song": "Team Disco"
+        },
+        "16": {
+            "Artist": "Gatas Parlament",
+            "Song": "Counter Strike EP"
+        },
+        "17": {
+            "Artist": "Kelly Rowland",
+            "Song": "Work"
+        },
+        "18": {
+            "Artist": "Elisabeth Carew",
+            "Song": "Destructive"
+        },
+        "19": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "20": {
+            "Artist": "Chris Brown",
+            "Song": "With You"
+        }
+    },
+    "22": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "2": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "3": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "4": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "5": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "6": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "7": {
+            "Artist": "Anouk",
+            "Song": "Lost"
+        },
+        "8": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "9": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "10": {
+            "Artist": "Albino Superstars",
+            "Song": "Team Disco"
+        },
+        "11": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "12": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "13": {
+            "Artist": "Coldplay",
+            "Song": "Violet Hill"
+        },
+        "14": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "15": {
+            "Artist": "Kobojsarna",
+            "Song": "Jag vet du vill ha mig"
+        },
+        "16": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        },
+        "17": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "18": {
+            "Artist": "Estelle feat. Kanye West",
+            "Song": "American Boy"
+        },
+        "19": {
+            "Artist": "Kelly Rowland",
+            "Song": "Work"
+        },
+        "20": {
+            "Artist": "Charlotte Perrelli",
+            "Song": "Hero"
+        }
+    },
+    "23": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "2": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "3": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "4": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "5": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "6": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "7": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "8": {
+            "Artist": "Rihanna",
+            "Song": "Take A Bow"
+        },
+        "9": {
+            "Artist": "Albino Superstars",
+            "Song": "Team Disco"
+        },
+        "10": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "11": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "12": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "13": {
+            "Artist": "Anouk",
+            "Song": "Lost"
+        },
+        "14": {
+            "Artist": "Kate Ryan",
+            "Song": "Ella elle l'a"
+        },
+        "15": {
+            "Artist": "Coldplay",
+            "Song": "Violet Hill"
+        },
+        "16": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "17": {
+            "Artist": "Morten Harket",
+            "Song": "Darkspace"
+        },
+        "18": {
+            "Artist": "Usher feat. Young Jeezy",
+            "Song": "Love In This Club"
+        },
+        "19": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "20": {
+            "Artist": "Busta Rhymes feat. Linkin Park",
+            "Song": "We Made It"
+        }
+    },
+    "24": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "2": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "3": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "4": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "5": {
+            "Artist": "Rihanna",
+            "Song": "Take A Bow"
+        },
+        "6": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "7": {
+            "Artist": "Albino Superstars",
+            "Song": "Team Disco"
+        },
+        "8": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "9": {
+            "Artist": "Kate Ryan",
+            "Song": "Ella elle l'a"
+        },
+        "10": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "11": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "13": {
+            "Artist": "Bjxf6rn Muri & Marilyn Monroe",
+            "Song": "I Wanna Be Loved By You"
+        },
+        "14": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "15": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "16": {
+            "Artist": "Busta Rhymes feat. Linkin Park",
+            "Song": "We Made It"
+        },
+        "17": {
+            "Artist": "Usher feat. Young Jeezy",
+            "Song": "Love In This Club"
+        },
+        "18": {
+            "Artist": "Lil Wayne",
+            "Song": "Lollipop"
+        },
+        "19": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "20": {
+            "Artist": "Flo Rida feat. T-Pain",
+            "Song": "Low"
+        }
+    },
+    "25": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "2": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "3": {
+            "Artist": "Foo Fighters",
+            "Song": "The Pretender"
+        },
+        "4": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "5": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "6": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "7": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Can You Hear Me"
+        },
+        "8": {
+            "Artist": "Rihanna",
+            "Song": "Take A Bow"
+        },
+        "9": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "10": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "11": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "13": {
+            "Artist": "Albino Superstars",
+            "Song": "Team Disco"
+        },
+        "14": {
+            "Artist": "Lil Wayne",
+            "Song": "Lollipop"
+        },
+        "15": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "16": {
+            "Artist": "Kate Ryan",
+            "Song": "Ella elle l'a"
+        },
+        "17": {
+            "Artist": "Ne-Yo",
+            "Song": "Closer"
+        },
+        "18": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "19": {
+            "Artist": "Busta Rhymes feat. Linkin Park",
+            "Song": "We Made It"
+        },
+        "20": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        }
+    },
+    "26": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "2": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "3": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "4": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "5": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "6": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "7": {
+            "Artist": "Rihanna",
+            "Song": "Take A Bow"
+        },
+        "8": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Can You Hear Me"
+        },
+        "9": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "10": {
+            "Artist": "Amy Macdonald",
+            "Song": "This Is The Life"
+        },
+        "11": {
+            "Artist": "Busta Rhymes feat. Linkin Park",
+            "Song": "We Made It"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "13": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "14": {
+            "Artist": "Albino Superstars",
+            "Song": "Team Disco"
+        },
+        "15": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "16": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        },
+        "17": {
+            "Artist": "Lil Wayne",
+            "Song": "Lollipop"
+        },
+        "18": {
+            "Artist": "Foo Fighters",
+            "Song": "The Pretender"
+        },
+        "19": {
+            "Artist": "Postgirobygget",
+            "Song": "En solskinnsdag"
+        },
+        "20": {
+            "Artist": "Ne-Yo",
+            "Song": "Closer"
+        }
+    },
+    "27": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "2": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "3": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "4": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "5": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "6": {
+            "Artist": "Amy Macdonald",
+            "Song": "This Is The Life"
+        },
+        "7": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "8": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "9": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "10": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "11": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "12": {
+            "Artist": "Rihanna",
+            "Song": "Take A Bow"
+        },
+        "13": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "14": {
+            "Artist": "Enrique Iglesias",
+            "Song": "Can You Hear Me"
+        },
+        "15": {
+            "Artist": "Maria Haukaas Storeng",
+            "Song": "Hold On Be Strong"
+        },
+        "16": {
+            "Artist": "Postgirobygget",
+            "Song": "En solskinnsdag"
+        },
+        "17": {
+            "Artist": "Busta Rhymes feat. Linkin Park",
+            "Song": "We Made It"
+        },
+        "18": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "19": {
+            "Artist": "Lil Wayne",
+            "Song": "Lollipop"
+        },
+        "20": {
+            "Artist": "Amy Macdonald",
+            "Song": "Mr Rock & Roll"
+        }
+    },
+    "28": {
+        "1": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "2": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "3": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "4": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "5": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "6": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "7": {
+            "Artist": "The Cure",
+            "Song": "Friday I'm In Love"
+        },
+        "8": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "9": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "10": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "11": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "12": {
+            "Artist": "Amy Macdonald",
+            "Song": "This Is The Life"
+        },
+        "13": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "14": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "15": {
+            "Artist": "Rihanna",
+            "Song": "Take A Bow"
+        },
+        "16": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "17": {
+            "Artist": "Ne-Yo",
+            "Song": "Closer"
+        },
+        "18": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "19": {
+            "Artist": "Postgirobygget",
+            "Song": "En solskinnsdag"
+        },
+        "20": {
+            "Artist": "Schnuffel Bunny",
+            "Song": "Snuggle Song"
+        }
+    },
+    "29": {
+        "1": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "2": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "3": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "4": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "5": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "6": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "7": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "8": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "10": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "11": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Radio Nowhere"
+        },
+        "12": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "13": {
+            "Artist": "Amy Macdonald",
+            "Song": "This Is The Life"
+        },
+        "14": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "15": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "16": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "17": {
+            "Artist": "Bruce Springsteen",
+            "Song": "The River"
+        },
+        "18": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Dancing In The Dark"
+        },
+        "19": {
+            "Artist": "Postgirobygget",
+            "Song": "En solskinnsdag"
+        },
+        "20": {
+            "Artist": "Bruce Springsteen",
+            "Song": "Born In The U.S.A."
+        }
+    },
+    "30": {
+        "1": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "2": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "3": {
+            "Artist": "Basshunter",
+            "Song": "All I Ever Wanted"
+        },
+        "4": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "5": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "6": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "7": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "8": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "10": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "11": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "12": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "13": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "14": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "15": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "16": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "17": {
+            "Artist": "Amy Macdonald",
+            "Song": "This Is The Life"
+        },
+        "18": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "19": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "20": {
+            "Artist": "Ne-Yo",
+            "Song": "Closer"
+        }
+    },
+    "31": {
+        "1": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "2": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "3": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "4": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "6": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "7": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "8": {
+            "Artist": "Basshunter",
+            "Song": "All I Ever Wanted"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "10": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "11": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "12": {
+            "Artist": "Inglow",
+            "Song": "As I Am"
+        },
+        "13": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "14": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "15": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "16": {
+            "Artist": "ABBA",
+            "Song": "Honey Honey"
+        },
+        "17": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "18": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "19": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "20": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        }
+    },
+    "32": {
+        "1": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "2": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "3": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "5": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "6": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "7": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "8": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "10": {
+            "Artist": "Basshunter",
+            "Song": "All I Ever Wanted"
+        },
+        "11": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "12": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "13": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "14": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "15": {
+            "Artist": "Inglow",
+            "Song": "As I Am"
+        },
+        "16": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "17": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "18": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        },
+        "19": {
+            "Artist": "Kurt Nilsen with Willie Nelson",
+            "Song": "Lost Highway"
+        },
+        "20": {
+            "Artist": "Amanda Seyfried, Ashley Lilley & Rachel McDowall",
+            "Song": "Honey, Honey"
+        }
+    },
+    "33": {
+        "1": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "3": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "4": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "5": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "6": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "7": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "8": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "10": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "11": {
+            "Artist": "Amanda Seyfried, Ashley Lilley & Rachel McDowall",
+            "Song": "Honey, Honey"
+        },
+        "12": {
+            "Artist": "Until June",
+            "Song": "Sleepless"
+        },
+        "13": {
+            "Artist": "Inglow",
+            "Song": "As I Am"
+        },
+        "14": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "15": {
+            "Artist": "Basshunter",
+            "Song": "All I Ever Wanted"
+        },
+        "16": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "17": {
+            "Artist": "Meryl Streep",
+            "Song": "Mamma Mia"
+        },
+        "18": {
+            "Artist": "Lonely Crowd",
+            "Song": "Aren't You Forgetting Something"
+        },
+        "19": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "20": {
+            "Artist": "Madonna & Justin",
+            "Song": "4 Minutes"
+        }
+    },
+    "34": {
+        "1": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "2": {
+            "Artist": "Samsaya",
+            "Song": "Change"
+        },
+        "3": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "4": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "5": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "6": {
+            "Artist": "One Day As A Lion",
+            "Song": "Wild International"
+        },
+        "7": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "8": {
+            "Artist": "Miley Cyrus",
+            "Song": "7 Things"
+        },
+        "9": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "10": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "11": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "12": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "13": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "14": {
+            "Artist": "Inglow",
+            "Song": "As I Am"
+        },
+        "15": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "16": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "17": {
+            "Artist": "Jonas Brothers",
+            "Song": "S.O.S"
+        },
+        "18": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "19": {
+            "Artist": "Amanda Seyfried, Ashley Lilley & Rachel McDowall",
+            "Song": "Honey, Honey"
+        },
+        "20": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        }
+    },
+    "35": {
+        "1": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "3": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "4": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "5": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "6": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "7": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "8": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "9": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "10": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "12": {
+            "Artist": "Inglow",
+            "Song": "As I Am"
+        },
+        "13": {
+            "Artist": "Samsaya",
+            "Song": "Change"
+        },
+        "14": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "Enter Sandman"
+        },
+        "16": {
+            "Artist": "Duffy",
+            "Song": "Warwick Avenue"
+        },
+        "17": {
+            "Artist": "Karpe Diem",
+            "Song": "Under overflaten"
+        },
+        "18": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "19": {
+            "Artist": "Jordin Sparks with Chris Brown",
+            "Song": "No Air"
+        },
+        "20": {
+            "Artist": "ABBA",
+            "Song": "Honey Honey"
+        }
+    },
+    "36": {
+        "1": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "2": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "3": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "4": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "5": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "6": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "7": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "8": {
+            "Artist": "Samsaya",
+            "Song": "Change"
+        },
+        "9": {
+            "Artist": "Metallica",
+            "Song": "My Apocalypse"
+        },
+        "10": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "11": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "12": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "13": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "14": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "15": {
+            "Artist": "Duffy",
+            "Song": "Warwick Avenue"
+        },
+        "16": {
+            "Artist": "Amanda Seyfried, Ashley Lilley & Rachel McDowall",
+            "Song": "Honey, Honey"
+        },
+        "17": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "18": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "19": {
+            "Artist": "Inglow",
+            "Song": "As I Am"
+        },
+        "20": {
+            "Artist": "Kate Ryan",
+            "Song": "Ella elle l'a"
+        }
+    },
+    "37": {
+        "1": {
+            "Artist": "MGMT",
+            "Song": "Kids"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "3": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "4": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "5": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "6": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "7": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "8": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "9": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "11": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "12": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "13": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "14": {
+            "Artist": "Samsaya",
+            "Song": "Change"
+        },
+        "15": {
+            "Artist": "Metallica",
+            "Song": "Cyanide"
+        },
+        "16": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        },
+        "17": {
+            "Artist": "Amanda Seyfried, Ashley Lilley & Rachel McDowall",
+            "Song": "Honey, Honey"
+        },
+        "18": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "19": {
+            "Artist": "Duffy",
+            "Song": "Warwick Avenue"
+        },
+        "20": {
+            "Artist": "Kate Ryan",
+            "Song": "Ella elle l'a"
+        }
+    },
+    "38": {
+        "1": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "2": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "3": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "4": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "5": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "6": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "7": {
+            "Artist": "Samsaya",
+            "Song": "Change"
+        },
+        "8": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven III"
+        },
+        "9": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "10": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "11": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "12": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "13": {
+            "Artist": "Metallica",
+            "Song": "The Judas Kiss"
+        },
+        "14": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "15": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "16": {
+            "Artist": "Metallica",
+            "Song": "That Was Just Your Life"
+        },
+        "17": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "When I Grow Up"
+        },
+        "18": {
+            "Artist": "Metallica",
+            "Song": "Cyanide"
+        },
+        "19": {
+            "Artist": "Metallica",
+            "Song": "Nothing Else Matters"
+        },
+        "20": {
+            "Artist": "Erik & Kriss",
+            "Song": "Det e'kke meg det er deg"
+        }
+    },
+    "39": {
+        "1": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "2": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "3": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "4": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "5": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "6": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "7": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "8": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "9": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven III"
+        },
+        "11": {
+            "Artist": "Crash!",
+            "Song": "Perfect Day"
+        },
+        "12": {
+            "Artist": "Samsaya",
+            "Song": "Change"
+        },
+        "13": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "When I Grow Up"
+        },
+        "14": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "15": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "16": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "17": {
+            "Artist": "Kardinal Offishall feat. Akon",
+            "Song": "Dangerous"
+        },
+        "18": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "19": {
+            "Artist": "Odd Nordstoga",
+            "Song": "Min eigen song"
+        },
+        "20": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        }
+    },
+    "40": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "3": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "4": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "5": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "6": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "7": {
+            "Artist": "Maria Mena",
+            "Song": "Belly Up"
+        },
+        "8": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "9": {
+            "Artist": "Erlend Bratland",
+            "Song": "Lost"
+        },
+        "10": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "11": {
+            "Artist": "Crash!",
+            "Song": "Perfect Day"
+        },
+        "12": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "13": {
+            "Artist": "Jason Mraz",
+            "Song": "I'm Yours"
+        },
+        "14": {
+            "Artist": "Kanye West",
+            "Song": "Love Lockdown"
+        },
+        "15": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "When I Grow Up"
+        },
+        "16": {
+            "Artist": "Espen Lind",
+            "Song": "Scared Of Heights"
+        },
+        "17": {
+            "Artist": "Duffy",
+            "Song": "Mercy"
+        },
+        "18": {
+            "Artist": "Metallica",
+            "Song": "The Unforgiven III"
+        },
+        "19": {
+            "Artist": "T.I.",
+            "Song": "Whatever You Like"
+        },
+        "20": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        }
+    },
+    "41": {
+        "1": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "3": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "4": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "5": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "6": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "7": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "8": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "9": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "10": {
+            "Artist": "Kid Rock",
+            "Song": "All Summer Long"
+        },
+        "11": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "12": {
+            "Artist": "Crash!",
+            "Song": "Perfect Day"
+        },
+        "13": {
+            "Artist": "Marius Nordheim",
+            "Song": "Gi meg et bilde"
+        },
+        "14": {
+            "Artist": "Jonas Brothers",
+            "Song": "Play My Music"
+        },
+        "15": {
+            "Artist": "Bo Kaspers Orkester",
+            "Song": "Innan allt fxf6rsvinner"
+        },
+        "16": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "17": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "18": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        },
+        "19": {
+            "Artist": "T.I.",
+            "Song": "Whatever You Like"
+        },
+        "20": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        }
+    },
+    "42": {
+        "1": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "3": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "4": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "5": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "6": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "7": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "8": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "9": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "10": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "11": {
+            "Artist": "Bo Kaspers Orkester",
+            "Song": "Innan allt fxf6rsvinner"
+        },
+        "12": {
+            "Artist": "Demi Lovato and Joe Jonas",
+            "Song": "This Is Me"
+        },
+        "13": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "14": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "15": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "16": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "17": {
+            "Artist": "Marius Nordheim",
+            "Song": "Gi meg et bilde"
+        },
+        "18": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "19": {
+            "Artist": "Keane",
+            "Song": "The Lovers Are Losing"
+        },
+        "20": {
+            "Artist": "Metallica",
+            "Song": "The Day That Never Comes"
+        }
+    },
+    "43": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "2": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "3": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "5": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "6": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "7": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "8": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "9": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "10": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "11": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "12": {
+            "Artist": "Sarah McLachlan",
+            "Song": "Angel"
+        },
+        "13": {
+            "Artist": "Bo Kaspers Orkester",
+            "Song": "Innan allt fxf6rsvinner"
+        },
+        "14": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "15": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "16": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "17": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "18": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "19": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "20": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        }
+    },
+    "44": {
+        "1": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "2": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "3": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "4": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "6": {
+            "Artist": "Vamp [NO]",
+            "Song": "På bredden"
+        },
+        "7": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "8": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "9": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "10": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "11": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "12": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "13": {
+            "Artist": "Sarah McLachlan",
+            "Song": "Angel"
+        },
+        "14": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "15": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "16": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "17": {
+            "Artist": "Jonas Brothers",
+            "Song": "Burnin' Up"
+        },
+        "18": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "E du den du e"
+        },
+        "19": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "20": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        }
+    },
+    "45": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "3": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "4": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "6": {
+            "Artist": "The Vermut Muffins Music And Football Society",
+            "Song": "Rød, hvit og blå"
+        },
+        "7": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "8": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "9": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "10": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "11": {
+            "Artist": "Vamp [NO]",
+            "Song": "På bredden"
+        },
+        "12": {
+            "Artist": "Jonas Brothers",
+            "Song": "Burnin' Up"
+        },
+        "13": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "14": {
+            "Artist": "Maria Mena",
+            "Song": "All This Time (Pick-Me-Up Song)"
+        },
+        "15": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "16": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "17": {
+            "Artist": "Cyndi Lauper",
+            "Song": "True Colors"
+        },
+        "18": {
+            "Artist": "Bjørn Eidsvåg",
+            "Song": "E du den du e"
+        },
+        "19": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "20": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        }
+    },
+    "46": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "3": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "4": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "6": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "7": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "8": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "9": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "10": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "11": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "12": {
+            "Artist": "Vamp [NO]",
+            "Song": "På bredden"
+        },
+        "13": {
+            "Artist": "Jonas Brothers",
+            "Song": "Burnin' Up"
+        },
+        "14": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "15": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "16": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "17": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "18": {
+            "Artist": "Elton John",
+            "Song": "Rocket Man (I Think It's Going To Be A Long Long Time)"
+        },
+        "19": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "20": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        }
+    },
+    "47": {
+        "1": {
+            "Artist": "Guns N' Roses",
+            "Song": "Chinese Democracy"
+        },
+        "2": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "3": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "4": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "5": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "6": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "7": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "8": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "9": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "10": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "11": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "12": {
+            "Artist": "Coldplay feat. Jay-Z",
+            "Song": "Lost!"
+        },
+        "13": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "14": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        },
+        "15": {
+            "Artist": "P!nk",
+            "Song": "So What"
+        },
+        "16": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "17": {
+            "Artist": "Coldplay",
+            "Song": "Viva la vida"
+        },
+        "18": {
+            "Artist": "Rihanna",
+            "Song": "Disturbia"
+        },
+        "19": {
+            "Artist": "Kanye West",
+            "Song": "Love Lockdown"
+        },
+        "20": {
+            "Artist": "Elton John",
+            "Song": "Rocket Man (I Think It's Going To Be A Long Long Time)"
+        }
+    },
+    "48": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "3": {
+            "Artist": "Guns N' Roses",
+            "Song": "Chinese Democracy"
+        },
+        "4": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "5": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "6": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "7": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "8": {
+            "Artist": "Coldplay feat. Jay-Z",
+            "Song": "Lost!"
+        },
+        "9": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "10": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "11": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "12": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "13": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "14": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "15": {
+            "Artist": "Karpe Diem",
+            "Song": "Fireogtyvegods"
+        },
+        "16": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "17": {
+            "Artist": "Duffy",
+            "Song": "Rain On Your Parade"
+        },
+        "18": {
+            "Artist": "Karpe Diem",
+            "Song": "Stjerner"
+        },
+        "19": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "20": {
+            "Artist": "Erlend Bratland",
+            "Song": "Still Water"
+        }
+    },
+    "49": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "3": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "4": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "5": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "6": {
+            "Artist": "Erik & Kriss",
+            "Song": "Porno"
+        },
+        "7": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "8": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "9": {
+            "Artist": "Jack White & Alicia Keys",
+            "Song": "Another Way To Die"
+        },
+        "10": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "11": {
+            "Artist": "The September When",
+            "Song": "Don't Call The Cops"
+        },
+        "12": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "13": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "14": {
+            "Artist": "Guns N' Roses",
+            "Song": "Chinese Democracy"
+        },
+        "15": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "16": {
+            "Artist": "Kanye West",
+            "Song": "Love Lockdown"
+        },
+        "17": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "18": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "19": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "20": {
+            "Artist": "Boyzone",
+            "Song": "Love You Anyway"
+        }
+    },
+    "50": {
+        "1": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "2": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "3": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "4": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "5": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "6": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "7": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "8": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "9": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "10": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "11": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "12": {
+            "Artist": "Erik & Kriss",
+            "Song": "Porno"
+        },
+        "13": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "14": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Circus"
+        },
+        "16": {
+            "Artist": "Kanye West",
+            "Song": "Love Lockdown"
+        },
+        "17": {
+            "Artist": "T.I. feat. Rihanna",
+            "Song": "Live Your Life"
+        },
+        "18": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "19": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "20": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        }
+    },
+    "51": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "3": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "4": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "6": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "7": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "8": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "9": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "10": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "11": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "12": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "13": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "14": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "15": {
+            "Artist": "Britney Spears",
+            "Song": "Circus"
+        },
+        "16": {
+            "Artist": "Erik & Kriss",
+            "Song": "Porno"
+        },
+        "17": {
+            "Artist": "Henki Kolstad",
+            "Song": "Skomakergata, kjenningsmelodi"
+        },
+        "18": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "19": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "20": {
+            "Artist": "The Pogues feat. Kirsty MacColl",
+            "Song": "Fairytale Of New York"
+        }
+    },
+    "52": {
+        "1": {
+            "Artist": "Beyoncé",
+            "Song": "If I Were A Boy"
+        },
+        "2": {
+            "Artist": "Chris Rea",
+            "Song": "Driving Home For Christmas"
+        },
+        "3": {
+            "Artist": "Lady Gaga",
+            "Song": "Poker Face"
+        },
+        "4": {
+            "Artist": "Mariah Carey",
+            "Song": "All I Want For Christmas Is You"
+        },
+        "5": {
+            "Artist": "Katy Perry",
+            "Song": "Hot N Cold"
+        },
+        "6": {
+            "Artist": "The BlackSheeps",
+            "Song": "Oro jaska, beana"
+        },
+        "7": {
+            "Artist": "Oslo Gospel Choir",
+            "Song": "En stjerne skinner i natt"
+        },
+        "8": {
+            "Artist": "Wham!",
+            "Song": "Last Christmas"
+        },
+        "9": {
+            "Artist": "The Killers",
+            "Song": "Human"
+        },
+        "10": {
+            "Artist": "Guru Josh Project",
+            "Song": "Infinity 2008"
+        },
+        "11": {
+            "Artist": "Katy Perry",
+            "Song": "I Kissed A Girl"
+        },
+        "12": {
+            "Artist": "Marit Larsen",
+            "Song": "If A Song Could Get Me You"
+        },
+        "13": {
+            "Artist": "Madcon",
+            "Song": "Liar"
+        },
+        "14": {
+            "Artist": "Britney Spears",
+            "Song": "Womanizer"
+        },
+        "15": {
+            "Artist": "The Pogues feat. Kirsty MacColl",
+            "Song": "Fairytale Of New York"
+        },
+        "16": {
+            "Artist": "Gabriella Cilmi",
+            "Song": "Sweet About Me"
+        },
+        "17": {
+            "Artist": "The Pussycat Dolls",
+            "Song": "I Hate This Part"
+        },
+        "18": {
+            "Artist": "Lady Gaga feat. Colby O'Donis",
+            "Song": "Just Dance"
+        },
+        "19": {
+            "Artist": "Erik & Kriss",
+            "Song": "Porno"
+        },
+        "20": {
+            "Artist": "Britney Spears",
+            "Song": "Circus"
+        }
+    }
+}
