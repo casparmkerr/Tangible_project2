@@ -18,3 +18,14 @@ Media.get_mrl()
 player.set_media(Media)
 player.play()
 
+
+"""
+solved that pip install click didn’t work: https://stackoverflow.com/questions/49768770/not-able-to-install-python-packages-ssl-tlsv1-alert-protocol-version/49769015#49769015
+
+youtube-dl: https://github.com/rg3/youtube-dl/blob/master/README.md
+
+pafy documentation: https://pythonhosted.org/Pafy/#pafy-objects-and-stream-objects
+
+https://stackoverflow.com/questions/49354232/stream-youtube-audio-from-python-using-url-without-downloading-python
+
+"""
