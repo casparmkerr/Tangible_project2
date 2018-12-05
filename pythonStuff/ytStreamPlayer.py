@@ -9,6 +9,8 @@ url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 audio = pafy.new(url)
 best = audio.getbestaudio()
+print(best.title)
+
 playurl = best.url
 
 Instance = vlc.Instance()
