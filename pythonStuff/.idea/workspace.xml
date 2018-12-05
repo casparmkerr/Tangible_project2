@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe243528-de56-4450-9db5-5b9ca4d0e7a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AudioPlayer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ytStreamPlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ytStreamPlayer.py" afterDir="false" />
-    </list>
+    <list default="true" id="fe243528-de56-4450-9db5-5b9ca4d0e7a4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
